@@ -83,7 +83,7 @@ Key frontmatter values to supply:
 - `status:` — `draft` on first creation; `approved` once signed off
 - `created:` — today's date
 - `review-due:` — maximum 2 years from today
-- `related:` — wikilinks to related policies or procedures in this vault
+- `related:` — Markdown links to related policies or procedures in this vault
 
 ### 6. Review Checklist
 Before saving a final policy:
@@ -96,7 +96,7 @@ Before saving a final policy:
 - [ ] Tone and language standards met
 - [ ] YAML frontmatter complete and valid (all `<placeholder>` values replaced)
 - [ ] `tags:` is a YAML list starting with `policy`
-- [ ] All wikilinks in `related:` use `"[[...]]"` quoted syntax
+- [ ] All links in `related:` use quoted Markdown link syntax (e.g. `"[Note](Note.md)"`)
 
 ### 7. Save Location
 Save completed policies to `/Policies/` in this workspace, using the naming convention:

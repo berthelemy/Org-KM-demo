@@ -1,6 +1,6 @@
 ---
 name: obsidian-markdown
-description: 'Create or update Obsidian-flavoured markdown files with correct YAML frontmatter properties. Use when authoring new notes for Policies, Procedures, Products, or Scripts folders in this vault, or when adding/fixing YAML properties on existing notes. Understands Obsidian property types (text, list, date, link, checkbox), wikilink syntax, tags, aliases, and the bases plugin.'
+description: 'Create or update Obsidian-flavoured markdown files with correct YAML frontmatter properties. Use when authoring new notes for Policies, Procedures, Products, or Scripts folders in this vault, or when adding/fixing YAML properties on existing notes. Understands Obsidian property types (text, list, date, link, checkbox), Markdown link syntax, tags, aliases, and the bases plugin.'
 argument-hint: 'Note type and title, e.g. "Policy: Data Retention" or "Script: Card Payment Handling"'
 ---
 
@@ -10,7 +10,7 @@ argument-hint: 'Note type and title, e.g. "Policy: Data Retention" or "Script: C
 - Creating a new note in `Policies/`, `Procedures/`, `Products/`, or `Scripts/`
 - Adding or correcting YAML frontmatter on an existing note
 - Ensuring notes are queryable via the Obsidian Bases plugin
-- Linking notes together with wikilinks
+- Linking notes together with Markdown links
 
 ## Note Types & Schemas
 
@@ -43,8 +43,8 @@ Copy the relevant template (see table above). Do not leave any template placehol
 - All property names must be **lowercase with hyphens** (no underscores, no camelCase)
 - `tags:` must be a YAML list — never a bare string
 - `date` properties must use **ISO 8601** format: `YYYY-MM-DD`
-- Wikilinks in properties use double-bracket syntax: `"[[Note Title]]"`
-- Multi-value link properties are YAML lists of quoted wikilinks
+- Link properties must use quoted Markdown link syntax: `"[Note Title](Note Title.md)"`
+- Multi-value link properties are YAML lists of quoted Markdown links
 - Leave no property value blank — use `""` for unknown text, `[]` for unknown lists, or omit optional properties entirely
 - `review-due:` must always be set — maximum 2 years from `created:`
 
@@ -75,9 +75,9 @@ Area codes for Policies and Procedures:
 | COMP | Complaints |
 | GEN | General |
 
-### 5. Wikilinks in Body Text
-- Link to related notes using `[[Note Title]]` or `[[Note Title|Display Text]]`
-- Link to headings within a note: `[[Note Title#Section Heading]]`
+### 5. Markdown Links in Body Text
+- Link to related notes using `[Note Title](Note Title.md)` or `[Display Text](Note Title.md)`
+- Link to headings within a note: `[Note Title](Note Title.md#section-heading)`
 - Link to related policies/procedures at the bottom of every note in a **Related** section
 
 ### 6. Tags
@@ -86,14 +86,14 @@ Area codes for Policies and Procedures:
 - Tags must be lowercase, hyphenated — no spaces, no hash symbols in the YAML block
 
 ### 7. Add Link to Welcome Page
-After saving the note, **always** add a wikilink to it in [Welcome.md](../../../Welcome.md).
+After saving the note, **always** add a Markdown link to it in [Welcome.md](../../../Welcome.md).
 
 - Open `Welcome.md`
 - Find the section that matches the note type (`## Procedures`, `## Products`, `## Policies`, or `## Scripts`)
 - For Products, also find the correct sub-heading (e.g. `### Broadband`, `### Mobile`, `### Handsets`) — add a new sub-heading if the category does not yet exist
 - Add a new line in the correct section using the format:
   ```
-  - [[FILENAME|Human Readable Title]]
+  - [Human Readable Title](FILENAME.md)
   ```
 - If the note type section does not exist yet in `Welcome.md`, add it following the existing section pattern
 
@@ -104,7 +104,7 @@ Before saving:
 - [ ] `review-due:` set (≤ 2 years from created)
 - [ ] `status:` is a valid value (not left as placeholder)
 - [ ] `tags:` is a list, not a bare string
-- [ ] All wikilinks reference notes that exist or will exist in this vault
+- [ ] All Markdown links reference notes that exist or will exist in this vault
 - [ ] File name follows the naming convention for the note type
 - [ ] Saved to the correct folder
 - [ ] Link added to the correct section of `Welcome.md`

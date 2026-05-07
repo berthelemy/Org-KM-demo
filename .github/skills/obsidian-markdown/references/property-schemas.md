@@ -12,10 +12,10 @@ Obsidian's Properties panel (and Bases plugin) infers or assigns each property a
 | Checkbox | `true` or `false` | `archived: false` |
 | Date | `YYYY-MM-DD` (quoted or unquoted) | `created: 2026-05-07` |
 | Date & time | `YYYY-MM-DDTHH:mm` | `created: 2026-05-07T09:30` |
-| Link (single) | `"[[Note Title]]"` | `related-policy: "[[ATT Policy]]"` |
-| Links (multiple) | List of `"[[Note Title]]"` | `related:\n  - "[[Note A]]"` |
+| Link (single) | `"[Note Title](Note Title.md)"` | `related-policy: "[ATT Policy](ATT Policy.md)"` |
+| Links (multiple) | List of `"[Note Title](Note Title.md)"` | `related:\n  - "[Note A](Note A.md)"` |
 
-> Always quote wikilink values to prevent YAML parsing errors on the `[` character.
+> Always quote Markdown link values to prevent YAML parsing errors on the `[` character.
 
 ---
 
@@ -32,7 +32,7 @@ Obsidian's Properties panel (and Bases plugin) infers or assigns each property a
 | `created` | date | yes | ISO 8601: `YYYY-MM-DD` |
 | `reviewed` | date | yes | Date of last review; set to `created` date on first draft |
 | `review-due` | date | yes | Must be ≤ 2 years after `created` |
-| `related` | links | optional | List of `"[[Note]]"` wikilinks to related notes |
+| `related` | links | optional | List of `"[Note](Note.md)"` Markdown links to related notes |
 
 ---
 
@@ -59,7 +59,7 @@ tags:
 |---|---|---|---|
 | `area` | text | yes | Same area codes as Policy |
 | `status` | text | yes | `draft` · `review` · `approved` · `retired` |
-| `related-policy` | link | recommended | `"[[Parent Policy Note]]"` — the policy this procedure implements |
+| `related-policy` | link | recommended | `"[Parent Policy Note](Parent Policy Note.md)"` — the policy this procedure implements |
 
 **Tag conventions for procedures:**
 ```yaml
@@ -95,7 +95,7 @@ tags:
 | Property | Type | Required | Valid Values |
 |---|---|---|---|
 | `script-type` | text | yes | `inbound` · `outbound` · `objection-handling` · `complaint` · `transfer` · `verification` · `opening` · `closing` · `upsell` |
-| `product` | link | recommended | `"[[Product Note]]"` — the product this script relates to |
+| `product` | link | recommended | `"[Product Note](Product Note.md)"` — the product this script relates to |
 | `status` | text | yes | `draft` · `approved` · `retired` |
 
 **Tag conventions for scripts:**
@@ -140,4 +140,4 @@ The Bases plugin queries properties as structured data. To ensure notes appear c
 
 - `status`, `area`, `script-type`, `product-type` should be **consistent text values** (not free-text variations)
 - `created`, `reviewed`, `review-due` must be proper **date format** — not text strings
-- Wikilinks in properties must use the `"[[...]]"` format — bare `[[...]]` will not be recognised as a link type by Bases
+- Links in properties must use quoted Markdown link strings such as `"[Note](Note.md)"` — unquoted values may not be recognised as a link type by Bases

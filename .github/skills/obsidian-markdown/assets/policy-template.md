@@ -14,7 +14,7 @@ created: <YYYY-MM-DD>
 reviewed: <YYYY-MM-DD>
 review-due: <YYYY-MM-DD>
 related:
-  - "[[<Related Note>]]"
+  - "[<Related Note>](<Related Note>.md)"
 ---
 
 ## Purpose
@@ -55,4 +55,4 @@ related:
 
 ## Related
 
-- [[<Related Policy or Procedure>]]
+- [<Related Policy or Procedure>](<Related Policy or Procedure>.md)

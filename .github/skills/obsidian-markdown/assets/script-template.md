@@ -6,15 +6,15 @@ tags:
   - script
   - <area-or-product-tag>
 script-type: <inbound|outbound|objection-handling|complaint|transfer|verification|opening|closing|upsell>
-product: "[[<Related Product Note>]]"
+product: "[<Related Product Note>](<Related Product Note>.md)"
 status: approved
 version: "1.0"
 created: <YYYY-MM-DD>
 reviewed: <YYYY-MM-DD>
 review-due: <YYYY-MM-DD>
 related:
-  - "[[<Related Script>]]"
-  - "[[<Related Procedure>]]"
+  - "[<Related Script>](<Related Script>.md)"
+  - "[<Related Procedure>](<Related Procedure>.md)"
 ---
 
 ## Purpose
@@ -47,8 +47,8 @@ related:
 |-------------------|-------|
 | <Response> | <Section or linked script> |
 | <Response> | <Section or linked script> |
-| Wants to cancel | [[<Retention Script>]] |
-| Requests manager | [[<Escalation Procedure>]] |
+| Wants to cancel | [<Retention Script>](<Retention Script>.md) |
+| Requests manager | [<Escalation Procedure>](<Escalation Procedure>.md) |
 
 ## Compliance Notes
 
@@ -58,5 +58,5 @@ related:
 
 ## Related
 
-- [[<Related Product>]]
-- [[<Related Procedure>]]
+- [<Related Product>](<Related Product>.md)
+- [<Related Procedure>](<Related Procedure>.md)

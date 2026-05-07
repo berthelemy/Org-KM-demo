@@ -12,9 +12,9 @@ version: "1.0"
 created: <YYYY-MM-DD>
 reviewed: <YYYY-MM-DD>
 review-due: <YYYY-MM-DD>
-related-policy: "[[<Parent Policy Note>]]"
+related-policy: "[<Parent Policy Note>](<Parent Policy Note>.md)"
 related:
-  - "[[<Related Note>]]"
+  - "[<Related Note>](<Related Note>.md)"
 ---
 
 ## Purpose
@@ -59,5 +59,5 @@ related:
 
 ## Related
 
-- [[<Related Policy>]]
-- [[<Related Procedure>]]
+- [<Related Policy>](<Related Policy>.md)
+- [<Related Procedure>](<Related Procedure>.md)

@@ -11,9 +11,9 @@ launched: <YYYY-MM-DD>
 discontinued: ""
 provider: <Provider or Brand Name>
 related:
-  - "[[<Related Product>]]"
-  - "[[<Relevant Script>]]"
-  - "[[<Relevant Procedure>]]"
+  - "[<Related Product>](<Related Product>.md)"
+  - "[<Relevant Script>](<Relevant Script>.md)"
+  - "[<Relevant Procedure>](<Relevant Procedure>.md)"
 ---
 
 ## Overview
@@ -56,5 +56,5 @@ A: <Answer>
 
 ## Related
 
-- [[<Related Script>]]
-- [[<Related Procedure>]]
+- [<Related Script>](<Related Script>.md)
+- [<Related Procedure>](<Related Procedure>.md)
