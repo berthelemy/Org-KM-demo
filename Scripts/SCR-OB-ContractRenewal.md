@@ -70,7 +70,7 @@ Used when calling customers whose fixed-term contract is due to expire within th
 ## Branching Paths
 
 | Customer Response | Go To |
-|-------------------|-------|
+| ------------------- | ------- |
 | Wants to renew on current plan | Confirm and process renewal in CRM |
 | Wants an upgrade | [SCR-OB-BroadbandUpgrade](SCR-OB-BroadbandUpgrade.md) |
 | Wants to add mobile | [SCR-OB-MobileAddOn](SCR-OB-MobileAddOn.md) |

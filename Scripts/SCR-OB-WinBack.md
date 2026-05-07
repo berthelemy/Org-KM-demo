@@ -68,7 +68,7 @@ Used when calling customers who have previously cancelled a ClearWave service an
 ## Branching Paths
 
 | Customer Response | Go To |
-|-------------------|-------|
+| ------------------- | ------- |
 | Open to coming back | Present appropriate win-back offer from CRM |
 | Price was the issue | Offer win-back promotional price (one-time only) |
 | Service/reliability was the issue | Acknowledge, explain improvements; offer trial |

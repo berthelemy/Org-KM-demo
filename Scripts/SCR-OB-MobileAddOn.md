@@ -69,7 +69,7 @@ Used when calling existing broadband-only customers who have no ClearWave mobile
 ## Branching Paths
 
 | Customer Response | Go To |
-|-------------------|-------|
+| ------------------- | ------- |
 | Wants to think it over | Offer to email an overview; log follow-up in CRM |
 | Asks about handset finance | [PROD-ClearWaveX1ProHandset](../Products/PROD-ClearWaveX1ProHandset.md) · Consumer Credit Act note applies — see Compliance Notes |
 | Wants broadband upgrade at same time | [SCR-OB-BroadbandUpgrade](SCR-OB-BroadbandUpgrade.md) |

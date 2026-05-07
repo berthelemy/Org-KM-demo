@@ -66,7 +66,7 @@ Used when calling existing broadband customers who are on a lower-tier plan (Fib
 ## Branching Paths
 
 | Customer Response | Go To |
-|-------------------|-------|
+| ------------------- | ------- |
 | Wants more time to think | Offer to email a summary; log follow-up in CRM |
 | Already planning to leave | [SCR-OB-WinBack](SCR-OB-WinBack.md) |
 | Asks about adding mobile | [SCR-OB-MobileAddOn](SCR-OB-MobileAddOn.md) |

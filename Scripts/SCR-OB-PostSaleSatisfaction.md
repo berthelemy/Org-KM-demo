@@ -70,7 +70,7 @@ Used 7–14 days after a new customer's service has gone live, or after an exist
 ## Branching Paths
 
 | Customer Response | Go To |
-|-------------------|-------|
+| ------------------- | ------- |
 | All fine, satisfied | Deliver positive close; optionally introduce upsell |
 | Minor issue — can resolve now | Work through [PROC-GEN-CustomerSupport](../Procedures/PROC-GEN-CustomerSupport.md) |
 | Major issue — ongoing fault | Escalate in CRM; create or link support ticket; book callback |

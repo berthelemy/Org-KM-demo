@@ -21,12 +21,13 @@ related:
 ---
 
 ## Purpose
+
 Provide a fair, consistent framework for managing planned and unplanned absence, supporting team members' health while protecting service delivery.
 
 ## Types of Absence
 
 | Type | Examples | Notice Required |
-|------|----------|-----------------|
+| ------ | ---------- | ----------------- |
 | Unplanned sick absence | Illness, injury | Phone call 30 min before shift |
 | Planned medical absence | Hospital, elective procedure | As much notice as possible |
 | Statutory leave | Maternity, paternity, adoption, parental | Statutory notice periods apply |
@@ -35,6 +36,7 @@ Provide a fair, consistent framework for managing planned and unplanned absence,
 | Authorised special leave | Jury duty, military reserve | Documentary evidence required |
 
 ## Short-Term Absence Procedure
+
 1. **Day 1**: Team member phones Team Leader (texts and emails not accepted as first contact)
 2. **Day 4+**: Self-certification form to be completed on return
 3. **Day 8+**: Fit note (GP certificate) required for all subsequent absence days
@@ -42,23 +44,27 @@ Provide a fair, consistent framework for managing planned and unplanned absence,
 5. **Trigger thresholds**: Bradford Factor score or 4+ separate episodes in rolling 12 months → formal review
 
 ## Long-Term Absence (4+ consecutive weeks)
+
 - Week 1–2: Regular welfare contact by Team Leader (minimum weekly)
 - Week 3–4: Occupational Health referral (with employee consent where possible)
 - Week 6+: HR formally involved; phased return plan or capability review
 - Statutory Sick Pay (SSP) and company sick pay entitlements applied per contract
 
 ## Manager Responsibilities
+
 - Never miss a return-to-work interview — document in the HR system
 - Maintain regular, supportive contact during long-term absence
 - Not pressure team members to return before they are fit
 - Identify patterns and escalate to HR at trigger thresholds
 
 ## Employee Responsibilities
+
 - Follow notification procedures on every occasion
 - Provide fit notes promptly when required
 - Attend occupational health appointments when requested
 - Engage genuinely with phased return plans
 
 ## Key Links
+
 - Triggers: [POL-DISC-DisciplinaryAndGrievance](POL-DISC-DisciplinaryAndGrievance.md) (for persistent unexplained absence)
 - Related: [POL-HS-HealthSafetyAndWellbeing](POL-HS-HealthSafetyAndWellbeing.md), [POL-ATT-AttendanceAndPunctuality](POL-ATT-AttendanceAndPunctuality.md)

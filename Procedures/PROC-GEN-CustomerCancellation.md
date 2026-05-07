@@ -53,11 +53,13 @@ All agents handling inbound cancellation requests, retentions, and disconnection
 ## Steps
 
 ### 1. Verify Identity and Locate the Account
+
 - Greet the customer and confirm your name and ClearWave
 - Verify identity: full name, date of birth, and postcode
 - Locate the account in CRM; note all active products and contract status (in-contract end date, or rolling)
 
 ### 2. Acknowledge and Listen
+
 - Acknowledge the cancellation request without challenging it immediately
 - Ask one open question to understand the reason: *"To help me with your request, could I ask what's prompted you to cancel today?"*
 - Listen without interrupting; log the cancellation reason in CRM (use the reason code taxonomy)
@@ -66,19 +68,21 @@ All agents handling inbound cancellation requests, retentions, and disconnection
 ### 3. Determine Cancellation Type
 
 | Type | Criteria | Key Considerations |
-|------|----------|--------------------|
+| ------ | ---------- | -------------------- |
 | Cooling-off cancellation | Within 14 calendar days of contract start | No early termination charge; must be processed immediately on request |
 | End-of-contract cancellation | Contract term complete, or rolling monthly | No charge; 30 days notice standard for monthly rolling products |
 | Mid-contract cancellation | Customer is within a fixed-term contract | Early termination charges apply; must be clearly communicated |
 | Service fault-driven cancellation | Customer citing ongoing unresolved fault | Check CRM for open fault tickets; may be eligible for no-fault exit — see Decision Points |
 
 ### 4. Communicate Charges (Mid-Contract Only)
+
 - If the customer is mid-contract, calculate and clearly state the early termination charge (ETС) before any further discussion
 - Formula: `ETC = remaining months × monthly charge`
 - Do not obscure or delay disclosing the ETC — the customer has a right to know this before making a decision
 - If the ETC is disputed, do not waive it without Team Leader authorisation
 
 ### 5. Make a Retention Offer (Where Appropriate)
+
 - Only make a retention offer **after** understanding the cancellation reason — the offer must be relevant to the reason given
 - Consult the live retention offers tool for current approved offers
 - Present the offer once, clearly and honestly; do not repeat it if the customer declines
@@ -89,7 +93,7 @@ All agents handling inbound cancellation requests, retentions, and disconnection
 **Common retention approaches by reason:**
 
 | Cancellation Reason | Possible Retention Approach |
-|--------------------|-----------------------------|
+| -------------------- | ----------------------------- |
 | Price — too expensive | Check for a lower-tier product (e.g. [PROD-Fibre100Broadband](../Products/PROD-Fibre100Broadband.md) vs [PROD-Fibre500Broadband](../Products/PROD-Fibre500Broadband.md)); offer a loyalty discount if available |
 | Moving house | Check if ClearWave coverage is available at the new address; offer a house move transfer |
 | Unhappy with speed / service | Check for unresolved fault tickets; offer an engineer visit or temporary credit |
@@ -121,6 +125,7 @@ All agents handling inbound cancellation requests, retentions, and disconnection
 - Log in CRM as `CANCEL-MID-CONTRACT`
 
 ### 7. Confirm and Close
+
 - Confirm the cancellation details in writing: service end date, any charges, equipment return requirements
 - OMS will trigger an automated confirmation email — advise the customer to expect it within 1 hour
 - Ask if there is anything else the customer needs
@@ -132,7 +137,7 @@ All agents handling inbound cancellation requests, retentions, and disconnection
 ## Decision Points
 
 | Situation | Action |
-|-----------|--------|
+| ----------- | -------- |
 | Customer is within cooling-off period | Process immediately; no ETC; no retention pressure |
 | Customer cites an unresolved service fault as reason | Check CRM for open tickets; if a fault is open for >14 days, escalate to Team Leader — customer may be eligible for a no-fault contract exit |
 | Customer requests a PAC or STAC code | Provide within 1 working day (legal obligation); log request in CRM |

@@ -43,7 +43,7 @@ Fibre 100 is ClearWave's entry-level full-fibre broadband product, designed for 
 ## Pricing & Terms
 
 | Item | Amount |
-|------|--------|
+| ------ | -------- |
 | Monthly charge (24-month) | £28.00 |
 | Monthly charge (18-month) | £32.00 |
 | Upfront activation fee | £0.00 |
@@ -78,7 +78,7 @@ A: If the customer's actual speed is consistently below the minimum guaranteed s
 ## Common Objections
 
 | Objection | Suggested Response |
-|-----------|-------------------|
+| ----------- | ------------------- |
 | "It's too expensive" | Fibre 100 is our most affordable full-fibre option. Unlike cheaper copper-based products, the speed is consistent and doesn't degrade with distance from the exchange. Would you like me to check if there's a current promotion? |
 | "I don't need that speed" | For a household with even one person streaming in HD and another browsing, 100 Mbps means no buffering or slowdowns. It's the right foundation even for lighter users. |
 | "The contract is too long" | We do offer an 18-month term — the monthly cost is slightly higher, but there's less commitment. I can quote both so you can compare. |

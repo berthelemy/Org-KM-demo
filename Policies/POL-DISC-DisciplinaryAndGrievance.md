@@ -23,6 +23,7 @@ related:
 ---
 
 ## Purpose
+
 Provide a fair, transparent process for addressing misconduct and for team members to raise workplace concerns.
 
 ---
@@ -30,6 +31,7 @@ Provide a fair, transparent process for addressing misconduct and for team membe
 ## Disciplinary Procedure
 
 ### Principles
+
 - Investigations are carried out before any formal sanction is issued
 - Team members have the right to be accompanied at every formal stage (trade union rep or workplace colleague)
 - No two stages can be skipped (except for gross misconduct)
@@ -38,7 +40,7 @@ Provide a fair, transparent process for addressing misconduct and for team membe
 ### Stages
 
 | Stage | Outcome | Duration on Record |
-|-------|---------|--------------------|
+| ------- | --------- | -------------------- |
 | Informal discussion | No formal sanction | Not formally recorded |
 | Stage 1 — Verbal Warning | Formal verbal warning | 6 months |
 | Stage 2 — First Written Warning | Written warning | 12 months |
@@ -46,6 +48,7 @@ Provide a fair, transparent process for addressing misconduct and for team membe
 | Stage 4 — Dismissal | Dismissal (with or without notice) | N/A |
 
 ### Gross Misconduct
+
 Gross misconduct may result in **summary dismissal** (dismissal without notice) following a thorough investigation. Examples include:
 - Fraud or deliberate data breach
 - Physical violence or serious threats
@@ -54,6 +57,7 @@ Gross misconduct may result in **summary dismissal** (dismissal without notice) 
 - Serious or sustained bullying/harassment
 
 ### Investigation Process
+
 1. Appoint an **Investigating Manager** (not the team member's direct line manager where possible)
 2. Suspend the team member on full pay if required to protect the investigation
 3. Gather evidence: call recordings, system logs, witness statements
@@ -66,21 +70,24 @@ Gross misconduct may result in **summary dismissal** (dismissal without notice) 
 ## Grievance Procedure
 
 ### When to Use
+
 A team member who has a complaint about their working conditions, treatment by colleagues or management, or any workplace matter should raise a grievance.
 
 ### Stages
 
 | Stage | Description |
-|-------|-------------|
+| ------- | ------------- |
 | Informal | Raise with direct Team Leader; aim to resolve within 5 working days |
 | Formal Stage 1 | Written grievance submitted to HR; hearing within 10 working days |
 | Formal Stage 2 — Appeal | Appeal to senior manager if outcome not accepted; hearing within 10 working days |
 
 ### Key Principles
+
 - Grievances are treated confidentially
 - The person raising the grievance will not be victimised or disadvantaged
 - Where the grievance is against the direct line manager, it is escalated directly to HR
 
 ## Key Links
+
 - Triggers from: [POL-ATT-AttendanceAndPunctuality](POL-ATT-AttendanceAndPunctuality.md), [POL-CON-CodeOfConduct](POL-CON-CodeOfConduct.md), [POL-PERF-PerformanceManagement](POL-PERF-PerformanceManagement.md), [POL-ABS-AbsenceAndSickness](POL-ABS-AbsenceAndSickness.md)
 - Related: [POL-EDI-EqualityDiversityInclusion](POL-EDI-EqualityDiversityInclusion.md) (for harassment/bullying grievances)

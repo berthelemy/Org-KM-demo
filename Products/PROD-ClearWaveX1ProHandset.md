@@ -48,14 +48,14 @@ The ClearWave X1 Pro is ClearWave Mobile's premium Android flagship handset, ava
 **With 24-month SIM plan (Unlimited 5G recommended):**
 
 | Bundle | Monthly SIM | Monthly Handset | Total Monthly | Upfront |
-|--------|-------------|-----------------|---------------|---------|
+| -------- | ------------- | ----------------- | --------------- | --------- |
 | Unlimited 5G + X1 Pro | £22.00 | £30.00 | £52.00 | £0.00 |
 | 10 GB 5G + X1 Pro | £12.00 | £30.00 | £42.00 | £49.00 |
 
 **Handset standalone:**
 
 | Option | Price |
-|--------|-------|
+| -------- | ------- |
 | Full outright price | £799.00 |
 | Finance (0% APR, 24 months) | £33.29/month |
 
@@ -86,7 +86,7 @@ A: Handsets sold on contract are network-locked to ClearWave for the first 6 mon
 ## Common Objections
 
 | Objection | Suggested Response |
-|-----------|-------------------|
+| ----------- | ------------------- |
 | "It's too expensive" | Spread over 24 months, the handset cost is £30/month — less than many customers spend on coffee each week. It's also a 0% finance option, so there's no interest at all. |
 | "I don't need a flagship phone" | That's fair — our [PROD-ClearWaveX1HandsetBudget](PROD-ClearWaveX1HandsetBudget.md) gives you 5G and a great everyday experience at a significantly lower price. |
 | "I'll just buy unlocked from elsewhere" | Absolutely possible. If you bring your own handset, you can pair it with one of our SIM-only plans and often save money overall. |

@@ -46,7 +46,7 @@ ClearWave Home Phone is a VoIP (Voice over IP) landline service delivered over C
 ## Pricing & Terms
 
 | Item | Amount |
-|------|--------|
+| ------ | -------- |
 | Monthly add-on charge | £5.00/month |
 | International calls | From £0.05/min (see rate card) |
 | Premium rate calls (09xx) | Blocked by default; can be enabled on request |
@@ -78,7 +78,7 @@ A: Yes — the unlimited calls allowance includes UK mobile numbers as well as l
 ## Common Objections
 
 | Objection | Suggested Response |
-|-----------|-------------------|
+| ----------- | ------------------- |
 | "I don't use a landline anymore" | For just £5/month added to your broadband, it's a useful backup and keeps the number active. Some customers also find it valuable for reducing mobile usage at home. |
 | "What if the power goes out?" | That's an important point — VoIP won't work in a power cut unless you have a UPS. We provide guidance on this and it's worth having a mobile charged as a backup. |
 | "Will my alarm or telecare device work?" | We'd want to check compatibility before confirming that. Can I take the model details and run a compatibility check? |

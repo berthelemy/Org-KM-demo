@@ -54,18 +54,20 @@ All customer-facing support agents handling inbound contacts (voice, chat, email
 ## Steps
 
 ### 1. Verify Identity and Open the Contact
+
 - Greet the customer and confirm your name and ClearWave
 - Verify identity: full name, date of birth, and postcode before accessing or discussing the account
 - Log the contact in CRM immediately with contact channel and initial reason code
 - Check for any open tickets, recent contacts, or flags on the account (e.g. active fault, complaint, vulnerability flag) before the customer explains their issue
 
 ### 2. Understand the Issue
+
 - Allow the customer to explain their issue fully before responding
 - Ask clarifying questions only when necessary — do not interrupt
 - Categorise the contact type:
 
 | Contact Type | Description |
-|---|---|
+| --- | --- |
 | General query | Account information, billing question, product query |
 | Service fault | Broadband outage/slow speed, mobile signal issue, home phone fault |
 | Billing dispute | Incorrect charge, Direct Debit issue, disputed ETC |
@@ -79,7 +81,7 @@ For straightforward account, billing, or product questions:
 - Use the relevant product note for product-specific information:
 
 | Product | Note |
-|---------|------|
+| --------- | ------ |
 | Fibre broadband | [PROD-Fibre100Broadband](../Products/PROD-Fibre100Broadband.md), [PROD-Fibre500Broadband](../Products/PROD-Fibre500Broadband.md), [PROD-Fibre1000Broadband](../Products/PROD-Fibre1000Broadband.md) |
 | SIM only | [PROD-SIMOnly10GB5G](../Products/PROD-SIMOnly10GB5G.md), [PROD-SIMOnlyUnlimited5G](../Products/PROD-SIMOnlyUnlimited5G.md) |
 | Mobile broadband | [PROD-MobileBroadband5G](../Products/PROD-MobileBroadband5G.md) |
@@ -123,6 +125,7 @@ For straightforward account, billing, or product questions:
 - If the fault is on ClearWave's network or equipment: no charge
 
 ### 5. Billing Dispute Handling
+
 - Pull up the customer's bill in the billing system and review the queried charge with the customer
 - For direct debit failures or missed payments: check the reason code; do not lecture the customer; offer a payment arrangement if the account is in arrears
 - For disputed charges:
@@ -166,7 +169,7 @@ A contact becomes a **formal complaint** when:
 ## Decision Points
 
 | Situation | Action |
-|-----------|--------|
+| ----------- | -------- |
 | Known network outage in the customer's area | Inform; provide ticket ref and ETA; do not troubleshoot at agent level |
 | Customer is in evident distress or vulnerability | Slow down; offer extra time; apply vulnerability flag to CRM; escalate if risk to welfare |
 | Customer is abusive | Follow [POL-CON-CodeOfConduct](../Policies/POL-CON-CodeOfConduct.md); two verbal warnings permitted; call may be ended; log in CRM |

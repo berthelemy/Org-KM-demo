@@ -44,7 +44,7 @@ The ClearWave Mobile SIM Only 10GB 5G Plan is a monthly rolling SIM-only contrac
 ## Pricing & Terms
 
 | Item | Amount |
-|------|--------|
+| ------ | -------- |
 | Monthly charge | £12.00/month |
 | Out-of-bundle data (UK) | £3.00 per additional 1 GB |
 | EU roaming out-of-bundle | £0.03/MB (after 5 GB allowance) |
@@ -80,7 +80,7 @@ A: Yes — unused data rolls over to the following month only. It is used after 
 ## Common Objections
 
 | Objection | Suggested Response |
-|-----------|-------------------|
+| ----------- | ------------------- |
 | "10 GB isn't enough" | Our usage data shows 10 GB comfortably covers customers who primarily use Wi-Fi at home and work. If you'd like more flexibility, our [PROD-SIMOnlyUnlimited5G](PROD-SIMOnlyUnlimited5G.md) plan removes the worry entirely. |
 | "I don't want to be tied in" | This is a monthly rolling contract — you can cancel with just 30 days' notice. There's no long-term commitment. |
 | "My current plan is cheaper" | That may be on an older network. Our 10 GB plan includes 5G access and EU roaming at no extra cost, which many legacy plans charge separately for. |

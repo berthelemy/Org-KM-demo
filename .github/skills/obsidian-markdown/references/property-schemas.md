@@ -5,7 +5,7 @@
 Obsidian's Properties panel (and Bases plugin) infers or assigns each property a type. Use the right value format to ensure correct typing.
 
 | Obsidian Type | YAML Format | Example |
-|---|---|---|
+| --- | --- | --- |
 | Text | Bare string or quoted string | `owner: HR Team` |
 | List | YAML list (`- item`) | `tags:\n  - policy` |
 | Number | Unquoted number | `version: 1` |
@@ -22,7 +22,7 @@ Obsidian's Properties panel (and Bases plugin) infers or assigns each property a
 ## Shared Properties (All Note Types)
 
 | Property | Type | Required | Valid Values / Notes |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | `title` | text | yes | Human-readable title; may differ from filename |
 | `aliases` | list | optional | Alternative names; used by Obsidian switcher |
 | `tags` | list | yes | See tag conventions below |
@@ -39,11 +39,12 @@ Obsidian's Properties panel (and Bases plugin) infers or assigns each property a
 ## Policy Properties
 
 | Property | Type | Required | Valid Values |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | `area` | text | yes | `attendance` · `conduct` · `performance` · `absence` · `disciplinary` · `data-protection` · `schedule-adherence` · `health-safety` · `edi` · `acceptable-use` · `general` |
 | `status` | text | yes | `draft` · `review` · `approved` · `retired` |
 
 **Tag conventions for policies:**
+
 ```yaml
 tags:
   - policy
@@ -56,12 +57,13 @@ tags:
 ## Procedure Properties
 
 | Property | Type | Required | Valid Values |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | `area` | text | yes | Same area codes as Policy |
 | `status` | text | yes | `draft` · `review` · `approved` · `retired` |
 | `related-policy` | link | recommended | `"[Parent Policy Note](Parent Policy Note.md)"` — the policy this procedure implements |
 
 **Tag conventions for procedures:**
+
 ```yaml
 tags:
   - procedure
@@ -73,7 +75,7 @@ tags:
 ## Product Properties
 
 | Property | Type | Required | Valid Values |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | `product-type` | text | yes | `insurance` · `savings` · `loan` · `current-account` · `investment` · `utility` · `telecoms` · `other` |
 | `status` | text | yes | `active` · `discontinued` · `coming-soon` · `suspended` |
 | `launched` | date | yes | Date product became available |
@@ -81,6 +83,7 @@ tags:
 | `provider` | text | yes | Brand or provider name |
 
 **Tag conventions for products:**
+
 ```yaml
 tags:
   - product
@@ -93,12 +96,13 @@ tags:
 ## Script Properties
 
 | Property | Type | Required | Valid Values |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | `script-type` | text | yes | `inbound` · `outbound` · `objection-handling` · `complaint` · `transfer` · `verification` · `opening` · `closing` · `upsell` |
 | `product` | link | recommended | `"[Product Note](Product Note.md)"` — the product this script relates to |
 | `status` | text | yes | `draft` · `approved` · `retired` |
 
 **Tag conventions for scripts:**
+
 ```yaml
 tags:
   - script
@@ -116,6 +120,7 @@ tags:
 - Subsequent tags add area/topic context — these power the Bases plugin filters
 
 ### Example: approved HR policy
+
 ```yaml
 tags:
   - policy
@@ -124,6 +129,7 @@ tags:
 ```
 
 ### Example: active inbound sales script
+
 ```yaml
 tags:
   - script

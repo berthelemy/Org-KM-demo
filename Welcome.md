@@ -14,8 +14,6 @@ reviewed: 2026-05-07
 review-due: 2028-05-07
 ---
 
-# ClearWave Knowledge Base
-
 Welcome to the ClearWave agent knowledge base. Use the links below to navigate to any policy, procedure, product, or script.
 
 ---
@@ -36,17 +34,20 @@ Step-by-step operational guides for agents.
 Product information, pricing, FAQs, and objection handling.
 
 ### Broadband
+
 - [Fibre 100 Broadband](Products/PROD-Fibre100Broadband.md)
 - [Fibre 500 Broadband](Products/PROD-Fibre500Broadband.md)
 - [Fibre 1000 Broadband (Gigabit)](Products/PROD-Fibre1000Broadband.md)
 - [Home Phone (VoIP)](Products/PROD-HomePhone.md)
 
 ### Mobile
+
 - [SIM Only - 10GB 5G Plan](Products/PROD-SIMOnly10GB5G.md)
 - [SIM Only - Unlimited 5G Plan](Products/PROD-SIMOnlyUnlimited5G.md)
 - [Mobile Broadband 5G](Products/PROD-MobileBroadband5G.md)
 
 ### Handsets
+
 - [ClearWave X1 Pro Handset](Products/PROD-ClearWaveX1ProHandset.md)
 - [ClearWave X1 Handset (Budget)](Products/PROD-ClearWaveX1HandsetBudget.md)
 
@@ -57,18 +58,21 @@ Product information, pricing, FAQs, and objection handling.
 HR and operational policies that govern agent conduct and working practices.
 
 ### Attendance & Performance
+
 - [Attendance & Punctuality](Policies/POL-ATT-AttendanceAndPunctuality.md)
 - [Absence & Sickness](Policies/POL-ABS-AbsenceAndSickness.md)
 - [Performance Management](Policies/POL-PERF-PerformanceManagement.md)
 - [Schedule Adherence](Policies/POL-SCH-ScheduleAdherence.md)
 
 ### Conduct & Compliance
+
 - [Code of Conduct](Policies/POL-CON-CodeOfConduct.md)
 - [Data Protection & GDPR](Policies/POL-DP-DataProtectionAndGDPR.md)
 - [Acceptable Use of Technology](Policies/POL-AU-AcceptableUseOfTechnology.md)
 - [Equality, Diversity & Inclusion](Policies/POL-EDI-EqualityDiversityInclusion.md)
 
 ### Disciplinary & Wellbeing
+
 - [Disciplinary & Grievance](Policies/POL-DISC-DisciplinaryAndGrievance.md)
 - [Health, Safety & Wellbeing](Policies/POL-HS-HealthSafetyAndWellbeing.md)
 
@@ -79,6 +83,7 @@ HR and operational policies that govern agent conduct and working practices.
 Outbound call scripts for agents.
 
 ### Outbound
+
 - [Outbound - Broadband Upgrade Offer](Scripts/SCR-OB-BroadbandUpgrade.md)
 - [Outbound - Mobile Add-On Offer](Scripts/SCR-OB-MobileAddOn.md)
 - [Outbound - Contract Renewal](Scripts/SCR-OB-ContractRenewal.md)

@@ -51,6 +51,7 @@ All agents in the onboarding team handling post-sale customer contacts for new b
 ## Steps
 
 ### 1. Verify Identity and Locate the Account
+
 - Greet the customer and confirm your name and ClearWave
 - Verify identity: full name, date of birth, and postcode
 - Locate the customer record in CRM; confirm the order reference and product(s) purchased
@@ -89,6 +90,7 @@ All agents in the onboarding team handling post-sale customer contacts for new b
 - If the customer has a telecare/medical alarm device: confirm the compatibility check was completed during sale; if not, initiate it now before the service goes live
 
 ### 3. Explain Account Management
+
 - Direct the customer to the MyClearWave online account portal and mobile app
 - Explain what they can do in self-serve:
   - View and pay bills
@@ -99,22 +101,26 @@ All agents in the onboarding team handling post-sale customer contacts for new b
 - Confirm the customer's registered email address for bill notifications and correspondence
 
 ### 4. Set Expectations on Billing
+
 - Explain when the first bill will be generated (typically within 30 days of activation; may include a pro-rata first charge)
 - Confirm the Direct Debit date
 - Advise where to find itemised billing in the MyClearWave portal
 - Mention that a paper bill is available on request (subject to a £1.50/month charge)
 
 ### 5. Offer a Proactive Support Prompt
+
 - Ask if the customer has any questions about their order or products
 - For broadband customers: offer to note any specific concerns for the installation engineer (e.g. preferred router placement, known access issues)
 - For mobile customers: offer to walk through the SIM activation steps if needed
 
 ### 6. Check for Cooling-Off Intent
+
 - If the customer mentions second thoughts or mentions cancelling within the first 14 days, do not immediately process the cancellation
 - Acknowledge their concern, listen actively, and offer to resolve the issue first
 - If they wish to proceed with cancellation within the cooling-off period, follow [PROC-GEN-CustomerCancellation](PROC-GEN-CustomerCancellation.md)
 
 ### 7. Close and Log
+
 - Summarise next steps and the customer's expected go-live date
 - Log all contact in CRM with outcome code: `ONBOARDING-COMPLETE` or `ONBOARDING-PENDING-ISSUE`
 - If any issues were identified (e.g. delayed installation, missing equipment), create a follow-up task in CRM with a resolution date
@@ -124,7 +130,7 @@ All agents in the onboarding team handling post-sale customer contacts for new b
 ## Decision Points
 
 | Situation | Action |
-|-----------|--------|
+| ----------- | -------- |
 | Installation appointment not yet booked in OMS | Advise the customer; book the appointment or escalate to provisioning team |
 | SIM not dispatched within 3 working days of order | Raise a dispatch query with the fulfilment team; do not ask the customer to wait longer |
 | Customer has telecare/medical alarm device and compatibility not checked | Do not allow the home phone service to go live until check is completed |

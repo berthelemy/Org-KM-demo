@@ -46,7 +46,7 @@ The ClearWave Mobile SIM Only Unlimited 5G Plan offers truly unlimited data, cal
 ## Pricing & Terms
 
 | Item | Rolling monthly | 12-month |
-|------|----------------|----------|
+| ------ | ---------------- | ---------- |
 | Monthly charge | £28.00 | £22.00 |
 | EU roaming out-of-bundle | £0.03/MB (after 25 GB) | £0.03/MB |
 | International calls | From £0.05/min | From £0.05/min |
@@ -82,7 +82,7 @@ A: Yes, with no separate data cap. Customers can share their mobile data with ot
 ## Common Objections
 
 | Objection | Suggested Response |
-|-----------|-------------------|
+| ----------- | ------------------- |
 | "It's more expensive than my current deal" | Can I ask if your current plan is truly unlimited with no throttling? Many "unlimited" plans on the market reduce speeds after 20–40 GB. Ours has no cap at all, and 5G is included. |
 | "I don't use enough data to justify it" | If you're often on Wi-Fi at home, our [PROD-SIMOnly10GB5G](PROD-SIMOnly10GB5G.md) at £12/month might be a better fit. The Unlimited plan works best for customers who use their phone heavily on the go or as their main connection. |
 | "I want the rolling option but the price is high" | The 12-month plan saves you £72 over the year. If you're likely to keep the SIM for a year anyway, it's worth locking in the lower price. |

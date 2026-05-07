@@ -47,7 +47,7 @@ Fibre 1000 is ClearWave's flagship gigabit broadband product, delivering symmetr
 ## Pricing & Terms
 
 | Item | Amount |
-|------|--------|
+| ------ | -------- |
 | Monthly charge (24-month) | £52.00 |
 | Monthly charge (18-month) | £58.00 |
 | Upfront activation fee | £0.00 |
@@ -83,7 +83,7 @@ A: The Pro model supports Wi-Fi 6E (including the 6 GHz band), is tri-band, and 
 ## Common Objections
 
 | Objection | Suggested Response |
-|-----------|-------------------|
+| ----------- | ------------------- |
 | "No one needs 1 Gbps at home" | You're right that most activities don't need it alone — but when 8–10 devices are all using the connection simultaneously, a gigabit line means everyone gets what they need with headroom to spare. |
 | "It's significantly more expensive than Fibre 100" | It's £24 more per month — less than a streaming subscription. For a household where the internet is essential for work, study, and entertainment, it's often the most-used utility in the home. |
 | "I'm happy with what I have" | That's great to hear. If your needs change — particularly around working from home or a growing household — we can upgrade mid-contract. |

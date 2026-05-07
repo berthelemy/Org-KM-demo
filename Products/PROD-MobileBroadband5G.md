@@ -45,7 +45,7 @@ ClearWave Mobile Broadband 5G provides portable internet access via a 5G MiFi de
 ## Pricing & Terms
 
 | Item | 24-month | Rolling monthly |
-|------|----------|----------------|
+| ------ | ---------- | ---------------- |
 | Monthly charge | £30.00 | £38.00 |
 | Device upfront cost | £0.00 | £49.00 |
 | Out-of-bundle data (UK) | £3.00/GB | £3.00/GB |
@@ -83,7 +83,7 @@ A: The SIM is locked to the MiFi Hub device during the initial contract term. On
 ## Common Objections
 
 | Objection | Suggested Response |
-|-----------|-------------------|
+| ----------- | ------------------- |
 | "100 GB will run out" | A data cap alert will let you know when you're approaching your limit, and you can add data or upgrade your plan at any point. For customers who need more, we'd recommend the [PROD-SIMOnlyUnlimited5G](PROD-SIMOnlyUnlimited5G.md) on a compatible router. |
 | "I'd rather have proper broadband" | If fibre is available at your address, a [PROD-Fibre100Broadband](PROD-Fibre100Broadband.md) plan will generally offer faster, more consistent speeds for home use. Mobile Broadband 5G is best suited to customers on the move or where fixed-line isn't a good option. |
 | "The device looks bulky" | The MiFi Hub 5G is pocket-sized — roughly the same dimensions as a large smartphone. It's designed to slip into a bag or jacket pocket. |

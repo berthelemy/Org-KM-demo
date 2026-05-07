@@ -43,7 +43,7 @@ Fibre 500 is ClearWave's mid-tier full-fibre broadband product, suited to busy h
 ## Pricing & Terms
 
 | Item | Amount |
-|------|--------|
+| ------ | -------- |
 | Monthly charge (24-month) | £38.00 |
 | Monthly charge (18-month) | £43.00 |
 | Upfront activation fee | £0.00 |
@@ -78,7 +78,7 @@ A: Fibre 500 and Fibre 1000 customers bypass the standard support queue and are 
 ## Common Objections
 
 | Objection | Suggested Response |
-|-----------|-------------------|
+| ----------- | ------------------- |
 | "I'm already on Fibre 100 — why would I upgrade?" | If you've noticed slowdowns when several people are online at once, 500 Mbps will eliminate that. The upload speed improvement is also significant if anyone in the household works from home on video calls. |
 | "The price jump isn't worth it" | For £10 more per month you're getting five times the speed and priority support. That works out to around 33p a day. |
 | "I don't have that many devices" | It's worth checking — the average UK household now has 10+ connected devices including smart TVs, phones, tablets, and smart home gadgets. |
