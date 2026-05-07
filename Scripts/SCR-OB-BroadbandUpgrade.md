@@ -8,18 +8,18 @@ tags:
   - broadband
   - upsell
 script-type: outbound
-product: "[[PROD-Fibre500Broadband]]"
+product: "[PROD-Fibre500Broadband](../Products/PROD-Fibre500Broadband.md)"
 status: approved
 version: "1.0"
 created: 2026-05-07
 reviewed: 2026-05-07
 review-due: 2028-05-07
 related:
-  - "[[SCR-OB-ContractRenewal]]"
-  - "[[PROC-GEN-SalesProcedure]]"
-  - "[[PROD-Fibre100Broadband]]"
-  - "[[PROD-Fibre500Broadband]]"
-  - "[[PROD-Fibre1000Broadband]]"
+  - "[SCR-OB-ContractRenewal](SCR-OB-ContractRenewal.md)"
+  - "[PROC-GEN-SalesProcedure](../Procedures/PROC-GEN-SalesProcedure.md)"
+  - "[PROD-Fibre100Broadband](../Products/PROD-Fibre100Broadband.md)"
+  - "[PROD-Fibre500Broadband](../Products/PROD-Fibre500Broadband.md)"
+  - "[PROD-Fibre1000Broadband](../Products/PROD-Fibre1000Broadband.md)"
 ---
 
 ## Purpose
@@ -31,7 +31,7 @@ Used when calling existing broadband customers who are on a lower-tier plan (Fib
 - Confirm the customer's current plan and monthly charge in the CRM
 - Check upgrade eligibility: customer must be ≥ 6 months into their current contract
 - Note any previous contact or objections logged against the account
-- Have the Fibre 500 and Fibre 1000 pricing to hand: [[PROD-Fibre500Broadband]] · [[PROD-Fibre1000Broadband]]
+- Have the Fibre 500 and Fibre 1000 pricing to hand: [PROD-Fibre500Broadband](../Products/PROD-Fibre500Broadband.md) · [PROD-Fibre1000Broadband](../Products/PROD-Fibre1000Broadband.md)
 - Do **not** call customers flagged as vulnerable without a manager briefing first
 
 ---
@@ -68,17 +68,17 @@ Used when calling existing broadband customers who are on a lower-tier plan (Fib
 | Customer Response | Go To |
 |-------------------|-------|
 | Wants more time to think | Offer to email a summary; log follow-up in CRM |
-| Already planning to leave | [[SCR-OB-WinBack]] |
-| Asks about adding mobile | [[SCR-OB-MobileAddOn]] |
-| Contract renewal question | [[SCR-OB-ContractRenewal]] |
-| Requests manager or complains | [[PROC-GEN-CustomerSupport]] |
-| Wants to cancel current plan | [[PROC-GEN-CustomerCancellation]] |
+| Already planning to leave | [SCR-OB-WinBack](SCR-OB-WinBack.md) |
+| Asks about adding mobile | [SCR-OB-MobileAddOn](SCR-OB-MobileAddOn.md) |
+| Contract renewal question | [SCR-OB-ContractRenewal](SCR-OB-ContractRenewal.md) |
+| Requests manager or complains | [PROC-GEN-CustomerSupport](../Procedures/PROC-GEN-CustomerSupport.md) |
+| Wants to cancel current plan | [PROC-GEN-CustomerCancellation](../Procedures/PROC-GEN-CustomerCancellation.md) |
 
 ## Compliance Notes
 
 - **Do not misrepresent current pricing** — always confirm the customer's actual current charge from CRM before quoting savings
 - **Cooling-off period must be communicated** before every sale (Consumer Contracts Regulations 2013)
-- **Key Facts Indicator (KFI)** must be read or emailed for every new contract — see [[PROC-GEN-SalesProcedure]] step 6
+- **Key Facts Indicator (KFI)** must be read or emailed for every new contract — see [PROC-GEN-SalesProcedure](../Procedures/PROC-GEN-SalesProcedure.md) step 6
 - Do **not** describe speed tiers as "guaranteed" — use "up to" language in line with Ofcom advertising guidance
 - If the customer asks why they are being called, confirm this is a proactive outbound offer and that they may opt out of marketing calls at any time
 - Log outcome in CRM: `UPGRADE-ACCEPTED`, `UPGRADE-DECLINED`, or `CALLBACK-REQUESTED`
@@ -87,9 +87,9 @@ Used when calling existing broadband customers who are on a lower-tier plan (Fib
 
 ## Related
 
-- [[PROD-Fibre100Broadband]]
-- [[PROD-Fibre500Broadband]]
-- [[PROD-Fibre1000Broadband]]
-- [[PROC-GEN-SalesProcedure]]
-- [[SCR-OB-ContractRenewal]]
-- [[SCR-OB-MobileAddOn]]
+- [PROD-Fibre100Broadband](../Products/PROD-Fibre100Broadband.md)
+- [PROD-Fibre500Broadband](../Products/PROD-Fibre500Broadband.md)
+- [PROD-Fibre1000Broadband](../Products/PROD-Fibre1000Broadband.md)
+- [PROC-GEN-SalesProcedure](../Procedures/PROC-GEN-SalesProcedure.md)
+- [SCR-OB-ContractRenewal](SCR-OB-ContractRenewal.md)
+- [SCR-OB-MobileAddOn](SCR-OB-MobileAddOn.md)

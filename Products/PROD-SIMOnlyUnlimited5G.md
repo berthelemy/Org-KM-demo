@@ -17,8 +17,8 @@ launched: 2024-03-01
 discontinued: ""
 provider: ClearWave Mobile
 related:
-  - "[[PROD-SIMOnly10GB5G]]"
-  - "[[PROD-MobileBroadband5G]]"
+  - "[PROD-SIMOnly10GB5G](PROD-SIMOnly10GB5G.md)"
+  - "[PROD-MobileBroadband5G](PROD-MobileBroadband5G.md)"
 ---
 
 ## Overview
@@ -71,7 +71,7 @@ The ClearWave Mobile SIM Only Unlimited 5G Plan offers truly unlimited data, cal
 A: Yes. ClearWave does not impose a fair-use throttle on UK data for the Unlimited 5G Plan. Customers may notice normal network management during peak congestion; 12-month plan customers receive priority access to reduce this.
 
 **Q: Can I use this as a home broadband replacement?**
-A: Many customers do, particularly in areas where fixed-line broadband is slower or unavailable. For a typical household using streaming, browsing, and video calls, the Unlimited 5G Plan can serve as a primary connection. For very heavy usage (4K gaming, large uploads), a dedicated [[PROD-Fibre100Broadband]] or higher product would be more consistent.
+A: Many customers do, particularly in areas where fixed-line broadband is slower or unavailable. For a typical household using streaming, browsing, and video calls, the Unlimited 5G Plan can serve as a primary connection. For very heavy usage (4K gaming, large uploads), a dedicated [PROD-Fibre100Broadband](PROD-Fibre100Broadband.md) or higher product would be more consistent.
 
 **Q: What's the difference between the rolling and 12-month option?**
 A: The 12-month option saves £6.00/month (£72 over the year) and includes priority network access. The rolling option offers full flexibility with 30 days notice to cancel.
@@ -84,13 +84,13 @@ A: Yes, with no separate data cap. Customers can share their mobile data with ot
 | Objection | Suggested Response |
 |-----------|-------------------|
 | "It's more expensive than my current deal" | Can I ask if your current plan is truly unlimited with no throttling? Many "unlimited" plans on the market reduce speeds after 20–40 GB. Ours has no cap at all, and 5G is included. |
-| "I don't use enough data to justify it" | If you're often on Wi-Fi at home, our [[PROD-SIMOnly10GB5G]] at £12/month might be a better fit. The Unlimited plan works best for customers who use their phone heavily on the go or as their main connection. |
+| "I don't use enough data to justify it" | If you're often on Wi-Fi at home, our [PROD-SIMOnly10GB5G](PROD-SIMOnly10GB5G.md) at £12/month might be a better fit. The Unlimited plan works best for customers who use their phone heavily on the go or as their main connection. |
 | "I want the rolling option but the price is high" | The 12-month plan saves you £72 over the year. If you're likely to keep the SIM for a year anyway, it's worth locking in the lower price. |
 
 ---
 
 ## Related
 
-- [[PROD-SIMOnly10GB5G]]
-- [[PROD-MobileBroadband5G]]
-- [[PROD-Fibre100Broadband]]
+- [PROD-SIMOnly10GB5G](PROD-SIMOnly10GB5G.md)
+- [PROD-MobileBroadband5G](PROD-MobileBroadband5G.md)
+- [PROD-Fibre100Broadband](PROD-Fibre100Broadband.md)

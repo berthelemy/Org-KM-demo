@@ -9,17 +9,17 @@ tags:
   - win-back
   - retention
 script-type: outbound
-product: "[[PROD-Fibre100Broadband]]"
+product: "[PROD-Fibre100Broadband](../Products/PROD-Fibre100Broadband.md)"
 status: approved
 version: "1.0"
 created: 2026-05-07
 reviewed: 2026-05-07
 review-due: 2028-05-07
 related:
-  - "[[SCR-OB-ContractRenewal]]"
-  - "[[SCR-OB-BroadbandUpgrade]]"
-  - "[[PROC-GEN-CustomerCancellation]]"
-  - "[[PROC-GEN-SalesProcedure]]"
+  - "[SCR-OB-ContractRenewal](SCR-OB-ContractRenewal.md)"
+  - "[SCR-OB-BroadbandUpgrade](SCR-OB-BroadbandUpgrade.md)"
+  - "[PROC-GEN-CustomerCancellation](../Procedures/PROC-GEN-CustomerCancellation.md)"
+  - "[PROC-GEN-SalesProcedure](../Procedures/PROC-GEN-SalesProcedure.md)"
 ---
 
 ## Purpose
@@ -73,16 +73,16 @@ Used when calling customers who have previously cancelled a ClearWave service an
 | Price was the issue | Offer win-back promotional price (one-time only) |
 | Service/reliability was the issue | Acknowledge, explain improvements; offer trial |
 | Left for a competitor, happy there | Thank them; ask if okay to contact again in 6 months; log `WINBACK-NOT-NOW` |
-| Has an unresolved complaint | End call; route to [[PROC-GEN-CustomerSupport]]; do not sell |
+| Has an unresolved complaint | End call; route to [PROC-GEN-CustomerSupport](../Procedures/PROC-GEN-CustomerSupport.md); do not sell |
 | Requests no further contact | Log marketing opt-out immediately; end call |
-| Wants to order | [[PROC-GEN-SalesProcedure]] |
+| Wants to order | [PROC-GEN-SalesProcedure](../Procedures/PROC-GEN-SalesProcedure.md) |
 
 ## Compliance Notes
 
 - **Marketing suppression list must be checked before every outbound call** — calling a customer who has opted out is a breach of PECR and must be reported to the Data Protection Officer
 - **Win-back offers are one-time only** — if the customer declines, do not re-offer on the same call or a future call without a new CRM-authorised offer code
 - **Cooling-off period must be communicated** before every sale (Consumer Contracts Regulations 2013)
-- **KFI must be provided** for any fixed-term contract — see [[PROC-GEN-SalesProcedure]] step 6
+- **KFI must be provided** for any fixed-term contract — see [PROC-GEN-SalesProcedure](../Procedures/PROC-GEN-SalesProcedure.md) step 6
 - Do **not** criticise or make comparisons with the customer's current provider
 - Do **not** apply pressure — if the customer says no, accept it graciously and log the outcome
 - Log outcome in CRM: `WINBACK-ACCEPTED`, `WINBACK-DECLINED`, `WINBACK-NOT-NOW`, `OPT-OUT-LOGGED`, or `COMPLAINT-REROUTED`
@@ -91,9 +91,9 @@ Used when calling customers who have previously cancelled a ClearWave service an
 
 ## Related
 
-- [[PROC-GEN-SalesProcedure]]
-- [[PROC-GEN-CustomerCancellation]]
-- [[PROC-GEN-CustomerSupport]]
-- [[SCR-OB-BroadbandUpgrade]]
-- [[SCR-OB-ContractRenewal]]
-- [[POL-DP-DataProtectionAndGDPR]]
+- [PROC-GEN-SalesProcedure](../Procedures/PROC-GEN-SalesProcedure.md)
+- [PROC-GEN-CustomerCancellation](../Procedures/PROC-GEN-CustomerCancellation.md)
+- [PROC-GEN-CustomerSupport](../Procedures/PROC-GEN-CustomerSupport.md)
+- [SCR-OB-BroadbandUpgrade](SCR-OB-BroadbandUpgrade.md)
+- [SCR-OB-ContractRenewal](SCR-OB-ContractRenewal.md)
+- [POL-DP-DataProtectionAndGDPR](../Policies/POL-DP-DataProtectionAndGDPR.md)

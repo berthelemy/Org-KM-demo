@@ -17,19 +17,19 @@ version: "1.0"
 created: 2026-05-07
 reviewed: 2026-05-07
 review-due: 2028-05-07
-related-policy: "[[POL-CON-CodeOfConduct]]"
+related-policy: "[POL-CON-CodeOfConduct](../Policies/POL-CON-CodeOfConduct.md)"
 related:
-  - "[[POL-DP-DataProtectionAndGDPR]]"
-  - "[[POL-DISC-DisciplinaryAndGrievance]]"
-  - "[[POL-EDI-EqualityDiversityInclusion]]"
-  - "[[PROC-GEN-CustomerCancellation]]"
-  - "[[PROD-Fibre100Broadband]]"
-  - "[[PROD-Fibre500Broadband]]"
-  - "[[PROD-Fibre1000Broadband]]"
-  - "[[PROD-SIMOnly10GB5G]]"
-  - "[[PROD-SIMOnlyUnlimited5G]]"
-  - "[[PROD-MobileBroadband5G]]"
-  - "[[PROD-HomePhone]]"
+  - "[POL-DP-DataProtectionAndGDPR](../Policies/POL-DP-DataProtectionAndGDPR.md)"
+  - "[POL-DISC-DisciplinaryAndGrievance](../Policies/POL-DISC-DisciplinaryAndGrievance.md)"
+  - "[POL-EDI-EqualityDiversityInclusion](../Policies/POL-EDI-EqualityDiversityInclusion.md)"
+  - "[PROC-GEN-CustomerCancellation](PROC-GEN-CustomerCancellation.md)"
+  - "[PROD-Fibre100Broadband](../Products/PROD-Fibre100Broadband.md)"
+  - "[PROD-Fibre500Broadband](../Products/PROD-Fibre500Broadband.md)"
+  - "[PROD-Fibre1000Broadband](../Products/PROD-Fibre1000Broadband.md)"
+  - "[PROD-SIMOnly10GB5G](../Products/PROD-SIMOnly10GB5G.md)"
+  - "[PROD-SIMOnlyUnlimited5G](../Products/PROD-SIMOnlyUnlimited5G.md)"
+  - "[PROD-MobileBroadband5G](../Products/PROD-MobileBroadband5G.md)"
+  - "[PROD-HomePhone](../Products/PROD-HomePhone.md)"
 ---
 
 ## Purpose
@@ -46,8 +46,8 @@ All customer-facing support agents handling inbound contacts (voice, chat, email
 - Access to OMS for order and provisioning status
 - Access to the fault management system (ServiceNow) for network and service incidents
 - Access to the billing system for account and payment queries
-- Identity verification required before discussing or amending any account — see [[POL-DP-DataProtectionAndGDPR]]
-- Awareness of [[POL-EDI-EqualityDiversityInclusion]]: all customers must be treated with dignity and respect; agents must be alert to vulnerability indicators
+- Identity verification required before discussing or amending any account — see [POL-DP-DataProtectionAndGDPR](../Policies/POL-DP-DataProtectionAndGDPR.md)
+- Awareness of [POL-EDI-EqualityDiversityInclusion](../Policies/POL-EDI-EqualityDiversityInclusion.md): all customers must be treated with dignity and respect; agents must be alert to vulnerability indicators
 
 ---
 
@@ -80,10 +80,10 @@ For straightforward account, billing, or product questions:
 
 | Product | Note |
 |---------|------|
-| Fibre broadband | [[PROD-Fibre100Broadband]], [[PROD-Fibre500Broadband]], [[PROD-Fibre1000Broadband]] |
-| SIM only | [[PROD-SIMOnly10GB5G]], [[PROD-SIMOnlyUnlimited5G]] |
-| Mobile broadband | [[PROD-MobileBroadband5G]] |
-| Home phone | [[PROD-HomePhone]] |
+| Fibre broadband | [PROD-Fibre100Broadband](../Products/PROD-Fibre100Broadband.md), [PROD-Fibre500Broadband](../Products/PROD-Fibre500Broadband.md), [PROD-Fibre1000Broadband](../Products/PROD-Fibre1000Broadband.md) |
+| SIM only | [PROD-SIMOnly10GB5G](../Products/PROD-SIMOnly10GB5G.md), [PROD-SIMOnlyUnlimited5G](../Products/PROD-SIMOnlyUnlimited5G.md) |
+| Mobile broadband | [PROD-MobileBroadband5G](../Products/PROD-MobileBroadband5G.md) |
+| Home phone | [PROD-HomePhone](../Products/PROD-HomePhone.md) |
 
 - Log the outcome in CRM with code `QUERY-RESOLVED` or `QUERY-ESCALATED`
 
@@ -110,7 +110,7 @@ For straightforward account, billing, or product questions:
 4. Check the account is active and not suspended (billing system)
 5. If data issue persists after basic steps: reset APN settings (advise customer on their device OS); if unresolved, arrange SIM replacement
 
-*Home phone ([[PROD-HomePhone]]):*
+*Home phone ([PROD-HomePhone](../Products/PROD-HomePhone.md)):*
 1. Confirm the broadband service is working first — VoIP depends on broadband
 2. Check the ATA is powered and connected to the router
 3. Ask the customer to restart the ATA (unplug, wait 30 seconds, replug)
@@ -128,7 +128,7 @@ For straightforward account, billing, or product questions:
 - For disputed charges:
   - If the charge is clearly an error: apply a credit immediately; apologise; log in CRM as `BILLING-CREDIT-APPLIED`
   - If the charge is correct but the customer disputes it: explain the charge clearly; provide the relevant contract reference; if they still dispute, raise a formal billing query (see Formal Complaint below)
-- For ETC disputes arising from cancellation: refer to [[PROC-GEN-CustomerCancellation]]
+- For ETC disputes arising from cancellation: refer to [PROC-GEN-CustomerCancellation](PROC-GEN-CustomerCancellation.md)
 
 ### 6. Formal Complaint Handling
 
@@ -169,7 +169,7 @@ A contact becomes a **formal complaint** when:
 |-----------|--------|
 | Known network outage in the customer's area | Inform; provide ticket ref and ETA; do not troubleshoot at agent level |
 | Customer is in evident distress or vulnerability | Slow down; offer extra time; apply vulnerability flag to CRM; escalate if risk to welfare |
-| Customer is abusive | Follow [[POL-CON-CodeOfConduct]]; two verbal warnings permitted; call may be ended; log in CRM |
+| Customer is abusive | Follow [POL-CON-CodeOfConduct](../Policies/POL-CON-CodeOfConduct.md); two verbal warnings permitted; call may be ended; log in CRM |
 | Fault not resolved after 14+ days | Escalate to Network Operations; customer may be eligible for a service credit or contract exit |
 | Billing error is confirmed | Apply credit immediately; apologise; no authorisation required for credits under £50 |
 | Billing credit exceeds £50 | Team Leader authorisation required |
@@ -189,7 +189,7 @@ A contact becomes a **formal complaint** when:
 
 - Not checking for a known outage before troubleshooting — this wastes the customer's time and creates frustration
 - Failing to assign a complaint reference number immediately — the customer cannot follow up without it
-- Attempting to close a formal complaint informally to avoid logging it — this is a conduct issue under [[POL-CON-CodeOfConduct]]
+- Attempting to close a formal complaint informally to avoid logging it — this is a conduct issue under [POL-CON-CodeOfConduct](../Policies/POL-CON-CodeOfConduct.md)
 - Missing the complaint resolution target without proactively contacting the customer — silent failures drive Ombudsman referrals
 - Applying a billing credit without logging it — credits must always be recorded in CRM and the billing system
 - Not flagging vulnerability in CRM — subsequent agents will not know and may not adapt their approach appropriately
@@ -198,10 +198,10 @@ A contact becomes a **formal complaint** when:
 
 ## Related
 
-- [[PROC-GEN-CustomerCancellation]]
-- [[PROC-GEN-SalesProcedure]]
-- [[PROC-GEN-CustomerOnboarding]]
-- [[POL-CON-CodeOfConduct]]
-- [[POL-DP-DataProtectionAndGDPR]]
-- [[POL-EDI-EqualityDiversityInclusion]]
-- [[POL-DISC-DisciplinaryAndGrievance]]
+- [PROC-GEN-CustomerCancellation](PROC-GEN-CustomerCancellation.md)
+- [PROC-GEN-SalesProcedure](PROC-GEN-SalesProcedure.md)
+- [PROC-GEN-CustomerOnboarding](PROC-GEN-CustomerOnboarding.md)
+- [POL-CON-CodeOfConduct](../Policies/POL-CON-CodeOfConduct.md)
+- [POL-DP-DataProtectionAndGDPR](../Policies/POL-DP-DataProtectionAndGDPR.md)
+- [POL-EDI-EqualityDiversityInclusion](../Policies/POL-EDI-EqualityDiversityInclusion.md)
+- [POL-DISC-DisciplinaryAndGrievance](../Policies/POL-DISC-DisciplinaryAndGrievance.md)

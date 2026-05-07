@@ -9,17 +9,17 @@ tags:
   - renewal
   - retention
 script-type: outbound
-product: "[[PROD-Fibre100Broadband]]"
+product: "[PROD-Fibre100Broadband](../Products/PROD-Fibre100Broadband.md)"
 status: approved
 version: "1.0"
 created: 2026-05-07
 reviewed: 2026-05-07
 review-due: 2028-05-07
 related:
-  - "[[SCR-OB-WinBack]]"
-  - "[[SCR-OB-BroadbandUpgrade]]"
-  - "[[PROC-GEN-CustomerCancellation]]"
-  - "[[PROC-GEN-SalesProcedure]]"
+  - "[SCR-OB-WinBack](SCR-OB-WinBack.md)"
+  - "[SCR-OB-BroadbandUpgrade](SCR-OB-BroadbandUpgrade.md)"
+  - "[PROC-GEN-CustomerCancellation](../Procedures/PROC-GEN-CustomerCancellation.md)"
+  - "[PROC-GEN-SalesProcedure](../Procedures/PROC-GEN-SalesProcedure.md)"
 ---
 
 ## Purpose
@@ -51,11 +51,11 @@ Used when calling customers whose fixed-term contract is due to expire within th
 
 > **[If customer wants an upgrade instead]**
 > **Agent:** "We could also look at upgrading you at the same time — for example, our Fibre 500 is available at £38 a month on a new 24-month deal, which would be a significant improvement on your current speeds. Would you like me to go through that option?"
-> — *[Continue using [[SCR-OB-BroadbandUpgrade]] branching if customer engages]*
+> — *[Continue using [SCR-OB-BroadbandUpgrade](SCR-OB-BroadbandUpgrade.md) branching if customer engages]*
 
 > **[If customer says they're considering leaving]**
 > **Agent:** "I completely understand — it's always worth reviewing your options. Before you make a decision, can I check if there's anything specific that's prompted that thought? There may be something I can do to help."
-> — *[If they have a grievance, route to [[PROC-GEN-CustomerSupport]]]*
+> — *[If they have a grievance, route to [PROC-GEN-CustomerSupport](../Procedures/PROC-GEN-CustomerSupport.md)]*
 > — *[If it's about price, explore retention offer from CRM]*
 
 > **Agent (to confirm renewal):** "So to confirm, I'm going to renew your contract for [plan name] at [£X] a month for 24 months, starting from [renewal date]. You'll receive a confirmation email within 24 hours. Does that all sound good?"
@@ -72,17 +72,17 @@ Used when calling customers whose fixed-term contract is due to expire within th
 | Customer Response | Go To |
 |-------------------|-------|
 | Wants to renew on current plan | Confirm and process renewal in CRM |
-| Wants an upgrade | [[SCR-OB-BroadbandUpgrade]] |
-| Wants to add mobile | [[SCR-OB-MobileAddOn]] |
-| Considering leaving | Explore retention offer; if unresolved → [[PROC-GEN-CustomerCancellation]] |
-| Has a complaint | [[PROC-GEN-CustomerSupport]] |
-| Already cancelled | [[SCR-OB-WinBack]] (if within 30 days of cancellation) |
+| Wants an upgrade | [SCR-OB-BroadbandUpgrade](SCR-OB-BroadbandUpgrade.md) |
+| Wants to add mobile | [SCR-OB-MobileAddOn](SCR-OB-MobileAddOn.md) |
+| Considering leaving | Explore retention offer; if unresolved → [PROC-GEN-CustomerCancellation](../Procedures/PROC-GEN-CustomerCancellation.md) |
+| Has a complaint | [PROC-GEN-CustomerSupport](../Procedures/PROC-GEN-CustomerSupport.md) |
+| Already cancelled | [SCR-OB-WinBack](SCR-OB-WinBack.md) (if within 30 days of cancellation) |
 
 ## Compliance Notes
 
 - **Do not imply the customer must renew** — they are entitled to leave at end of contract with no penalty; the out-of-contract rate applies but no Early Termination Charge (ETC)
 - **Cooling-off period must be communicated** before every renewal (Consumer Contracts Regulations 2013)
-- **KFI must be provided** for every new fixed-term contract — see [[PROC-GEN-SalesProcedure]] step 6
+- **KFI must be provided** for every new fixed-term contract — see [PROC-GEN-SalesProcedure](../Procedures/PROC-GEN-SalesProcedure.md) step 6
 - Do not quote the out-of-contract rate as a penalty — frame it neutrally as the standard rolling rate
 - Do **not** offer a renewal price lower than the CRM-flagged minimum without manager authorisation
 - Log outcome in CRM: `RENEWAL-ACCEPTED`, `RENEWAL-DECLINED`, `UPGRADE-AT-RENEWAL`, or `CALLBACK-REQUESTED`
@@ -91,8 +91,8 @@ Used when calling customers whose fixed-term contract is due to expire within th
 
 ## Related
 
-- [[PROC-GEN-SalesProcedure]]
-- [[PROC-GEN-CustomerCancellation]]
-- [[SCR-OB-BroadbandUpgrade]]
-- [[SCR-OB-MobileAddOn]]
-- [[SCR-OB-WinBack]]
+- [PROC-GEN-SalesProcedure](../Procedures/PROC-GEN-SalesProcedure.md)
+- [PROC-GEN-CustomerCancellation](../Procedures/PROC-GEN-CustomerCancellation.md)
+- [SCR-OB-BroadbandUpgrade](SCR-OB-BroadbandUpgrade.md)
+- [SCR-OB-MobileAddOn](SCR-OB-MobileAddOn.md)
+- [SCR-OB-WinBack](SCR-OB-WinBack.md)

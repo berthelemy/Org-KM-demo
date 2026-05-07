@@ -15,20 +15,20 @@ version: "1.0"
 created: 2026-05-07
 reviewed: 2026-05-07
 review-due: 2028-05-07
-related-policy: "[[POL-CON-CodeOfConduct]]"
+related-policy: "[POL-CON-CodeOfConduct](../Policies/POL-CON-CodeOfConduct.md)"
 related:
-  - "[[POL-DP-DataProtectionAndGDPR]]"
-  - "[[POL-PERF-PerformanceManagement]]"
-  - "[[PROD-Fibre100Broadband]]"
-  - "[[PROD-Fibre500Broadband]]"
-  - "[[PROD-Fibre1000Broadband]]"
-  - "[[PROD-SIMOnly10GB5G]]"
-  - "[[PROD-SIMOnlyUnlimited5G]]"
-  - "[[PROD-ClearWaveX1ProHandset]]"
-  - "[[PROD-ClearWaveX1HandsetBudget]]"
-  - "[[PROD-MobileBroadband5G]]"
-  - "[[PROD-HomePhone]]"
-  - "[[PROC-CustomerOnboarding]]"
+  - "[POL-DP-DataProtectionAndGDPR](../Policies/POL-DP-DataProtectionAndGDPR.md)"
+  - "[POL-PERF-PerformanceManagement](../Policies/POL-PERF-PerformanceManagement.md)"
+  - "[PROD-Fibre100Broadband](../Products/PROD-Fibre100Broadband.md)"
+  - "[PROD-Fibre500Broadband](../Products/PROD-Fibre500Broadband.md)"
+  - "[PROD-Fibre1000Broadband](../Products/PROD-Fibre1000Broadband.md)"
+  - "[PROD-SIMOnly10GB5G](../Products/PROD-SIMOnly10GB5G.md)"
+  - "[PROD-SIMOnlyUnlimited5G](../Products/PROD-SIMOnlyUnlimited5G.md)"
+  - "[PROD-ClearWaveX1ProHandset](../Products/PROD-ClearWaveX1ProHandset.md)"
+  - "[PROD-ClearWaveX1HandsetBudget](../Products/PROD-ClearWaveX1HandsetBudget.md)"
+  - "[PROD-MobileBroadband5G](../Products/PROD-MobileBroadband5G.md)"
+  - "[PROD-HomePhone](../Products/PROD-HomePhone.md)"
+  - "[PROC-CustomerOnboarding](PROC-CustomerOnboarding.md)"
 ---
 
 ## Purpose
@@ -44,7 +44,7 @@ All inbound and outbound sales agents handling new customer acquisitions or exis
 - Access to the CRM (Salesforce) and the order management system (OMS)
 - Completed product training for all products in scope
 - Access to the live coverage checker tool
-- Familiarity with [[POL-DP-DataProtectionAndGDPR]] — identity verification is mandatory before discussing or amending any account
+- Familiarity with [POL-DP-DataProtectionAndGDPR](../Policies/POL-DP-DataProtectionAndGDPR.md) — identity verification is mandatory before discussing or amending any account
 - Key Facts Indicator (KFI) documents available in the document library for all regulated products
 
 ---
@@ -58,7 +58,7 @@ All inbound and outbound sales agents handling new customer acquisitions or exis
 - Log the call start in CRM
 
 > **Data Protection**: Never discuss account details until identity is verified. If the caller fails verification, offer them the option to call back with the correct details. Do not proceed.  
-> See [[POL-DP-DataProtectionAndGDPR]]
+> See [POL-DP-DataProtectionAndGDPR](../Policies/POL-DP-DataProtectionAndGDPR.md)
 
 ### 2. Understand the Customer's Needs
 - Ask open questions to understand the customer's current situation and requirements:
@@ -70,7 +70,7 @@ All inbound and outbound sales agents handling new customer acquisitions or exis
 
 ### 3. Run an Availability Check
 - For broadband products: run the coverage checker using the customer's full postcode before recommending any fibre product
-  - If FTTP is not available at the address, do not sell [[PROD-Fibre100Broadband]], [[PROD-Fibre500Broadband]], or [[PROD-Fibre1000Broadband]]
+  - If FTTP is not available at the address, do not sell [PROD-Fibre100Broadband](../Products/PROD-Fibre100Broadband.md), [PROD-Fibre500Broadband](../Products/PROD-Fibre500Broadband.md), or [PROD-Fibre1000Broadband](../Products/PROD-Fibre1000Broadband.md)
 - For mobile products: check 5G coverage at the customer's most-used locations if they are on a 5G plan
 - Record the availability check result in CRM
 
@@ -82,17 +82,17 @@ All inbound and outbound sales agents handling new customer acquisitions or exis
 
 | Product | Note |
 |---------|------|
-| Fibre broadband | [[PROD-Fibre100Broadband]], [[PROD-Fibre500Broadband]], [[PROD-Fibre1000Broadband]] |
-| SIM only | [[PROD-SIMOnly10GB5G]], [[PROD-SIMOnlyUnlimited5G]] |
-| Handsets | [[PROD-ClearWaveX1ProHandset]], [[PROD-ClearWaveX1HandsetBudget]] |
-| Mobile broadband | [[PROD-MobileBroadband5G]] |
-| Home phone | [[PROD-HomePhone]] |
+| Fibre broadband | [PROD-Fibre100Broadband](../Products/PROD-Fibre100Broadband.md), [PROD-Fibre500Broadband](../Products/PROD-Fibre500Broadband.md), [PROD-Fibre1000Broadband](../Products/PROD-Fibre1000Broadband.md) |
+| SIM only | [PROD-SIMOnly10GB5G](../Products/PROD-SIMOnly10GB5G.md), [PROD-SIMOnlyUnlimited5G](../Products/PROD-SIMOnlyUnlimited5G.md) |
+| Handsets | [PROD-ClearWaveX1ProHandset](../Products/PROD-ClearWaveX1ProHandset.md), [PROD-ClearWaveX1HandsetBudget](../Products/PROD-ClearWaveX1HandsetBudget.md) |
+| Mobile broadband | [PROD-MobileBroadband5G](../Products/PROD-MobileBroadband5G.md) |
+| Home phone | [PROD-HomePhone](../Products/PROD-HomePhone.md) |
 
 ### 5. Handle Objections
 - Use the objection-handling table in the relevant product note as a guide
 - Never use pressure tactics, false urgency, or misleading comparisons
 - If a customer is unsure, offer to send information by email and agree a callback time — do not push for an immediate decision
-- Comply with [[POL-CON-CodeOfConduct]]: do not make promises outside authorised product terms
+- Comply with [POL-CON-CodeOfConduct](../Policies/POL-CON-CodeOfConduct.md): do not make promises outside authorised product terms
 
 ### 6. Present the Key Facts Indicator (KFI)
 - For all broadband and mobile contract sales, the KFI **must** be provided before the order is confirmed
@@ -120,7 +120,7 @@ All inbound and outbound sales agents handling new customer acquisitions or exis
 ### 10. Close and Hand Off
 - Summarise next steps for the customer (installation date, SIM dispatch, number port timeline)
 - Ask if there is anything else the customer needs
-- Transfer to onboarding if required (see [[PROC-CustomerOnboarding]]) or confirm that the confirmation email and welcome pack will follow
+- Transfer to onboarding if required (see [PROC-CustomerOnboarding](PROC-CustomerOnboarding.md)) or confirm that the confirmation email and welcome pack will follow
 - Log call outcome and order details in CRM; set a follow-up task if applicable
 
 ---
@@ -130,18 +130,18 @@ All inbound and outbound sales agents handling new customer acquisitions or exis
 | Situation | Action |
 |-----------|--------|
 | Customer fails identity verification | Do not proceed; offer callback |
-| FTTP not available at address | Do not sell fibre products; discuss [[PROD-MobileBroadband5G]] as alternative |
+| FTTP not available at address | Do not sell fibre products; discuss [PROD-MobileBroadband5G](../Products/PROD-MobileBroadband5G.md) as alternative |
 | Customer is in contract with another provider | Note end date; offer to call back; do not encourage breach of contract |
 | Credit check fails | Offer rolling/SIM-only alternatives; do not speculate on reason for failure |
 | Customer requests time to consider | Send KFI by email, agree callback date, log in CRM |
 | Customer mentions vulnerability (financial difficulty, health) | Follow the Vulnerable Customer procedure; do not pressure |
-| Customer wants to add home phone | Check compatibility and present [[PROD-HomePhone]]; deliver Ofcom VoIP emergency call disclosure |
+| Customer wants to add home phone | Check compatibility and present [PROD-HomePhone](../Products/PROD-HomePhone.md); deliver Ofcom VoIP emergency call disclosure |
 | Handset sale involves trade-in | Direct customer to clearwave.co.uk/trade-in for valuation; do not guarantee a trade-in value verbally |
 
 ## Escalation
 
 - **Pricing queries outside standard rate card**: escalate to Team Leader — do not offer ad-hoc discounts without authorisation
-- **Customer complaint during sale**: stop the sales process; follow the Customer Support procedure ([[PROC-CustomerSupport]])
+- **Customer complaint during sale**: stop the sales process; follow the Customer Support procedure ([PROC-CustomerSupport](PROC-CustomerSupport.md))
 - **Suspected fraud** (e.g. identity details don't match, unusual payment details): do not proceed; escalate immediately to the Fraud team and log in CRM
 - **Regulatory breach** (e.g. KFI not provided, credit consent not obtained): self-report to Team Leader immediately; do not attempt to resolve without guidance
 
@@ -151,14 +151,14 @@ All inbound and outbound sales agents handling new customer acquisitions or exis
 - Skipping the KFI step because the customer says "just get on with it" — this is non-negotiable
 - Running a hard credit check without explicit customer consent
 - Describing 5G as available everywhere — always check coverage at the customer's specific location
-- Describing the [[PROD-HomePhone]] VoIP service as working during power cuts — it does not
+- Describing the [PROD-HomePhone](../Products/PROD-HomePhone.md) VoIP service as working during power cuts — it does not
 
 ---
 
 ## Related
 
-- [[PROC-CustomerOnboarding]]
-- [[PROC-CustomerSupport]]
-- [[POL-CON-CodeOfConduct]]
-- [[POL-DP-DataProtectionAndGDPR]]
-- [[POL-PERF-PerformanceManagement]]
+- [PROC-CustomerOnboarding](PROC-CustomerOnboarding.md)
+- [PROC-CustomerSupport](PROC-CustomerSupport.md)
+- [POL-CON-CodeOfConduct](../Policies/POL-CON-CodeOfConduct.md)
+- [POL-DP-DataProtectionAndGDPR](../Policies/POL-DP-DataProtectionAndGDPR.md)
+- [POL-PERF-PerformanceManagement](../Policies/POL-PERF-PerformanceManagement.md)

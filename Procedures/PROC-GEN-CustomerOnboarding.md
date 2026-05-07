@@ -15,20 +15,20 @@ version: "1.0"
 created: 2026-05-07
 reviewed: 2026-05-07
 review-due: 2028-05-07
-related-policy: "[[POL-CON-CodeOfConduct]]"
+related-policy: "[POL-CON-CodeOfConduct](../Policies/POL-CON-CodeOfConduct.md)"
 related:
-  - "[[POL-DP-DataProtectionAndGDPR]]"
-  - "[[PROC-GEN-SalesProcedure]]"
-  - "[[PROC-GEN-CustomerSupport]]"
-  - "[[PROD-Fibre100Broadband]]"
-  - "[[PROD-Fibre500Broadband]]"
-  - "[[PROD-Fibre1000Broadband]]"
-  - "[[PROD-SIMOnly10GB5G]]"
-  - "[[PROD-SIMOnlyUnlimited5G]]"
-  - "[[PROD-ClearWaveX1ProHandset]]"
-  - "[[PROD-ClearWaveX1HandsetBudget]]"
-  - "[[PROD-MobileBroadband5G]]"
-  - "[[PROD-HomePhone]]"
+  - "[POL-DP-DataProtectionAndGDPR](../Policies/POL-DP-DataProtectionAndGDPR.md)"
+  - "[PROC-GEN-SalesProcedure](PROC-GEN-SalesProcedure.md)"
+  - "[PROC-GEN-CustomerSupport](PROC-GEN-CustomerSupport.md)"
+  - "[PROD-Fibre100Broadband](../Products/PROD-Fibre100Broadband.md)"
+  - "[PROD-Fibre500Broadband](../Products/PROD-Fibre500Broadband.md)"
+  - "[PROD-Fibre1000Broadband](../Products/PROD-Fibre1000Broadband.md)"
+  - "[PROD-SIMOnly10GB5G](../Products/PROD-SIMOnly10GB5G.md)"
+  - "[PROD-SIMOnlyUnlimited5G](../Products/PROD-SIMOnlyUnlimited5G.md)"
+  - "[PROD-ClearWaveX1ProHandset](../Products/PROD-ClearWaveX1ProHandset.md)"
+  - "[PROD-ClearWaveX1HandsetBudget](../Products/PROD-ClearWaveX1HandsetBudget.md)"
+  - "[PROD-MobileBroadband5G](../Products/PROD-MobileBroadband5G.md)"
+  - "[PROD-HomePhone](../Products/PROD-HomePhone.md)"
 ---
 
 ## Purpose
@@ -44,7 +44,7 @@ All agents in the onboarding team handling post-sale customer contacts for new b
 - Access to CRM (Salesforce) — customer record must show confirmed order before onboarding begins
 - Access to OMS to check order and installation status
 - Familiarity with each active product (see product notes below)
-- Identity verification required before discussing any account detail — see [[POL-DP-DataProtectionAndGDPR]]
+- Identity verification required before discussing any account detail — see [POL-DP-DataProtectionAndGDPR](../Policies/POL-DP-DataProtectionAndGDPR.md)
 
 ---
 
@@ -58,7 +58,7 @@ All agents in the onboarding team handling post-sale customer contacts for new b
 
 ### 2. Confirm Order Details and Timeline
 
-**For broadband orders ([[PROD-Fibre100Broadband]], [[PROD-Fibre500Broadband]], [[PROD-Fibre1000Broadband]]):**
+**For broadband orders ([PROD-Fibre100Broadband](../Products/PROD-Fibre100Broadband.md), [PROD-Fibre500Broadband](../Products/PROD-Fibre500Broadband.md), [PROD-Fibre1000Broadband](../Products/PROD-Fibre1000Broadband.md)):**
 - Confirm the installation appointment date and time window (AM or PM)
 - Advise the customer that an engineer will attend the premises; someone aged 18+ must be present
 - Explain what to expect on installation day:
@@ -66,23 +66,23 @@ All agents in the onboarding team handling post-sale customer contacts for new b
   - Engineer enters the property to connect and test the Smart Hub router
   - Typical visit duration: 1–3 hours
 - Confirm the router will be delivered before the installation appointment, or brought by the engineer
-- For [[PROD-Fibre1000Broadband]] customers: confirm the dedicated onboarding specialist call is booked
+- For [PROD-Fibre1000Broadband](../Products/PROD-Fibre1000Broadband.md) customers: confirm the dedicated onboarding specialist call is booked
 
-**For SIM-only orders ([[PROD-SIMOnly10GB5G]], [[PROD-SIMOnlyUnlimited5G]]):**
+**For SIM-only orders ([PROD-SIMOnly10GB5G](../Products/PROD-SIMOnly10GB5G.md), [PROD-SIMOnlyUnlimited5G](../Products/PROD-SIMOnlyUnlimited5G.md)):**
 - Confirm SIM dispatch date (typically 1–3 working days by first-class post)
 - If number porting: confirm the PAC code has been submitted and advise the porting window (typically 1 working day after SIM activation)
 - Explain that the customer should not cancel their existing service until porting is confirmed
 
-**For handset orders ([[PROD-ClearWaveX1ProHandset]], [[PROD-ClearWaveX1HandsetBudget]]):**
+**For handset orders ([PROD-ClearWaveX1ProHandset](../Products/PROD-ClearWaveX1ProHandset.md), [PROD-ClearWaveX1HandsetBudget](../Products/PROD-ClearWaveX1HandsetBudget.md)):**
 - Confirm dispatch and expected delivery date
 - Advise on how to activate the device and insert the SIM
 - If number porting: same guidance as SIM-only above
 
-**For mobile broadband ([[PROD-MobileBroadband5G]]):**
+**For mobile broadband ([PROD-MobileBroadband5G](../Products/PROD-MobileBroadband5G.md)):**
 - Confirm MiFi Hub dispatch date
 - Explain device setup: insert SIM (pre-installed), power on, connect via Wi-Fi using credentials on device label
 
-**For home phone add-on ([[PROD-HomePhone]]):**
+**For home phone add-on ([PROD-HomePhone](../Products/PROD-HomePhone.md)):**
 - Confirm the ATA (analogue telephone adapter) will be dispatched with or before the broadband installation
 - Remind the customer that the home phone requires the broadband to be active — it will not work before or during broadband outages
 - Repeat the **Ofcom VoIP emergency call disclosure**: the service will not work during a power cut or broadband outage; advise the customer to keep a mobile phone available for emergencies
@@ -112,7 +112,7 @@ All agents in the onboarding team handling post-sale customer contacts for new b
 ### 6. Check for Cooling-Off Intent
 - If the customer mentions second thoughts or mentions cancelling within the first 14 days, do not immediately process the cancellation
 - Acknowledge their concern, listen actively, and offer to resolve the issue first
-- If they wish to proceed with cancellation within the cooling-off period, follow [[PROC-GEN-CustomerCancellation]]
+- If they wish to proceed with cancellation within the cooling-off period, follow [PROC-GEN-CustomerCancellation](PROC-GEN-CustomerCancellation.md)
 
 ### 7. Close and Log
 - Summarise next steps and the customer's expected go-live date
@@ -130,21 +130,21 @@ All agents in the onboarding team handling post-sale customer contacts for new b
 | Customer has telecare/medical alarm device and compatibility not checked | Do not allow the home phone service to go live until check is completed |
 | Customer wants to change the installation appointment | Process via OMS; minimum 48 hours notice required; availability may vary |
 | Number port has not completed within 2 working days | Raise a porting escalation; advise the customer; do not tell them to contact their old provider |
-| Customer expresses dissatisfaction during onboarding | Log as a complaint; follow [[PROC-GEN-CustomerSupport]] |
-| Customer is within cooling-off period and wants to cancel | Follow [[PROC-GEN-CustomerCancellation]] |
+| Customer expresses dissatisfaction during onboarding | Log as a complaint; follow [PROC-GEN-CustomerSupport](PROC-GEN-CustomerSupport.md) |
+| Customer is within cooling-off period and wants to cancel | Follow [PROC-GEN-CustomerCancellation](PROC-GEN-CustomerCancellation.md) |
 | Customer appears vulnerable or in distress | Apply the Vulnerable Customer guidelines; offer additional support time; escalate if required |
 
 ## Escalation
 
 - **Provisioning failure** (e.g. installation cannot be completed, OMS error): escalate to the provisioning team; keep the customer informed with a 24-hour update commitment
 - **Equipment not delivered before installation appointment**: escalate to the fulfilment team immediately; arrange a re-scheduled installation if needed
-- **Complaint**: escalate to the Customer Support team ([[PROC-GEN-CustomerSupport]]); do not attempt to resolve a formal complaint during an onboarding call
+- **Complaint**: escalate to the Customer Support team ([PROC-GEN-CustomerSupport](PROC-GEN-CustomerSupport.md)); do not attempt to resolve a formal complaint during an onboarding call
 - **Regulatory concern** (e.g. KFI not sent, cooling-off right not communicated at sale): report to Team Leader; do not attempt to remedy without guidance
 
 ## Common Errors
 
 - Assuming the installation is booked without checking OMS first
-- Failing to repeat the VoIP emergency call disclosure for [[PROD-HomePhone]] customers
+- Failing to repeat the VoIP emergency call disclosure for [PROD-HomePhone](../Products/PROD-HomePhone.md) customers
 - Advising a porting customer to cancel their old service before porting is confirmed — this can result in number loss
 - Not logging the onboarding contact in CRM, which prevents the follow-up team from knowing the customer has been contacted
 - Rushing through the billing explanation — unclear billing is one of the top drivers of early-life complaints
@@ -153,8 +153,8 @@ All agents in the onboarding team handling post-sale customer contacts for new b
 
 ## Related
 
-- [[PROC-GEN-SalesProcedure]]
-- [[PROC-GEN-CustomerSupport]]
-- [[PROC-GEN-CustomerCancellation]]
-- [[POL-CON-CodeOfConduct]]
-- [[POL-DP-DataProtectionAndGDPR]]
+- [PROC-GEN-SalesProcedure](PROC-GEN-SalesProcedure.md)
+- [PROC-GEN-CustomerSupport](PROC-GEN-CustomerSupport.md)
+- [PROC-GEN-CustomerCancellation](PROC-GEN-CustomerCancellation.md)
+- [POL-CON-CodeOfConduct](../Policies/POL-CON-CodeOfConduct.md)
+- [POL-DP-DataProtectionAndGDPR](../Policies/POL-DP-DataProtectionAndGDPR.md)

@@ -8,18 +8,18 @@ tags:
   - mobile
   - upsell
 script-type: outbound
-product: "[[PROD-SIMOnlyUnlimited5G]]"
+product: "[PROD-SIMOnlyUnlimited5G](../Products/PROD-SIMOnlyUnlimited5G.md)"
 status: approved
 version: "1.0"
 created: 2026-05-07
 reviewed: 2026-05-07
 review-due: 2028-05-07
 related:
-  - "[[SCR-OB-BroadbandUpgrade]]"
-  - "[[PROC-GEN-SalesProcedure]]"
-  - "[[PROD-SIMOnly10GB5G]]"
-  - "[[PROD-SIMOnlyUnlimited5G]]"
-  - "[[PROD-ClearWaveX1ProHandset]]"
+  - "[SCR-OB-BroadbandUpgrade](SCR-OB-BroadbandUpgrade.md)"
+  - "[PROC-GEN-SalesProcedure](../Procedures/PROC-GEN-SalesProcedure.md)"
+  - "[PROD-SIMOnly10GB5G](../Products/PROD-SIMOnly10GB5G.md)"
+  - "[PROD-SIMOnlyUnlimited5G](../Products/PROD-SIMOnlyUnlimited5G.md)"
+  - "[PROD-ClearWaveX1ProHandset](../Products/PROD-ClearWaveX1ProHandset.md)"
 ---
 
 ## Purpose
@@ -30,7 +30,7 @@ Used when calling existing broadband-only customers who have no ClearWave mobile
 
 - Confirm customer has no existing ClearWave mobile product in the CRM
 - Check whether the customer's address has 5G coverage (use the Coverage Checker tool before calling)
-- Have current SIM-only pricing to hand: [[PROD-SIMOnly10GB5G]] · [[PROD-SIMOnlyUnlimited5G]]
+- Have current SIM-only pricing to hand: [PROD-SIMOnly10GB5G](../Products/PROD-SIMOnly10GB5G.md) · [PROD-SIMOnlyUnlimited5G](../Products/PROD-SIMOnlyUnlimited5G.md)
 - Note whether the customer is eligible for a loyalty multi-product discount (check CRM offer flags)
 - Do **not** call customers flagged as vulnerable without a manager briefing first
 
@@ -71,16 +71,16 @@ Used when calling existing broadband-only customers who have no ClearWave mobile
 | Customer Response | Go To |
 |-------------------|-------|
 | Wants to think it over | Offer to email an overview; log follow-up in CRM |
-| Asks about handset finance | [[PROD-ClearWaveX1ProHandset]] · Consumer Credit Act note applies — see Compliance Notes |
-| Wants broadband upgrade at same time | [[SCR-OB-BroadbandUpgrade]] |
-| Wants to cancel broadband | [[PROC-GEN-CustomerCancellation]] |
-| Complaint or escalation | [[PROC-GEN-CustomerSupport]] |
+| Asks about handset finance | [PROD-ClearWaveX1ProHandset](../Products/PROD-ClearWaveX1ProHandset.md) · Consumer Credit Act note applies — see Compliance Notes |
+| Wants broadband upgrade at same time | [SCR-OB-BroadbandUpgrade](SCR-OB-BroadbandUpgrade.md) |
+| Wants to cancel broadband | [PROC-GEN-CustomerCancellation](../Procedures/PROC-GEN-CustomerCancellation.md) |
+| Complaint or escalation | [PROC-GEN-CustomerSupport](../Procedures/PROC-GEN-CustomerSupport.md) |
 
 ## Compliance Notes
 
 - **Coverage check is mandatory** before the call — do not promote 5G to a customer without confirmed 5G coverage; offer 4G equivalent if 5G is unavailable
 - **Cooling-off period must be communicated** before every sale (Consumer Contracts Regulations 2013)
-- **KFI must be emailed** for any contract of 12 months or more — see [[PROC-GEN-SalesProcedure]] step 6
+- **KFI must be emailed** for any contract of 12 months or more — see [PROC-GEN-SalesProcedure](../Procedures/PROC-GEN-SalesProcedure.md) step 6
 - If quoting handset finance, confirm the agent is operating under ClearWave's Consumer Credit Act licence; do not advise on personal affordability — direct to the online eligibility checker
 - Tethering is included on the Unlimited plan; confirm it is **not** included on the 10 GB plan
 - If customer asks why they are being called: confirm this is a proactive outbound offer and offer opt-out from marketing calls at any time
@@ -90,9 +90,9 @@ Used when calling existing broadband-only customers who have no ClearWave mobile
 
 ## Related
 
-- [[PROD-SIMOnly10GB5G]]
-- [[PROD-SIMOnlyUnlimited5G]]
-- [[PROD-ClearWaveX1ProHandset]]
-- [[PROD-ClearWaveX1HandsetBudget]]
-- [[PROC-GEN-SalesProcedure]]
-- [[SCR-OB-BroadbandUpgrade]]
+- [PROD-SIMOnly10GB5G](../Products/PROD-SIMOnly10GB5G.md)
+- [PROD-SIMOnlyUnlimited5G](../Products/PROD-SIMOnlyUnlimited5G.md)
+- [PROD-ClearWaveX1ProHandset](../Products/PROD-ClearWaveX1ProHandset.md)
+- [PROD-ClearWaveX1HandsetBudget](../Products/PROD-ClearWaveX1HandsetBudget.md)
+- [PROC-GEN-SalesProcedure](../Procedures/PROC-GEN-SalesProcedure.md)
+- [SCR-OB-BroadbandUpgrade](SCR-OB-BroadbandUpgrade.md)

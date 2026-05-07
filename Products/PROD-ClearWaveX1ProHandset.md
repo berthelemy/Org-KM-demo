@@ -14,9 +14,9 @@ launched: 2025-09-01
 discontinued: ""
 provider: ClearWave Mobile
 related:
-  - "[[PROD-SIMOnly10GB5G]]"
-  - "[[PROD-SIMOnlyUnlimited5G]]"
-  - "[[PROD-ClearWaveX1HandsetBudget]]"
+  - "[PROD-SIMOnly10GB5G](PROD-SIMOnly10GB5G.md)"
+  - "[PROD-SIMOnlyUnlimited5G](PROD-SIMOnlyUnlimited5G.md)"
+  - "[PROD-ClearWaveX1HandsetBudget](PROD-ClearWaveX1HandsetBudget.md)"
 ---
 
 ## Overview
@@ -88,7 +88,7 @@ A: Handsets sold on contract are network-locked to ClearWave for the first 6 mon
 | Objection | Suggested Response |
 |-----------|-------------------|
 | "It's too expensive" | Spread over 24 months, the handset cost is £30/month — less than many customers spend on coffee each week. It's also a 0% finance option, so there's no interest at all. |
-| "I don't need a flagship phone" | That's fair — our [[PROD-ClearWaveX1HandsetBudget]] gives you 5G and a great everyday experience at a significantly lower price. |
+| "I don't need a flagship phone" | That's fair — our [PROD-ClearWaveX1HandsetBudget](PROD-ClearWaveX1HandsetBudget.md) gives you 5G and a great everyday experience at a significantly lower price. |
 | "I'll just buy unlocked from elsewhere" | Absolutely possible. If you bring your own handset, you can pair it with one of our SIM-only plans and often save money overall. |
 | "What about the camera — I've heard mixed reviews" | The 200 MP main sensor is industry-leading in daylight. For low-light, we find customers are very happy with the results — I can show you sample shots from our demo unit if you're in-store. |
 
@@ -96,6 +96,6 @@ A: Handsets sold on contract are network-locked to ClearWave for the first 6 mon
 
 ## Related
 
-- [[PROD-SIMOnlyUnlimited5G]]
-- [[PROD-SIMOnly10GB5G]]
-- [[PROD-ClearWaveX1HandsetBudget]]
+- [PROD-SIMOnlyUnlimited5G](PROD-SIMOnlyUnlimited5G.md)
+- [PROD-SIMOnly10GB5G](PROD-SIMOnly10GB5G.md)
+- [PROD-ClearWaveX1HandsetBudget](PROD-ClearWaveX1HandsetBudget.md)

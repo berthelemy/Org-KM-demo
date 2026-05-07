@@ -14,9 +14,9 @@ launched: 2024-01-15
 discontinued: ""
 provider: ClearWave
 related:
-  - "[[PROD-Fibre100Broadband]]"
-  - "[[PROD-Fibre1000Broadband]]"
-  - "[[PROD-HomePhone]]"
+  - "[PROD-Fibre100Broadband](PROD-Fibre100Broadband.md)"
+  - "[PROD-Fibre1000Broadband](PROD-Fibre1000Broadband.md)"
+  - "[PROD-HomePhone](PROD-HomePhone.md)"
 ---
 
 ## Overview
@@ -87,6 +87,6 @@ A: Fibre 500 and Fibre 1000 customers bypass the standard support queue and are 
 
 ## Related
 
-- [[PROD-Fibre100Broadband]]
-- [[PROD-Fibre1000Broadband]]
-- [[PROD-HomePhone]]
+- [PROD-Fibre100Broadband](PROD-Fibre100Broadband.md)
+- [PROD-Fibre1000Broadband](PROD-Fibre1000Broadband.md)
+- [PROD-HomePhone](PROD-HomePhone.md)

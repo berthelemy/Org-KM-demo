@@ -16,9 +16,9 @@ launched: 2024-06-01
 discontinued: ""
 provider: ClearWave
 related:
-  - "[[PROD-Fibre100Broadband]]"
-  - "[[PROD-Fibre500Broadband]]"
-  - "[[PROD-HomePhone]]"
+  - "[PROD-Fibre100Broadband](PROD-Fibre100Broadband.md)"
+  - "[PROD-Fibre500Broadband](PROD-Fibre500Broadband.md)"
+  - "[PROD-HomePhone](PROD-HomePhone.md)"
 ---
 
 ## Overview
@@ -92,6 +92,6 @@ A: The Pro model supports Wi-Fi 6E (including the 6 GHz band), is tri-band, and 
 
 ## Related
 
-- [[PROD-Fibre100Broadband]]
-- [[PROD-Fibre500Broadband]]
-- [[PROD-HomePhone]]
+- [PROD-Fibre100Broadband](PROD-Fibre100Broadband.md)
+- [PROD-Fibre500Broadband](PROD-Fibre500Broadband.md)
+- [PROD-HomePhone](PROD-HomePhone.md)

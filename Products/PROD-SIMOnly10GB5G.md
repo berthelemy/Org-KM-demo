@@ -15,8 +15,8 @@ launched: 2024-03-01
 discontinued: ""
 provider: ClearWave Mobile
 related:
-  - "[[PROD-SIMOnlyUnlimited5G]]"
-  - "[[PROD-MobileBroadband5G]]"
+  - "[PROD-SIMOnlyUnlimited5G](PROD-SIMOnlyUnlimited5G.md)"
+  - "[PROD-MobileBroadband5G](PROD-MobileBroadband5G.md)"
 ---
 
 ## Overview
@@ -81,7 +81,7 @@ A: Yes — unused data rolls over to the following month only. It is used after 
 
 | Objection | Suggested Response |
 |-----------|-------------------|
-| "10 GB isn't enough" | Our usage data shows 10 GB comfortably covers customers who primarily use Wi-Fi at home and work. If you'd like more flexibility, our [[PROD-SIMOnlyUnlimited5G]] plan removes the worry entirely. |
+| "10 GB isn't enough" | Our usage data shows 10 GB comfortably covers customers who primarily use Wi-Fi at home and work. If you'd like more flexibility, our [PROD-SIMOnlyUnlimited5G](PROD-SIMOnlyUnlimited5G.md) plan removes the worry entirely. |
 | "I don't want to be tied in" | This is a monthly rolling contract — you can cancel with just 30 days' notice. There's no long-term commitment. |
 | "My current plan is cheaper" | That may be on an older network. Our 10 GB plan includes 5G access and EU roaming at no extra cost, which many legacy plans charge separately for. |
 
@@ -89,5 +89,5 @@ A: Yes — unused data rolls over to the following month only. It is used after 
 
 ## Related
 
-- [[PROD-SIMOnlyUnlimited5G]]
-- [[PROD-MobileBroadband5G]]
+- [PROD-SIMOnlyUnlimited5G](PROD-SIMOnlyUnlimited5G.md)
+- [PROD-MobileBroadband5G](PROD-MobileBroadband5G.md)

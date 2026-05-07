@@ -16,9 +16,9 @@ launched: 2024-01-15
 discontinued: ""
 provider: ClearWave
 related:
-  - "[[PROD-Fibre100Broadband]]"
-  - "[[PROD-Fibre500Broadband]]"
-  - "[[PROD-Fibre1000Broadband]]"
+  - "[PROD-Fibre100Broadband](PROD-Fibre100Broadband.md)"
+  - "[PROD-Fibre500Broadband](PROD-Fibre500Broadband.md)"
+  - "[PROD-Fibre1000Broadband](PROD-Fibre1000Broadband.md)"
 ---
 
 ## Overview
@@ -88,6 +88,6 @@ A: Yes — the unlimited calls allowance includes UK mobile numbers as well as l
 
 ## Related
 
-- [[PROD-Fibre100Broadband]]
-- [[PROD-Fibre500Broadband]]
-- [[PROD-Fibre1000Broadband]]
+- [PROD-Fibre100Broadband](PROD-Fibre100Broadband.md)
+- [PROD-Fibre500Broadband](PROD-Fibre500Broadband.md)
+- [PROD-Fibre1000Broadband](PROD-Fibre1000Broadband.md)

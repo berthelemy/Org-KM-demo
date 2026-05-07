@@ -16,8 +16,8 @@ launched: 2024-09-01
 discontinued: ""
 provider: ClearWave Mobile
 related:
-  - "[[PROD-SIMOnlyUnlimited5G]]"
-  - "[[PROD-Fibre100Broadband]]"
+  - "[PROD-SIMOnlyUnlimited5G](PROD-SIMOnlyUnlimited5G.md)"
+  - "[PROD-Fibre100Broadband](PROD-Fibre100Broadband.md)"
 ---
 
 ## Overview
@@ -66,10 +66,10 @@ ClearWave Mobile Broadband 5G provides portable internet access via a 5G MiFi de
 ## Frequently Asked Questions
 
 **Q: Can I use this as my home broadband?**
-A: Yes, many customers in areas without reliable fixed-line broadband use Mobile Broadband 5G as their primary home connection. For a single user or couple with moderate usage it works well. For households with heavy simultaneous usage (4K streaming on multiple TVs, gaming), a dedicated [[PROD-Fibre100Broadband]] or higher product will provide more consistent performance.
+A: Yes, many customers in areas without reliable fixed-line broadband use Mobile Broadband 5G as their primary home connection. For a single user or couple with moderate usage it works well. For households with heavy simultaneous usage (4K streaming on multiple TVs, gaming), a dedicated [PROD-Fibre100Broadband](PROD-Fibre100Broadband.md) or higher product will provide more consistent performance.
 
 **Q: Is 100 GB enough?**
-A: 100 GB covers approximately 40 hours of 4K streaming, 500 hours of HD video calls, or several thousand hours of browsing. For most moderate-to-heavy single users it is sufficient. Customers who need more should consider the [[PROD-SIMOnlyUnlimited5G]] plan with a compatible router/dongle.
+A: 100 GB covers approximately 40 hours of 4K streaming, 500 hours of HD video calls, or several thousand hours of browsing. For most moderate-to-heavy single users it is sufficient. Customers who need more should consider the [PROD-SIMOnlyUnlimited5G](PROD-SIMOnlyUnlimited5G.md) plan with a compatible router/dongle.
 
 **Q: How many devices can connect at once?**
 A: Up to 10 devices can connect to the MiFi Hub simultaneously. Performance will vary with the number of active concurrent users.
@@ -84,13 +84,13 @@ A: The SIM is locked to the MiFi Hub device during the initial contract term. On
 
 | Objection | Suggested Response |
 |-----------|-------------------|
-| "100 GB will run out" | A data cap alert will let you know when you're approaching your limit, and you can add data or upgrade your plan at any point. For customers who need more, we'd recommend the [[PROD-SIMOnlyUnlimited5G]] on a compatible router. |
-| "I'd rather have proper broadband" | If fibre is available at your address, a [[PROD-Fibre100Broadband]] plan will generally offer faster, more consistent speeds for home use. Mobile Broadband 5G is best suited to customers on the move or where fixed-line isn't a good option. |
+| "100 GB will run out" | A data cap alert will let you know when you're approaching your limit, and you can add data or upgrade your plan at any point. For customers who need more, we'd recommend the [PROD-SIMOnlyUnlimited5G](PROD-SIMOnlyUnlimited5G.md) on a compatible router. |
+| "I'd rather have proper broadband" | If fibre is available at your address, a [PROD-Fibre100Broadband](PROD-Fibre100Broadband.md) plan will generally offer faster, more consistent speeds for home use. Mobile Broadband 5G is best suited to customers on the move or where fixed-line isn't a good option. |
 | "The device looks bulky" | The MiFi Hub 5G is pocket-sized — roughly the same dimensions as a large smartphone. It's designed to slip into a bag or jacket pocket. |
 
 ---
 
 ## Related
 
-- [[PROD-SIMOnlyUnlimited5G]]
-- [[PROD-Fibre100Broadband]]
+- [PROD-SIMOnlyUnlimited5G](PROD-SIMOnlyUnlimited5G.md)
+- [PROD-Fibre100Broadband](PROD-Fibre100Broadband.md)

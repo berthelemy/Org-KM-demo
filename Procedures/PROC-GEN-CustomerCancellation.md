@@ -17,19 +17,19 @@ version: "1.0"
 created: 2026-05-07
 reviewed: 2026-05-07
 review-due: 2028-05-07
-related-policy: "[[POL-CON-CodeOfConduct]]"
+related-policy: "[POL-CON-CodeOfConduct](../Policies/POL-CON-CodeOfConduct.md)"
 related:
-  - "[[POL-DP-DataProtectionAndGDPR]]"
-  - "[[POL-DISC-DisciplinaryAndGrievance]]"
-  - "[[PROC-GEN-CustomerSupport]]"
-  - "[[PROC-GEN-SalesProcedure]]"
-  - "[[PROD-Fibre100Broadband]]"
-  - "[[PROD-Fibre500Broadband]]"
-  - "[[PROD-Fibre1000Broadband]]"
-  - "[[PROD-SIMOnly10GB5G]]"
-  - "[[PROD-SIMOnlyUnlimited5G]]"
-  - "[[PROD-MobileBroadband5G]]"
-  - "[[PROD-HomePhone]]"
+  - "[POL-DP-DataProtectionAndGDPR](../Policies/POL-DP-DataProtectionAndGDPR.md)"
+  - "[POL-DISC-DisciplinaryAndGrievance](../Policies/POL-DISC-DisciplinaryAndGrievance.md)"
+  - "[PROC-GEN-CustomerSupport](PROC-GEN-CustomerSupport.md)"
+  - "[PROC-GEN-SalesProcedure](PROC-GEN-SalesProcedure.md)"
+  - "[PROD-Fibre100Broadband](../Products/PROD-Fibre100Broadband.md)"
+  - "[PROD-Fibre500Broadband](../Products/PROD-Fibre500Broadband.md)"
+  - "[PROD-Fibre1000Broadband](../Products/PROD-Fibre1000Broadband.md)"
+  - "[PROD-SIMOnly10GB5G](../Products/PROD-SIMOnly10GB5G.md)"
+  - "[PROD-SIMOnlyUnlimited5G](../Products/PROD-SIMOnlyUnlimited5G.md)"
+  - "[PROD-MobileBroadband5G](../Products/PROD-MobileBroadband5G.md)"
+  - "[PROD-HomePhone](../Products/PROD-HomePhone.md)"
 ---
 
 ## Purpose
@@ -45,8 +45,8 @@ All agents handling inbound cancellation requests, retentions, and disconnection
 - Access to CRM (Salesforce) to locate the account and log the interaction
 - Access to OMS to check contract end dates and active services
 - Access to the current retention offers tool (live offers change regularly — do not use offers from memory)
-- Identity verification required before any account action — see [[POL-DP-DataProtectionAndGDPR]]
-- Familiarity with [[POL-CON-CodeOfConduct]]: agents must not use pressure tactics, create false urgency, or obstruct a customer's right to cancel
+- Identity verification required before any account action — see [POL-DP-DataProtectionAndGDPR](../Policies/POL-DP-DataProtectionAndGDPR.md)
+- Familiarity with [POL-CON-CodeOfConduct](../Policies/POL-CON-CodeOfConduct.md): agents must not use pressure tactics, create false urgency, or obstruct a customer's right to cancel
 
 ---
 
@@ -84,13 +84,13 @@ All agents handling inbound cancellation requests, retentions, and disconnection
 - Present the offer once, clearly and honestly; do not repeat it if the customer declines
 
 > **Conduct requirement**: agents must not use pressure tactics, countdown timers, or false claims about offer availability. A customer who says "no" to a retention offer must be respected.  
-> See [[POL-CON-CodeOfConduct]]
+> See [POL-CON-CodeOfConduct](../Policies/POL-CON-CodeOfConduct.md)
 
 **Common retention approaches by reason:**
 
 | Cancellation Reason | Possible Retention Approach |
 |--------------------|-----------------------------|
-| Price — too expensive | Check for a lower-tier product (e.g. [[PROD-Fibre100Broadband]] vs [[PROD-Fibre500Broadband]]); offer a loyalty discount if available |
+| Price — too expensive | Check for a lower-tier product (e.g. [PROD-Fibre100Broadband](../Products/PROD-Fibre100Broadband.md) vs [PROD-Fibre500Broadband](../Products/PROD-Fibre500Broadband.md)); offer a loyalty discount if available |
 | Moving house | Check if ClearWave coverage is available at the new address; offer a house move transfer |
 | Unhappy with speed / service | Check for unresolved fault tickets; offer an engineer visit or temporary credit |
 | Switching to a competitor | Ask what the competitor is offering; match or contextualise where possible — do not disparage the competitor |
@@ -137,7 +137,7 @@ All agents handling inbound cancellation requests, retentions, and disconnection
 | Customer cites an unresolved service fault as reason | Check CRM for open tickets; if a fault is open for >14 days, escalate to Team Leader — customer may be eligible for a no-fault contract exit |
 | Customer requests a PAC or STAC code | Provide within 1 working day (legal obligation); log request in CRM |
 | Account holder is deceased | Do not continue with standard cancellation; transfer to Bereavement team immediately |
-| Customer is aggressive or abusive during the call | Follow [[POL-CON-CodeOfConduct]]; agents may end the call if abuse continues; log in CRM |
+| Customer is aggressive or abusive during the call | Follow [POL-CON-CodeOfConduct](../Policies/POL-CON-CodeOfConduct.md); agents may end the call if abuse continues; log in CRM |
 | Customer has a ClearWave Protect or add-on insurance claim in progress | Note this; cancellation of the base product may affect the claim — advise the customer to contact the claims team before proceeding |
 | ETC is disputed | Do not waive without Team Leader authorisation; escalate |
 | Customer requests immediate same-day cancellation (mid-contract) | Not available for fixed-term contracts outside cooling-off; standard notice applies |
@@ -147,7 +147,7 @@ All agents handling inbound cancellation requests, retentions, and disconnection
 
 - **Disputed ETC**: escalate to Team Leader; do not process or waive without authorisation
 - **Service fault-driven exit** (potential no-fault exit): escalate to Team Leader with fault ticket reference
-- **Formal complaint** lodged during cancellation: follow [[PROC-GEN-CustomerSupport]]; do not attempt to resolve informally
+- **Formal complaint** lodged during cancellation: follow [PROC-GEN-CustomerSupport](PROC-GEN-CustomerSupport.md); do not attempt to resolve informally
 - **Suspected fraudulent cancellation request** (e.g. caller cannot verify identity but requests immediate cancellation): do not proceed; escalate to the Fraud team
 - **Bereavement**: transfer to Bereavement team; do not handle within this procedure
 
@@ -164,8 +164,8 @@ All agents handling inbound cancellation requests, retentions, and disconnection
 
 ## Related
 
-- [[PROC-GEN-CustomerSupport]]
-- [[PROC-GEN-SalesProcedure]]
-- [[POL-CON-CodeOfConduct]]
-- [[POL-DP-DataProtectionAndGDPR]]
-- [[POL-DISC-DisciplinaryAndGrievance]]
+- [PROC-GEN-CustomerSupport](PROC-GEN-CustomerSupport.md)
+- [PROC-GEN-SalesProcedure](PROC-GEN-SalesProcedure.md)
+- [POL-CON-CodeOfConduct](../Policies/POL-CON-CodeOfConduct.md)
+- [POL-DP-DataProtectionAndGDPR](../Policies/POL-DP-DataProtectionAndGDPR.md)
+- [POL-DISC-DisciplinaryAndGrievance](../Policies/POL-DISC-DisciplinaryAndGrievance.md)

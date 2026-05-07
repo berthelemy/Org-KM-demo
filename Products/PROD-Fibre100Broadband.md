@@ -14,9 +14,9 @@ launched: 2024-01-15
 discontinued: ""
 provider: ClearWave
 related:
-  - "[[PROD-Fibre500Broadband]]"
-  - "[[PROD-Fibre1000Broadband]]"
-  - "[[PROD-HomePhone]]"
+  - "[PROD-Fibre500Broadband](PROD-Fibre500Broadband.md)"
+  - "[PROD-Fibre1000Broadband](PROD-Fibre1000Broadband.md)"
+  - "[PROD-HomePhone](PROD-HomePhone.md)"
 ---
 
 ## Overview
@@ -70,7 +70,7 @@ A: Yes, a ClearWave engineer will install or activate the FTTP connection at the
 A: As a dedicated FTTP connection, Fibre 100 is not shared with neighbours. Performance during peak times is significantly more consistent than ADSL or cable products.
 
 **Q: Can I keep my existing phone number?**
-A: Yes, if the customer is also taking a [[PROD-HomePhone]] line, their existing number can be ported. Allow up to 5 working days.
+A: Yes, if the customer is also taking a [PROD-HomePhone](PROD-HomePhone.md) line, their existing number can be ported. Allow up to 5 working days.
 
 **Q: What if my speed is lower than advertised?**
 A: If the customer's actual speed is consistently below the minimum guaranteed speed (stated in their contract), they are entitled to a free engineer visit and, if unresolved, to exit the contract without penalty.
@@ -88,6 +88,6 @@ A: If the customer's actual speed is consistently below the minimum guaranteed s
 
 ## Related
 
-- [[PROD-Fibre500Broadband]]
-- [[PROD-Fibre1000Broadband]]
-- [[PROD-HomePhone]]
+- [PROD-Fibre500Broadband](PROD-Fibre500Broadband.md)
+- [PROD-Fibre1000Broadband](PROD-Fibre1000Broadband.md)
+- [PROD-HomePhone](PROD-HomePhone.md)
