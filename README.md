@@ -10,6 +10,10 @@ This repository is a proof-of-concept showing how a structured knowledge managem
 
 The vault is designed to be opened in [Obsidian](https://obsidian.md), where the wikilinks, tags, and graph view give agents a navigable, interconnected knowledge base.
 
+This repository forms part of a wider proof of concept for an AI-supported learning system.
+
+![A landscape block diagram comparing two digital learning models. On the left, a Traditional Course Delivery model shows content flowing from an authoring tool through a funnel into an LMS and then to users. On the right, an AI-Powered Knowledge Ecosystem shows users interacting with an AI Chatbot and Agent, which is fed by LMS data and a vast knowledge repository of documents.](/assets/images/AI-learning-ecosystem.png)
+
 ---
 
 ## How the Contents Were Created
