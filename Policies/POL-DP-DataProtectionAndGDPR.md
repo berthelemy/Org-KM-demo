@@ -18,6 +18,7 @@ related:
   - "[POL-CON-CodeOfConduct](POL-CON-CodeOfConduct.md)"
   - "[POL-AU-AcceptableUseOfTechnology](POL-AU-AcceptableUseOfTechnology.md)"
   - "[POL-DISC-DisciplinaryAndGrievance](POL-DISC-DisciplinaryAndGrievance.md)"
+license: "CC BY-NC 4.0"
 ---
 
 ## Purpose

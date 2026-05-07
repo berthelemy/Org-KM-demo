@@ -20,6 +20,7 @@ related:
   - "[SCR-OB-BroadbandUpgrade](SCR-OB-BroadbandUpgrade.md)"
   - "[PROC-GEN-CustomerCancellation](../Procedures/PROC-GEN-CustomerCancellation.md)"
   - "[PROC-GEN-SalesProcedure](../Procedures/PROC-GEN-SalesProcedure.md)"
+license: "CC BY-NC 4.0"
 ---
 
 ## Purpose

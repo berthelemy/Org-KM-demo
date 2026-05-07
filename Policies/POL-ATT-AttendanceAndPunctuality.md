@@ -17,6 +17,7 @@ related:
   - "[POL-DISC-DisciplinaryAndGrievance](POL-DISC-DisciplinaryAndGrievance.md)"
   - "[POL-SCH-ScheduleAdherence](POL-SCH-ScheduleAdherence.md)"
   - "[POL-ABS-AbsenceAndSickness](POL-ABS-AbsenceAndSickness.md)"
+license: "CC BY-NC 4.0"
 ---
 
 ## Purpose

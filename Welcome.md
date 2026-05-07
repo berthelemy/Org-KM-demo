@@ -12,6 +12,7 @@ owner: Knowledge Management Team
 created: 2026-05-07
 reviewed: 2026-05-07
 review-due: 2028-05-07
+license: "CC BY-NC 4.0"
 ---
 
 Welcome to the ClearWave agent knowledge base. Use the links below to navigate to any policy, procedure, product, or script.

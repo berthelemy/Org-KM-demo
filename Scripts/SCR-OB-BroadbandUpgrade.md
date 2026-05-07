@@ -20,6 +20,7 @@ related:
   - "[PROD-Fibre100Broadband](../Products/PROD-Fibre100Broadband.md)"
   - "[PROD-Fibre500Broadband](../Products/PROD-Fibre500Broadband.md)"
   - "[PROD-Fibre1000Broadband](../Products/PROD-Fibre1000Broadband.md)"
+license: "CC BY-NC 4.0"
 ---
 
 ## Purpose

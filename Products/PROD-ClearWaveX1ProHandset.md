@@ -17,6 +17,7 @@ related:
   - "[PROD-SIMOnly10GB5G](PROD-SIMOnly10GB5G.md)"
   - "[PROD-SIMOnlyUnlimited5G](PROD-SIMOnlyUnlimited5G.md)"
   - "[PROD-ClearWaveX1HandsetBudget](PROD-ClearWaveX1HandsetBudget.md)"
+license: "CC BY-NC 4.0"
 ---
 
 ## Overview

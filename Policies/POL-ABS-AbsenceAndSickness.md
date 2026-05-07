@@ -18,6 +18,7 @@ related:
   - "[POL-DISC-DisciplinaryAndGrievance](POL-DISC-DisciplinaryAndGrievance.md)"
   - "[POL-HS-HealthSafetyAndWellbeing](POL-HS-HealthSafetyAndWellbeing.md)"
   - "[POL-ATT-AttendanceAndPunctuality](POL-ATT-AttendanceAndPunctuality.md)"
+license: "CC BY-NC 4.0"
 ---
 
 ## Purpose

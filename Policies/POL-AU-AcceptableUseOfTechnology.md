@@ -19,6 +19,7 @@ related:
   - "[POL-DP-DataProtectionAndGDPR](POL-DP-DataProtectionAndGDPR.md)"
   - "[POL-CON-CodeOfConduct](POL-CON-CodeOfConduct.md)"
   - "[POL-DISC-DisciplinaryAndGrievance](POL-DISC-DisciplinaryAndGrievance.md)"
+license: "CC BY-NC 4.0"
 ---
 
 ## Purpose

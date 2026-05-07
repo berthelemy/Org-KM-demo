@@ -18,6 +18,7 @@ related:
   - "[POL-EDI-EqualityDiversityInclusion](POL-EDI-EqualityDiversityInclusion.md)"
   - "[POL-AU-AcceptableUseOfTechnology](POL-AU-AcceptableUseOfTechnology.md)"
   - "[POL-DP-DataProtectionAndGDPR](POL-DP-DataProtectionAndGDPR.md)"
+license: "CC BY-NC 4.0"
 ---
 
 ## Purpose

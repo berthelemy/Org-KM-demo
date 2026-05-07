@@ -20,6 +20,7 @@ related:
   - "[PROC-GEN-CustomerSupport](../Procedures/PROC-GEN-CustomerSupport.md)"
   - "[SCR-OB-BroadbandUpgrade](SCR-OB-BroadbandUpgrade.md)"
   - "[SCR-OB-MobileAddOn](SCR-OB-MobileAddOn.md)"
+license: "CC BY-NC 4.0"
 ---
 
 ## Purpose

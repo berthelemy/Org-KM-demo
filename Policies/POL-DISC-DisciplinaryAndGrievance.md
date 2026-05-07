@@ -20,6 +20,7 @@ related:
   - "[POL-PERF-PerformanceManagement](POL-PERF-PerformanceManagement.md)"
   - "[POL-ABS-AbsenceAndSickness](POL-ABS-AbsenceAndSickness.md)"
   - "[POL-EDI-EqualityDiversityInclusion](POL-EDI-EqualityDiversityInclusion.md)"
+license: "CC BY-NC 4.0"
 ---
 
 ## Purpose

@@ -30,6 +30,7 @@ related:
   - "[PROD-SIMOnlyUnlimited5G](../Products/PROD-SIMOnlyUnlimited5G.md)"
   - "[PROD-MobileBroadband5G](../Products/PROD-MobileBroadband5G.md)"
   - "[PROD-HomePhone](../Products/PROD-HomePhone.md)"
+license: "CC BY-NC 4.0"
 ---
 
 ## Purpose

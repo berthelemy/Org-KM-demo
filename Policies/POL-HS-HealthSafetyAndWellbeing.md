@@ -19,6 +19,7 @@ related:
   - "[POL-ABS-AbsenceAndSickness](POL-ABS-AbsenceAndSickness.md)"
   - "[POL-PERF-PerformanceManagement](POL-PERF-PerformanceManagement.md)"
   - "[POL-AU-AcceptableUseOfTechnology](POL-AU-AcceptableUseOfTechnology.md)"
+license: "CC BY-NC 4.0"
 ---
 
 ## Purpose

@@ -29,6 +29,7 @@ related:
   - "[PROD-MobileBroadband5G](../Products/PROD-MobileBroadband5G.md)"
   - "[PROD-HomePhone](../Products/PROD-HomePhone.md)"
   - "[PROC-CustomerOnboarding](PROC-CustomerOnboarding.md)"
+license: "CC BY-NC 4.0"
 ---
 
 ## Purpose

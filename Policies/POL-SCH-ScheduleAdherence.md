@@ -17,6 +17,7 @@ related:
   - "[POL-PERF-PerformanceManagement](POL-PERF-PerformanceManagement.md)"
   - "[POL-DISC-DisciplinaryAndGrievance](POL-DISC-DisciplinaryAndGrievance.md)"
   - "[POL-ATT-AttendanceAndPunctuality](POL-ATT-AttendanceAndPunctuality.md)"
+license: "CC BY-NC 4.0"
 ---
 
 ## Purpose

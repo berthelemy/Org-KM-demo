@@ -17,6 +17,7 @@ review-due: 2028-05-07
 related:
   - "[POL-DISC-DisciplinaryAndGrievance](POL-DISC-DisciplinaryAndGrievance.md)"
   - "[POL-SCH-ScheduleAdherence](POL-SCH-ScheduleAdherence.md)"
+license: "CC BY-NC 4.0"
 ---
 
 ## Purpose

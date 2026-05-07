@@ -18,6 +18,7 @@ provider: ClearWave Mobile
 related:
   - "[PROD-SIMOnlyUnlimited5G](PROD-SIMOnlyUnlimited5G.md)"
   - "[PROD-Fibre100Broadband](PROD-Fibre100Broadband.md)"
+license: "CC BY-NC 4.0"
 ---
 
 ## Overview

@@ -17,6 +17,7 @@ related:
   - "[PROD-Fibre500Broadband](PROD-Fibre500Broadband.md)"
   - "[PROD-Fibre1000Broadband](PROD-Fibre1000Broadband.md)"
   - "[PROD-HomePhone](PROD-HomePhone.md)"
+license: "CC BY-NC 4.0"
 ---
 
 ## Overview

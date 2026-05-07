@@ -140,3 +140,11 @@ For HR policies specifically, prompt Copilot with the `call-centre-hr-policies` 
 ## Disclaimer
 
 All company names, products, prices, and personnel referenced in this vault are entirely fictional and created for demonstration purposes only. Nothing in this repository constitutes legal, HR, or regulatory advice.
+
+---
+
+## Licence
+
+This work is licensed under [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/).
+
+You are free to share and adapt this material for non-commercial purposes, provided you give appropriate credit and indicate if changes were made. See the [LICENSE](LICENSE) file for full terms.

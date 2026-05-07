@@ -20,6 +20,7 @@ related:
   - "[PROD-SIMOnly10GB5G](../Products/PROD-SIMOnly10GB5G.md)"
   - "[PROD-SIMOnlyUnlimited5G](../Products/PROD-SIMOnlyUnlimited5G.md)"
   - "[PROD-ClearWaveX1ProHandset](../Products/PROD-ClearWaveX1ProHandset.md)"
+license: "CC BY-NC 4.0"
 ---
 
 ## Purpose
