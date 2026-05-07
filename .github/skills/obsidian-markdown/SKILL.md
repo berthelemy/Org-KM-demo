@@ -97,8 +97,31 @@ After saving the note, **always** add a Markdown link to it in [Welcome.md](../.
   ```
 - If the note type section does not exist yet in `Welcome.md`, add it following the existing section pattern
 
-### 8. Review Checklist
+### 8. Markdown Formatting Rules
+
+All notes must pass markdownlint. Apply these rules when authoring:
+
+**MD022 / MD032 — Blank lines around headings and lists**
+- Every heading (`##`, `###`, etc.) must be followed by a blank line before the next content
+- Every bullet list must be preceded and followed by a blank line
+
+**MD025 — Single H1 only**
+- Do not include a `# Title` H1 in the body; the `title:` YAML frontmatter property serves as the document title
+- If a top-level heading is needed for display, start at `##`
+
+**MD031 — Blank lines around fenced code blocks**
+- Always add a blank line before and after every ` ``` ` code fence
+
+**MD040 — Language on fenced code blocks**
+- Always specify a language on every code fence, e.g. ` ```yaml `, ` ```text `, ` ```bash `
+
+**MD060 — Table separator spacing**
+- Table separator rows must use spaced dashes: `| --- | --- |` not `|---|---|`
+
+### 9. Review Checklist
+
 Before saving:
+
 - [ ] All `<placeholder>` values replaced
 - [ ] `created:` date set to today
 - [ ] `review-due:` set (≤ 2 years from created)
@@ -108,3 +131,4 @@ Before saving:
 - [ ] File name follows the naming convention for the note type
 - [ ] Saved to the correct folder
 - [ ] Link added to the correct section of `Welcome.md`
+- [ ] No markdownlint errors (MD022, MD025, MD031, MD032, MD040, MD060)
