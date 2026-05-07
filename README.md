@@ -8,7 +8,7 @@
 
 This repository is a proof-of-concept showing how a structured knowledge management system can be built and maintained inside VS Code using **GitHub Copilot custom agent skills**. The vault contains the policies, procedures, product information, and call scripts that an agent at a fictional telecoms provider — **ClearWave** — would need to do their job.
 
-The vault is designed to be opened in [Obsidian](https://obsidian.md), where the wikilinks, tags, and graph view give agents a navigable, interconnected knowledge base.
+The vault is designed to be opened in [Obsidian](https://obsidian.md), where Markdown links, tags, and graph view give agents a navigable, interconnected knowledge base.
 
 This repository forms part of a wider proof of concept for an AI-supported knowledge ecosystem.
 
@@ -24,7 +24,7 @@ All content in this vault was authored by **GitHub Copilot** using two custom ag
 A skill that instructs Copilot on how to create well-formed Obsidian notes, including:
 - Correct YAML frontmatter properties (types, formats, required fields)
 - File naming conventions per note type
-- Wikilink and tag conventions
+- Markdown link and tag conventions
 - A review checklist enforced before every save
 - A rule to update `Welcome.md` with a link to every new note
 
@@ -106,7 +106,7 @@ Start here: [Welcome](Welcome.md)
 1. Clone or download this repository
 2. Open Obsidian → **Open folder as vault** → select the repository root
 3. Open `Welcome.md` as your starting point
-4. The graph view will show how all notes interconnect via wikilinks
+4. The graph view will show how all notes interconnect via Markdown links
 
 Recommended Obsidian plugins (already configured in `.obsidian/`): `properties`, `backlinks`, `tag-pane`, `graph`, `bases`, `templates`.
 
