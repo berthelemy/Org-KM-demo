@@ -15,8 +15,8 @@ created: 2026-05-07
 reviewed: 2026-05-07
 review-due: 2028-05-07
 related:
-  - "[[POL-DISC-DisciplinaryAndGrievance]]"
-  - "[[POL-SCH-ScheduleAdherence]]"
+  - "[POL-DISC-DisciplinaryAndGrievance](POL-DISC-DisciplinaryAndGrievance.md)"
+  - "[POL-SCH-ScheduleAdherence](POL-SCH-ScheduleAdherence.md)"
 ---
 
 ## Purpose
@@ -59,5 +59,5 @@ Triggered when a team member falls below target on two or more KPIs for **two co
 - Appeal a PIP outcome through the Grievance procedure
 
 ## Key Links
-- Triggers: [[POL-DISC-DisciplinaryAndGrievance]] (if PIP not passed)
-- Related metrics: [[POL-SCH-ScheduleAdherence]], Quality Monitoring scores
+- Triggers: [POL-DISC-DisciplinaryAndGrievance](POL-DISC-DisciplinaryAndGrievance.md) (if PIP not passed)
+- Related metrics: [POL-SCH-ScheduleAdherence](POL-SCH-ScheduleAdherence.md), Quality Monitoring scores

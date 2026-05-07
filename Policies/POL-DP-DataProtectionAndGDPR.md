@@ -15,9 +15,9 @@ created: 2026-05-07
 reviewed: 2026-05-07
 review-due: 2028-05-07
 related:
-  - "[[POL-CON-CodeOfConduct]]"
-  - "[[POL-AU-AcceptableUseOfTechnology]]"
-  - "[[POL-DISC-DisciplinaryAndGrievance]]"
+  - "[POL-CON-CodeOfConduct](POL-CON-CodeOfConduct.md)"
+  - "[POL-AU-AcceptableUseOfTechnology](POL-AU-AcceptableUseOfTechnology.md)"
+  - "[POL-DISC-DisciplinaryAndGrievance](POL-DISC-DisciplinaryAndGrievance.md)"
 ---
 
 ## Purpose
@@ -65,5 +65,5 @@ Calls involving health, financial vulnerability, or other sensitive data require
 - Refresher required following any data breach involving the team member
 
 ## Key Links
-- Related: [[POL-CON-CodeOfConduct]], [[POL-AU-AcceptableUseOfTechnology]]
+- Related: [POL-CON-CodeOfConduct](POL-CON-CodeOfConduct.md), [POL-AU-AcceptableUseOfTechnology](POL-AU-AcceptableUseOfTechnology.md)
 - Regulatory: UK GDPR; Data Protection Act 2018; PCI-DSS (where applicable)

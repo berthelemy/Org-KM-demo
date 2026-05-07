@@ -16,9 +16,9 @@ created: 2026-05-07
 reviewed: 2026-05-07
 review-due: 2028-05-07
 related:
-  - "[[POL-DP-DataProtectionAndGDPR]]"
-  - "[[POL-CON-CodeOfConduct]]"
-  - "[[POL-DISC-DisciplinaryAndGrievance]]"
+  - "[POL-DP-DataProtectionAndGDPR](POL-DP-DataProtectionAndGDPR.md)"
+  - "[POL-CON-CodeOfConduct](POL-CON-CodeOfConduct.md)"
+  - "[POL-DISC-DisciplinaryAndGrievance](POL-DISC-DisciplinaryAndGrievance.md)"
 ---
 
 ## Purpose
@@ -57,10 +57,10 @@ The following are prohibited at all times, including outside work hours on compa
 - Official company social media accounts may only be managed by authorised team members
 
 ## Monitoring
-The company reserves the right to monitor use of company systems for security and compliance purposes. Monitoring is proportionate and conducted in accordance with the [[POL-DP-DataProtectionAndGDPR]] and applicable law. Team members are informed of monitoring at the point of system access.
+The company reserves the right to monitor use of company systems for security and compliance purposes. Monitoring is proportionate and conducted in accordance with the [POL-DP-DataProtectionAndGDPR](POL-DP-DataProtectionAndGDPR.md) and applicable law. Team members are informed of monitoring at the point of system access.
 
 ## Non-Compliance
 Breaches of this policy may result in disciplinary action up to and including dismissal, and in cases involving data protection, may be referred to the ICO or law enforcement.
 
 ## Key Links
-- Related: [[POL-DP-DataProtectionAndGDPR]], [[POL-CON-CodeOfConduct]], [[POL-DISC-DisciplinaryAndGrievance]]
+- Related: [POL-DP-DataProtectionAndGDPR](POL-DP-DataProtectionAndGDPR.md), [POL-CON-CodeOfConduct](POL-CON-CodeOfConduct.md), [POL-DISC-DisciplinaryAndGrievance](POL-DISC-DisciplinaryAndGrievance.md)

@@ -15,11 +15,11 @@ created: 2026-05-07
 reviewed: 2026-05-07
 review-due: 2028-05-07
 related:
-  - "[[POL-ATT-AttendanceAndPunctuality]]"
-  - "[[POL-CON-CodeOfConduct]]"
-  - "[[POL-PERF-PerformanceManagement]]"
-  - "[[POL-ABS-AbsenceAndSickness]]"
-  - "[[POL-EDI-EqualityDiversityInclusion]]"
+  - "[POL-ATT-AttendanceAndPunctuality](POL-ATT-AttendanceAndPunctuality.md)"
+  - "[POL-CON-CodeOfConduct](POL-CON-CodeOfConduct.md)"
+  - "[POL-PERF-PerformanceManagement](POL-PERF-PerformanceManagement.md)"
+  - "[POL-ABS-AbsenceAndSickness](POL-ABS-AbsenceAndSickness.md)"
+  - "[POL-EDI-EqualityDiversityInclusion](POL-EDI-EqualityDiversityInclusion.md)"
 ---
 
 ## Purpose
@@ -82,5 +82,5 @@ A team member who has a complaint about their working conditions, treatment by c
 - Where the grievance is against the direct line manager, it is escalated directly to HR
 
 ## Key Links
-- Triggers from: [[POL-ATT-AttendanceAndPunctuality]], [[POL-CON-CodeOfConduct]], [[POL-PERF-PerformanceManagement]], [[POL-ABS-AbsenceAndSickness]]
-- Related: [[POL-EDI-EqualityDiversityInclusion]] (for harassment/bullying grievances)
+- Triggers from: [POL-ATT-AttendanceAndPunctuality](POL-ATT-AttendanceAndPunctuality.md), [POL-CON-CodeOfConduct](POL-CON-CodeOfConduct.md), [POL-PERF-PerformanceManagement](POL-PERF-PerformanceManagement.md), [POL-ABS-AbsenceAndSickness](POL-ABS-AbsenceAndSickness.md)
+- Related: [POL-EDI-EqualityDiversityInclusion](POL-EDI-EqualityDiversityInclusion.md) (for harassment/bullying grievances)

@@ -15,9 +15,9 @@ created: 2026-05-07
 reviewed: 2026-05-07
 review-due: 2028-05-07
 related:
-  - "[[POL-DISC-DisciplinaryAndGrievance]]"
-  - "[[POL-HS-HealthSafetyAndWellbeing]]"
-  - "[[POL-ATT-AttendanceAndPunctuality]]"
+  - "[POL-DISC-DisciplinaryAndGrievance](POL-DISC-DisciplinaryAndGrievance.md)"
+  - "[POL-HS-HealthSafetyAndWellbeing](POL-HS-HealthSafetyAndWellbeing.md)"
+  - "[POL-ATT-AttendanceAndPunctuality](POL-ATT-AttendanceAndPunctuality.md)"
 ---
 
 ## Purpose
@@ -60,5 +60,5 @@ Provide a fair, consistent framework for managing planned and unplanned absence,
 - Engage genuinely with phased return plans
 
 ## Key Links
-- Triggers: [[POL-DISC-DisciplinaryAndGrievance]] (for persistent unexplained absence)
-- Related: [[POL-HS-HealthSafetyAndWellbeing]], [[POL-ATT-AttendanceAndPunctuality]]
+- Triggers: [POL-DISC-DisciplinaryAndGrievance](POL-DISC-DisciplinaryAndGrievance.md) (for persistent unexplained absence)
+- Related: [POL-HS-HealthSafetyAndWellbeing](POL-HS-HealthSafetyAndWellbeing.md), [POL-ATT-AttendanceAndPunctuality](POL-ATT-AttendanceAndPunctuality.md)

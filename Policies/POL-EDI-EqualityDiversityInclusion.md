@@ -16,8 +16,8 @@ created: 2026-05-07
 reviewed: 2026-05-07
 review-due: 2028-05-07
 related:
-  - "[[POL-DISC-DisciplinaryAndGrievance]]"
-  - "[[POL-CON-CodeOfConduct]]"
+  - "[POL-DISC-DisciplinaryAndGrievance](POL-DISC-DisciplinaryAndGrievance.md)"
+  - "[POL-CON-CodeOfConduct](POL-CON-CodeOfConduct.md)"
 ---
 
 ## Purpose
@@ -52,7 +52,7 @@ Foster an inclusive workplace where every team member is treated with dignity an
 1. Speak to Team Leader or skip-level manager
 2. Contact HR directly (confidential)
 3. Use the anonymous speak-up/whistleblowing channel (details on intranet)
-4. Raise a formal Grievance (see [[POL-DISC-DisciplinaryAndGrievance]])
+4. Raise a formal Grievance (see [POL-DISC-DisciplinaryAndGrievance](POL-DISC-DisciplinaryAndGrievance.md))
 
 Team members who report harassment will be protected from victimisation.
 
@@ -70,5 +70,5 @@ Requests for reasonable adjustments must be:
 - Never make decisions about promotion, workload, or development on the basis of a protected characteristic
 
 ## Key Links
-- Triggers: [[POL-DISC-DisciplinaryAndGrievance]] (for bullying/harassment)
-- Related: [[POL-CON-CodeOfConduct]]
+- Triggers: [POL-DISC-DisciplinaryAndGrievance](POL-DISC-DisciplinaryAndGrievance.md) (for bullying/harassment)
+- Related: [POL-CON-CodeOfConduct](POL-CON-CodeOfConduct.md)

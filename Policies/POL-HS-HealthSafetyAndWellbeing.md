@@ -16,9 +16,9 @@ created: 2026-05-07
 reviewed: 2026-05-07
 review-due: 2028-05-07
 related:
-  - "[[POL-ABS-AbsenceAndSickness]]"
-  - "[[POL-PERF-PerformanceManagement]]"
-  - "[[POL-AU-AcceptableUseOfTechnology]]"
+  - "[POL-ABS-AbsenceAndSickness](POL-ABS-AbsenceAndSickness.md)"
+  - "[POL-PERF-PerformanceManagement](POL-PERF-PerformanceManagement.md)"
+  - "[POL-AU-AcceptableUseOfTechnology](POL-AU-AcceptableUseOfTechnology.md)"
 ---
 
 ## Purpose
@@ -60,4 +60,4 @@ Call centre work presents specific risks to voice health:
 - Remote team members must report workstation concerns to HR; adjustments will be supported where reasonable
 
 ## Key Links
-- Related: [[POL-ABS-AbsenceAndSickness]], [[POL-PERF-PerformanceManagement]] (stress and workload), [[POL-AU-AcceptableUseOfTechnology]] (remote working tools)
+- Related: [POL-ABS-AbsenceAndSickness](POL-ABS-AbsenceAndSickness.md), [POL-PERF-PerformanceManagement](POL-PERF-PerformanceManagement.md) (stress and workload), [POL-AU-AcceptableUseOfTechnology](POL-AU-AcceptableUseOfTechnology.md) (remote working tools)

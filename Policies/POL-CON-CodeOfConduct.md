@@ -14,10 +14,10 @@ created: 2026-05-07
 reviewed: 2026-05-07
 review-due: 2028-05-07
 related:
-  - "[[POL-DISC-DisciplinaryAndGrievance]]"
-  - "[[POL-EDI-EqualityDiversityInclusion]]"
-  - "[[POL-AU-AcceptableUseOfTechnology]]"
-  - "[[POL-DP-DataProtectionAndGDPR]]"
+  - "[POL-DISC-DisciplinaryAndGrievance](POL-DISC-DisciplinaryAndGrievance.md)"
+  - "[POL-EDI-EqualityDiversityInclusion](POL-EDI-EqualityDiversityInclusion.md)"
+  - "[POL-AU-AcceptableUseOfTechnology](POL-AU-AcceptableUseOfTechnology.md)"
+  - "[POL-DP-DataProtectionAndGDPR](POL-DP-DataProtectionAndGDPR.md)"
 ---
 
 ## Purpose
@@ -33,13 +33,13 @@ Set clear behavioural standards for all team members in their dealings with cust
 
 ### Colleague Interactions
 - Respectful communication at all times — in person, on messaging tools, and in writing
-- No bullying, harassment, or victimisation (refer to [[POL-EDI-EqualityDiversityInclusion]])
+- No bullying, harassment, or victimisation (refer to [POL-EDI-EqualityDiversityInclusion](POL-EDI-EqualityDiversityInclusion.md))
 - Escalate conflicts to a Team Leader rather than allowing them to escalate on the floor
 
 ### Use of Company Systems
 - Access only the systems and data required for your role
 - Do not share login credentials
-- Personal calls and non-business browsing must not occur during shift without prior authorisation (refer to [[POL-AU-AcceptableUseOfTechnology]])
+- Personal calls and non-business browsing must not occur during shift without prior authorisation (refer to [POL-AU-AcceptableUseOfTechnology](POL-AU-AcceptableUseOfTechnology.md))
 
 ### Social Media
 - Team members must not post content that identifies customers, colleagues, or internal processes
@@ -59,5 +59,5 @@ Set clear behavioural standards for all team members in their dealings with cust
 - Escalate gross misconduct immediately to HR — do not investigate alone
 
 ## Key Links
-- Triggers: [[POL-DISC-DisciplinaryAndGrievance]]
-- Related: [[POL-EDI-EqualityDiversityInclusion]], [[POL-AU-AcceptableUseOfTechnology]], [[POL-DP-DataProtectionAndGDPR]]
+- Triggers: [POL-DISC-DisciplinaryAndGrievance](POL-DISC-DisciplinaryAndGrievance.md)
+- Related: [POL-EDI-EqualityDiversityInclusion](POL-EDI-EqualityDiversityInclusion.md), [POL-AU-AcceptableUseOfTechnology](POL-AU-AcceptableUseOfTechnology.md), [POL-DP-DataProtectionAndGDPR](POL-DP-DataProtectionAndGDPR.md)

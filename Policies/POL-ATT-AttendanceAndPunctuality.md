@@ -14,9 +14,9 @@ created: 2026-05-07
 reviewed: 2026-05-07
 review-due: 2028-05-07
 related:
-  - "[[POL-DISC-DisciplinaryAndGrievance]]"
-  - "[[POL-SCH-ScheduleAdherence]]"
-  - "[[POL-ABS-AbsenceAndSickness]]"
+  - "[POL-DISC-DisciplinaryAndGrievance](POL-DISC-DisciplinaryAndGrievance.md)"
+  - "[POL-SCH-ScheduleAdherence](POL-SCH-ScheduleAdherence.md)"
+  - "[POL-ABS-AbsenceAndSickness](POL-ABS-AbsenceAndSickness.md)"
 ---
 
 ## Purpose
@@ -46,5 +46,5 @@ Where $S$ = number of separate absences; $D$ = total days absent
 | 400+ | Formal stage 2 / potential dismissal |
 
 ## Key Links
-- Triggers: [[POL-DISC-DisciplinaryAndGrievance]]
-- Related metric: [[POL-SCH-ScheduleAdherence]]
+- Triggers: [POL-DISC-DisciplinaryAndGrievance](POL-DISC-DisciplinaryAndGrievance.md)
+- Related metric: [POL-SCH-ScheduleAdherence](POL-SCH-ScheduleAdherence.md)

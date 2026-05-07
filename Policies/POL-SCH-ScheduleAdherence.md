@@ -14,9 +14,9 @@ created: 2026-05-07
 reviewed: 2026-05-07
 review-due: 2028-05-07
 related:
-  - "[[POL-PERF-PerformanceManagement]]"
-  - "[[POL-DISC-DisciplinaryAndGrievance]]"
-  - "[[POL-ATT-AttendanceAndPunctuality]]"
+  - "[POL-PERF-PerformanceManagement](POL-PERF-PerformanceManagement.md)"
+  - "[POL-DISC-DisciplinaryAndGrievance](POL-DISC-DisciplinaryAndGrievance.md)"
+  - "[POL-ATT-AttendanceAndPunctuality](POL-ATT-AttendanceAndPunctuality.md)"
 ---
 
 ## Purpose
@@ -51,7 +51,7 @@ $$\text{Adherence \%} = \frac{\text{Time in scheduled state}}{\text{Total schedu
 
 ## Non-Adherence
 - Adherence below 85% in a week triggers an informal conversation with the Team Leader
-- Persistent non-adherence (below target for 3+ consecutive weeks) is managed under the [[POL-PERF-PerformanceManagement]]
+- Persistent non-adherence (below target for 3+ consecutive weeks) is managed under the [POL-PERF-PerformanceManagement](POL-PERF-PerformanceManagement.md)
 - Deliberate avoidance of calls (e.g. extended aux, repeated early log-off) may be treated as misconduct
 
 ## Shift Pattern Changes
@@ -65,5 +65,5 @@ $$\text{Adherence \%} = \frac{\text{Time in scheduled state}}{\text{Total schedu
 - Provide feedback on adherence as part of weekly 1:1s
 
 ## Key Links
-- Triggers: [[POL-PERF-PerformanceManagement]] (persistent non-adherence), [[POL-DISC-DisciplinaryAndGrievance]] (deliberate avoidance)
+- Triggers: [POL-PERF-PerformanceManagement](POL-PERF-PerformanceManagement.md) (persistent non-adherence), [POL-DISC-DisciplinaryAndGrievance](POL-DISC-DisciplinaryAndGrievance.md) (deliberate avoidance)
 - Related metric: Occupancy %, Shrinkage %
