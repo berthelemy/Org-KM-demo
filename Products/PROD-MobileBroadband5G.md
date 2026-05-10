@@ -14,7 +14,7 @@ product-type: telecoms
 status: active
 launched: 2024-09-01
 discontinued: ""
-provider: ClearWave Mobile
+provider: ClearTelComCo Mobile
 related:
   - "[PROD-SIMOnlyUnlimited5G](PROD-SIMOnlyUnlimited5G.md)"
   - "[PROD-Fibre100Broadband](PROD-Fibre100Broadband.md)"
@@ -23,11 +23,11 @@ license: "CC BY-NC 4.0"
 
 ## Overview
 
-ClearWave Mobile Broadband 5G provides portable internet access via a 5G MiFi device (mobile Wi-Fi router), allowing customers to connect up to 10 devices simultaneously over ClearWave's 5G network. Aimed at customers who need internet access away from home — remote workers, travellers, and those in areas where fixed-line broadband is unavailable or slow.
+ClearTelComCo Mobile Broadband 5G provides portable internet access via a 5G MiFi device (mobile Wi-Fi router), allowing customers to connect up to 10 devices simultaneously over ClearTelComCo's 5G network. Aimed at customers who need internet access away from home — remote workers, travellers, and those in areas where fixed-line broadband is unavailable or slow.
 
 ## Key Features
 
-- ClearWave MiFi Hub 5G device included
+- ClearTelComCo MiFi Hub 5G device included
 - **100 GB** UK data per month
 - 5G/4G/3G automatic fallback
 - Connects up to **10 devices** simultaneously
@@ -38,7 +38,7 @@ ClearWave Mobile Broadband 5G provides portable internet access via a 5G MiFi de
 
 ## Eligibility
 
-- Available to new and existing ClearWave Mobile customers
+- Available to new and existing ClearTelComCo Mobile customers
 - Credit check required
 - Minimum age: 18
 - For business use, refer to the Business team — this is a residential/personal product

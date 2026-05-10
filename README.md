@@ -1,4 +1,4 @@
-# ClearWave Knowledge Base
+# ClearTelComCo Knowledge Base
 
 > A demonstration Obsidian knowledge management vault for a fictional telecoms contact centre, built entirely using GitHub Copilot agent skills.
 
@@ -6,7 +6,7 @@
 
 ## Purpose
 
-This repository is a proof-of-concept showing how a structured knowledge management system can be built and maintained inside VS Code using **GitHub Copilot custom agent skills**. The vault contains the policies, procedures, product information, and call scripts that an agent at a fictional telecoms provider — **ClearWave** — would need to do their job.
+This repository is a proof-of-concept showing how a structured knowledge management system can be built and maintained inside VS Code using **GitHub Copilot custom agent skills**. The vault contains the policies, procedures, product information, and call scripts that an agent at a fictional telecoms provider — **ClearTelComCo** — would need to do their job.
 
 The vault is designed to be opened in [Obsidian](https://obsidian.md), where Markdown links, tags, and graph view give agents a navigable, interconnected knowledge base.
 
@@ -71,8 +71,8 @@ Start here: [Welcome](Welcome.md)
 │
 ├── Products/                        # Product information, pricing, FAQs, objection handling
 
-│   ├── PROD-ClearWaveX1HandsetBudget.md
-│   ├── PROD-ClearWaveX1ProHandset.md
+│   ├── PROD-ClearTelComCoX1HandsetBudget.md
+│   ├── PROD-ClearTelComCoX1ProHandset.md
 │   ├── PROD-Fibre100Broadband.md
 │   ├── PROD-Fibre500Broadband.md
 │   ├── PROD-Fibre1000Broadband.md

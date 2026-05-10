@@ -24,8 +24,8 @@ related:
   - "[PROD-Fibre1000Broadband](../Products/PROD-Fibre1000Broadband.md)"
   - "[PROD-SIMOnly10GB5G](../Products/PROD-SIMOnly10GB5G.md)"
   - "[PROD-SIMOnlyUnlimited5G](../Products/PROD-SIMOnlyUnlimited5G.md)"
-  - "[PROD-ClearWaveX1ProHandset](../Products/PROD-ClearWaveX1ProHandset.md)"
-  - "[PROD-ClearWaveX1HandsetBudget](../Products/PROD-ClearWaveX1HandsetBudget.md)"
+  - "[PROD-ClearTelComCoX1ProHandset](../Products/PROD-ClearTelComCoX1ProHandset.md)"
+  - "[PROD-ClearTelComCoX1HandsetBudget](../Products/PROD-ClearTelComCoX1HandsetBudget.md)"
   - "[PROD-MobileBroadband5G](../Products/PROD-MobileBroadband5G.md)"
   - "[PROD-HomePhone](../Products/PROD-HomePhone.md)"
   - "[PROC-CustomerOnboarding](PROC-CustomerOnboarding.md)"
@@ -34,7 +34,7 @@ license: "CC BY-NC 4.0"
 
 ## Purpose
 
-Guide agents through a compliant, customer-centred sale of any ClearWave product — broadband, mobile SIM, handset, mobile broadband, or home phone — from initial contact to confirmed order.
+Guide agents through a compliant, customer-centred sale of any ClearTelComCo product — broadband, mobile SIM, handset, mobile broadband, or home phone — from initial contact to confirmed order.
 
 ## Scope
 
@@ -54,7 +54,7 @@ All inbound and outbound sales agents handling new customer acquisitions or exis
 
 ### 1. Open the Call and Verify Identity
 
-- Greet the customer warmly and confirm your name and that you are calling from ClearWave
+- Greet the customer warmly and confirm your name and that you are calling from ClearTelComCo
 - For inbound calls: confirm the customer's full name, date of birth, and postcode against the CRM record before proceeding
 - For outbound calls: state the purpose of the call clearly; do not misrepresent the reason for contact
 - Log the call start in CRM
@@ -89,7 +89,7 @@ All inbound and outbound sales agents handling new customer acquisitions or exis
 | --------- | ------ |
 | Fibre broadband | [PROD-Fibre100Broadband](../Products/PROD-Fibre100Broadband.md), [PROD-Fibre500Broadband](../Products/PROD-Fibre500Broadband.md), [PROD-Fibre1000Broadband](../Products/PROD-Fibre1000Broadband.md) |
 | SIM only | [PROD-SIMOnly10GB5G](../Products/PROD-SIMOnly10GB5G.md), [PROD-SIMOnlyUnlimited5G](../Products/PROD-SIMOnlyUnlimited5G.md) |
-| Handsets | [PROD-ClearWaveX1ProHandset](../Products/PROD-ClearWaveX1ProHandset.md), [PROD-ClearWaveX1HandsetBudget](../Products/PROD-ClearWaveX1HandsetBudget.md) |
+| Handsets | [PROD-ClearTelComCoX1ProHandset](../Products/PROD-ClearTelComCoX1ProHandset.md), [PROD-ClearTelComCoX1HandsetBudget](../Products/PROD-ClearTelComCoX1HandsetBudget.md) |
 | Mobile broadband | [PROD-MobileBroadband5G](../Products/PROD-MobileBroadband5G.md) |
 | Home phone | [PROD-HomePhone](../Products/PROD-HomePhone.md) |
 
@@ -124,7 +124,7 @@ All inbound and outbound sales agents handling new customer acquisitions or exis
 ### 9. Communicate the Cooling-Off Period
 
 - Remind the customer of their **14-day cooling-off right** for all remotely sold contracts
-- Explain how to cancel within the cooling-off period (phone or written notice to ClearWave)
+- Explain how to cancel within the cooling-off period (phone or written notice to ClearTelComCo)
 - This must be communicated verbally and is included in the order confirmation email automatically sent by OMS
 
 ### 10. Close and Hand Off
@@ -147,7 +147,7 @@ All inbound and outbound sales agents handling new customer acquisitions or exis
 | Customer requests time to consider | Send KFI by email, agree callback date, log in CRM |
 | Customer mentions vulnerability (financial difficulty, health) | Follow the Vulnerable Customer procedure; do not pressure |
 | Customer wants to add home phone | Check compatibility and present [PROD-HomePhone](../Products/PROD-HomePhone.md); deliver Ofcom VoIP emergency call disclosure |
-| Handset sale involves trade-in | Direct customer to clearwave.co.uk/trade-in for valuation; do not guarantee a trade-in value verbally |
+| Handset sale involves trade-in | Direct customer to ClearTelComCo.co.uk/trade-in for valuation; do not guarantee a trade-in value verbally |
 
 ## Escalation
 

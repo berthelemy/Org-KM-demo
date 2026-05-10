@@ -25,14 +25,14 @@ license: "CC BY-NC 4.0"
 
 ## Purpose
 
-Used when calling customers who have previously cancelled a ClearWave service and are being targeted for re-acquisition. The call should be warm, non-pressurising, and focused on understanding why the customer left before presenting a relevant offer.
+Used when calling customers who have previously cancelled a ClearTelComCo service and are being targeted for re-acquisition. The call should be warm, non-pressurising, and focused on understanding why the customer left before presenting a relevant offer.
 
 ## Before You Start
 
 - Confirm the customer cancelled within the last 12 months and has not opted out of marketing contact
 - Check the CRM for the stated reason for cancellation — this is critical for tailoring the conversation
 - Confirm whether the customer is eligible for a win-back promotional price (check CRM offer flags — these are one-time offers and **must not** be repeated if the customer declines)
-- Confirm the customer's address still has ClearWave network coverage
+- Confirm the customer's address still has ClearTelComCo network coverage
 - **Do not** call customers who cancelled due to a complaint that is still unresolved
 - **Do not** call customers who have requested no further contact — check the marketing suppression list
 
@@ -43,7 +43,7 @@ Used when calling customers who have previously cancelled a ClearWave service an
 > **Agent:** "Good [morning/afternoon], could I speak with [Customer Name] please?"
 
 > **[If customer confirms]**
-> **Agent:** "Hi [Customer Name], my name is [Agent Name] calling from ClearWave. I hope you don't mind me reaching out — I can see you were a customer with us previously, and I'm calling because we've made some real improvements to our service and pricing since then, and I wanted to see if there was anything we could do to welcome you back. Is that okay?"
+> **Agent:** "Hi [Customer Name], my name is [Agent Name] calling from ClearTelComCo. I hope you don't mind me reaching out — I can see you were a customer with us previously, and I'm calling because we've made some real improvements to our service and pricing since then, and I wanted to see if there was anything we could do to welcome you back. Is that okay?"
 
 > **[If customer is reluctant]**
 > **Agent:** "I completely understand. I won't take up more than a couple of minutes — and if at any point you'd prefer we don't call again, just let me know and I'll make sure we update your preferences straight away."

@@ -3,7 +3,7 @@ title: Home Phone
 aliases:
   - Landline
   - Home Landline
-  - ClearWave Voice
+  - ClearTelComCo Voice
 tags:
   - product
   - telecoms
@@ -14,7 +14,7 @@ product-type: telecoms
 status: active
 launched: 2024-01-15
 discontinued: ""
-provider: ClearWave
+provider: ClearTelComCo
 related:
   - "[PROD-Fibre100Broadband](PROD-Fibre100Broadband.md)"
   - "[PROD-Fibre500Broadband](PROD-Fibre500Broadband.md)"
@@ -24,9 +24,9 @@ license: "CC BY-NC 4.0"
 
 ## Overview
 
-ClearWave Home Phone is a VoIP (Voice over IP) landline service delivered over ClearWave's full-fibre broadband connection. It replaces traditional copper-line telephony and is available as an add-on to any ClearWave fibre broadband product. Customers retain their existing landline number and continue to use standard DECT or corded handsets via an analogue telephone adapter (ATA).
+ClearTelComCo Home Phone is a VoIP (Voice over IP) landline service delivered over ClearTelComCo's full-fibre broadband connection. It replaces traditional copper-line telephony and is available as an add-on to any ClearTelComCo fibre broadband product. Customers retain their existing landline number and continue to use standard DECT or corded handsets via an analogue telephone adapter (ATA).
 
-> **Important:** This is a VoIP service — it requires an active ClearWave broadband connection. It will not work during a broadband outage or power cut unless the customer has a backup power supply. Agents must communicate this clearly at point of sale.
+> **Important:** This is a VoIP service — it requires an active ClearTelComCo broadband connection. It will not work during a broadband outage or power cut unless the customer has a backup power supply. Agents must communicate this clearly at point of sale.
 
 ## Key Features
 
@@ -36,11 +36,11 @@ ClearWave Home Phone is a VoIP (Voice over IP) landline service delivered over C
 - Number porting: existing landline number can be retained
 - Compatible with existing DECT cordless handsets via the included analogue telephone adapter (ATA)
 - Emergency calls (999/112) supported — with limitations (see Regulatory Considerations)
-- Available as an add-on to any ClearWave fibre broadband plan
+- Available as an add-on to any ClearTelComCo fibre broadband plan
 
 ## Eligibility
 
-- Must hold an active ClearWave fibre broadband plan (any tier)
+- Must hold an active ClearTelComCo fibre broadband plan (any tier)
 - Not available as a standalone service
 - Number porting available for BT Openreach and most other UK landline providers
 

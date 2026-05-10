@@ -42,7 +42,7 @@ Used when calling customers whose fixed-term contract is due to expire within th
 > **Agent:** "Good [morning/afternoon], could I speak with [Customer Name] please?"
 
 > **[If customer confirms]**
-> **Agent:** "Hi [Customer Name], my name is [Agent Name] calling from ClearWave. I'm calling because your current broadband contract with us is coming to an end on [contract end date], and I wanted to make sure you had the best deal in place before that happens. Do you have a few minutes?"
+> **Agent:** "Hi [Customer Name], my name is [Agent Name] calling from ClearTelComCo. I'm calling because your current broadband contract with us is coming to an end on [contract end date], and I wanted to make sure you had the best deal in place before that happens. Do you have a few minutes?"
 
 > **[If customer says they're busy]**
 > **Agent:** "Absolutely, no problem — can I arrange a better time to call? We do want to make sure you're not left paying the out-of-contract rate unnecessarily. [Log callback in CRM]"

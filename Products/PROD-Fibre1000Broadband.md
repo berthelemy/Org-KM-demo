@@ -14,7 +14,7 @@ product-type: telecoms
 status: active
 launched: 2024-06-01
 discontinued: ""
-provider: ClearWave
+provider: ClearTelComCo
 related:
   - "[PROD-Fibre100Broadband](PROD-Fibre100Broadband.md)"
   - "[PROD-Fibre500Broadband](PROD-Fibre500Broadband.md)"
@@ -24,7 +24,7 @@ license: "CC BY-NC 4.0"
 
 ## Overview
 
-Fibre 1000 is ClearWave's flagship gigabit broadband product, delivering symmetrical 1 Gbps download and upload speeds over a full-fibre FTTP connection. It is designed for power users, home workers requiring guaranteed performance, and tech-forward households with very high simultaneous device usage.
+Fibre 1000 is ClearTelComCo's flagship gigabit broadband product, delivering symmetrical 1 Gbps download and upload speeds over a full-fibre FTTP connection. It is designed for power users, home workers requiring guaranteed performance, and tech-forward households with very high simultaneous device usage.
 
 ## Key Features
 
@@ -32,15 +32,15 @@ Fibre 1000 is ClearWave's flagship gigabit broadband product, delivering symmetr
 - Average upload speed: **1,000 Mbps (1 Gbps)** — fully symmetrical
 - Full-fibre (FTTP) — no copper in the connection
 - Unlimited data usage
-- Includes ClearWave Smart Hub 3 Pro router (Wi-Fi 6E, tri-band)
-- Dedicated onboarding call with a ClearWave technical specialist
+- Includes ClearTelComCo Smart Hub 3 Pro router (Wi-Fi 6E, tri-band)
+- Dedicated onboarding call with a ClearTelComCo technical specialist
 - Priority technical support (dedicated Gig1 support line)
 - 24-month contract (18-month also available at higher monthly price)
 - No mid-contract price rises for the length of the initial term
 
 ## Eligibility
 
-- Available to residential customers in ClearWave FTTP coverage areas where gigabit capability is confirmed
+- Available to residential customers in ClearTelComCo FTTP coverage areas where gigabit capability is confirmed
 - Credit check required; subject to address availability check
 - Minimum age: 18
 - Note: requires a Gig1-capable ONT (Optical Network Terminal); engineer will confirm at installation
@@ -76,7 +76,7 @@ A: Individual devices connected over Wi-Fi typically won't hit 1 Gbps due to Wi-
 A: Fibre 1000 is fully symmetrical — upload and download speeds are equal. This is particularly valuable for content creators, remote workers on video calls, and anyone backing up large files to the cloud.
 
 **Q: Is this available at my address?**
-A: Gigabit availability depends on the ONT installed at the premises. Run an availability check with the postcode — most ClearWave FTTP addresses are Gig1 capable; the engineer will confirm during installation.
+A: Gigabit availability depends on the ONT installed at the premises. Run an availability check with the postcode — most ClearTelComCo FTTP addresses are Gig1 capable; the engineer will confirm during installation.
 
 **Q: What's the difference between the Smart Hub 3 and the Smart Hub 3 Pro?**
 A: The Pro model supports Wi-Fi 6E (including the 6 GHz band), is tri-band, and includes a 2.5 Gbps ethernet WAN port to make full use of the gigabit connection. It also has an improved QoS engine for gaming and video calls.

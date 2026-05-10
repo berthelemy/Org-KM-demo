@@ -1,5 +1,5 @@
 ---
-title: Welcome to the ClearWave Knowledge Base
+title: Welcome to the ClearTelComCo Knowledge Base
 aliases:
   - Home
   - Start Here
@@ -15,7 +15,7 @@ review-due: 2028-05-07
 license: "CC BY-NC 4.0"
 ---
 
-Welcome to the ClearWave agent knowledge base. Use the links below to navigate to any policy, procedure, product, or script.
+Welcome to the ClearTelComCo agent knowledge base. Use the links below to navigate to any policy, procedure, product, or script.
 
 ---
 
@@ -49,8 +49,8 @@ Product information, pricing, FAQs, and objection handling.
 
 ### Handsets
 
-- [ClearWave X1 Pro Handset](Products/PROD-ClearWaveX1ProHandset.md)
-- [ClearWave X1 Handset (Budget)](Products/PROD-ClearWaveX1HandsetBudget.md)
+- [ClearTelComCo X1 Pro Handset](Products/PROD-ClearTelComCoX1ProHandset.md)
+- [ClearTelComCo X1 Handset (Budget)](Products/PROD-ClearTelComCoX1HandsetBudget.md)
 
 ---
 

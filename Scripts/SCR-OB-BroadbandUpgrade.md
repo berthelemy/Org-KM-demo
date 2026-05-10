@@ -42,7 +42,7 @@ Used when calling existing broadband customers who are on a lower-tier plan (Fib
 > **Agent:** "Good [morning/afternoon], could I speak with [Customer Name] please?"
 
 > **[If customer confirms]**
-> **Agent:** "Hi [Customer Name], my name is [Agent Name] calling from ClearWave. I'm calling because we've got some great news — as one of our valued customers, you're eligible for an exclusive upgrade offer on your broadband. Do you have a couple of minutes?"
+> **Agent:** "Hi [Customer Name], my name is [Agent Name] calling from ClearTelComCo. I'm calling because we've got some great news — as one of our valued customers, you're eligible for an exclusive upgrade offer on your broadband. Do you have a couple of minutes?"
 
 > **[If customer says they're busy]**
 > **Agent:** "No problem at all — I can call back at a time that suits you. What would be a good time? [Log callback in CRM]"

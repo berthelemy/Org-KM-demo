@@ -12,7 +12,7 @@ product-type: telecoms
 status: active
 launched: 2024-01-15
 discontinued: ""
-provider: ClearWave
+provider: ClearTelComCo
 related:
   - "[PROD-Fibre100Broadband](PROD-Fibre100Broadband.md)"
   - "[PROD-Fibre1000Broadband](PROD-Fibre1000Broadband.md)"
@@ -22,7 +22,7 @@ license: "CC BY-NC 4.0"
 
 ## Overview
 
-Fibre 500 is ClearWave's mid-tier full-fibre broadband product, suited to busy households of 3–5 users with multiple simultaneous streams, gaming, video calls, and large file downloads. It delivers download speeds of up to 500 Mbps over a dedicated FTTP connection.
+Fibre 500 is ClearTelComCo's mid-tier full-fibre broadband product, suited to busy households of 3–5 users with multiple simultaneous streams, gaming, video calls, and large file downloads. It delivers download speeds of up to 500 Mbps over a dedicated FTTP connection.
 
 ## Key Features
 
@@ -30,14 +30,14 @@ Fibre 500 is ClearWave's mid-tier full-fibre broadband product, suited to busy h
 - Average upload speed: **75 Mbps**
 - Full-fibre (FTTP) — no copper in the connection
 - Unlimited data usage
-- Includes ClearWave Smart Hub 3 router with Wi-Fi 6 support
+- Includes ClearTelComCo Smart Hub 3 router with Wi-Fi 6 support
 - Priority technical support (next-available agent, no queue tier)
 - 24-month contract (18-month also available at higher monthly price)
 - No mid-contract price rises for the length of the initial term
 
 ## Eligibility
 
-- Available to residential customers in ClearWave FTTP coverage areas
+- Available to residential customers in ClearTelComCo FTTP coverage areas
 - Credit check required; subject to address availability check
 - Minimum age: 18
 
@@ -71,7 +71,7 @@ A: For one or two users, the difference is minimal for browsing and streaming. T
 A: Yes. Wi-Fi 6 provides faster wireless speeds and better performance in environments with many connected devices.
 
 **Q: Can I add a mesh Wi-Fi extender?**
-A: Yes, ClearWave mesh pods are compatible with the Smart Hub 3 and can be purchased separately or added as a monthly add-on (£5.00/month per pod).
+A: Yes, ClearTelComCo mesh pods are compatible with the Smart Hub 3 and can be purchased separately or added as a monthly add-on (£5.00/month per pod).
 
 **Q: What is "priority technical support"?**
 A: Fibre 500 and Fibre 1000 customers bypass the standard support queue and are connected to a senior technical advisor. Average wait time is under 2 minutes.

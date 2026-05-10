@@ -13,7 +13,7 @@ product-type: telecoms
 status: active
 launched: 2024-03-01
 discontinued: ""
-provider: ClearWave Mobile
+provider: ClearTelComCo Mobile
 related:
   - "[PROD-SIMOnlyUnlimited5G](PROD-SIMOnlyUnlimited5G.md)"
   - "[PROD-MobileBroadband5G](PROD-MobileBroadband5G.md)"
@@ -22,7 +22,7 @@ license: "CC BY-NC 4.0"
 
 ## Overview
 
-The ClearWave Mobile SIM Only 10GB 5G Plan is a monthly rolling SIM-only contract aimed at customers with moderate mobile data usage who want 5G access without a long-term commitment or a new handset. Suited to customers who primarily use Wi-Fi at home and use mobile data for commuting and occasional on-the-go usage.
+The ClearTelComCo Mobile SIM Only 10GB 5G Plan is a monthly rolling SIM-only contract aimed at customers with moderate mobile data usage who want 5G access without a long-term commitment or a new handset. Suited to customers who primarily use Wi-Fi at home and use mobile data for commuting and occasional on-the-go usage.
 
 ## Key Features
 
@@ -37,7 +37,7 @@ The ClearWave Mobile SIM Only 10GB 5G Plan is a monthly rolling SIM-only contrac
 
 ## Eligibility
 
-- Available to new and existing ClearWave Mobile customers
+- Available to new and existing ClearTelComCo Mobile customers
 - Credit check required for new customers (soft check only for rolling contract)
 - Minimum age: 18 (16–17 with guardian co-signature)
 - Customer must provide a compatible unlocked handset, or purchase/finance one separately
@@ -70,10 +70,10 @@ The ClearWave Mobile SIM Only 10GB 5G Plan is a monthly rolling SIM-only contrac
 A: The customer will receive an SMS alert at 80% and again at 100% of their allowance. After the allowance is used, data continues at £3.00 per additional GB unless the customer has set a data cap.
 
 **Q: Can I keep my existing mobile number?**
-A: Yes. Request a PAC (Porting Authorisation Code) from the current provider — it must be provided within one working day by law. The number port to ClearWave Mobile typically completes within 1 working day.
+A: Yes. Request a PAC (Porting Authorisation Code) from the current provider — it must be provided within one working day by law. The number port to ClearTelComCo Mobile typically completes within 1 working day.
 
 **Q: Is 5G available in my area?**
-A: Use the ClearWave Mobile coverage checker at clearwave.co.uk/coverage. 5G is available in most major UK towns and cities; if 5G is not available in a location, the device automatically falls back to 4G.
+A: Use the ClearTelComCo Mobile coverage checker at ClearTelComCo.co.uk/coverage. 5G is available in most major UK towns and cities; if 5G is not available in a location, the device automatically falls back to 4G.
 
 **Q: Does data roll over every month?**
 A: Yes — unused data rolls over to the following month only. It is used after the current month's allowance.

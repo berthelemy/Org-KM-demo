@@ -1,5 +1,5 @@
 ---
-title: ClearWave X1 Pro Handset
+title: ClearTelComCo X1 Pro Handset
 aliases:
   - X1 Pro
   - X1Pro
@@ -12,17 +12,17 @@ product-type: telecoms
 status: active
 launched: 2025-09-01
 discontinued: ""
-provider: ClearWave Mobile
+provider: ClearTelComCo Mobile
 related:
   - "[PROD-SIMOnly10GB5G](PROD-SIMOnly10GB5G.md)"
   - "[PROD-SIMOnlyUnlimited5G](PROD-SIMOnlyUnlimited5G.md)"
-  - "[PROD-ClearWaveX1HandsetBudget](PROD-ClearWaveX1HandsetBudget.md)"
+  - "[PROD-ClearTelComCoX1HandsetBudget](PROD-ClearTelComCoX1HandsetBudget.md)"
 license: "CC BY-NC 4.0"
 ---
 
 ## Overview
 
-The ClearWave X1 Pro is ClearWave Mobile's premium Android flagship handset, available on a 24-month contract bundled with a SIM plan, or as a standalone handset purchase with separate SIM. It targets customers seeking a high-performance, feature-rich smartphone with a premium camera and long battery life, financed over two years.
+The ClearTelComCo X1 Pro is ClearTelComCo Mobile's premium Android flagship handset, available on a 24-month contract bundled with a SIM plan, or as a standalone handset purchase with separate SIM. It targets customers seeking a high-performance, feature-rich smartphone with a premium camera and long battery life, financed over two years.
 
 ## Key Features
 
@@ -39,7 +39,7 @@ The ClearWave X1 Pro is ClearWave Mobile's premium Android flagship handset, ava
 
 ## Eligibility
 
-- Available to new and upgrading ClearWave Mobile customers
+- Available to new and upgrading ClearTelComCo Mobile customers
 - Full credit check required for contract purchases
 - Minimum age: 18
 - Handset purchase only (no SIM): available without credit check at full price
@@ -73,23 +73,23 @@ The ClearWave X1 Pro is ClearWave Mobile's premium Android flagship handset, ava
 ## Frequently Asked Questions
 
 **Q: Can I trade in my old handset?**
-A: Yes. ClearWave's trade-in scheme offers up to £150 credit for eligible devices, applied as a reduction to the upfront cost or first monthly bill. Customers can get an instant estimate via clearwave.co.uk/trade-in.
+A: Yes. ClearTelComCo's trade-in scheme offers up to £150 credit for eligible devices, applied as a reduction to the upfront cost or first monthly bill. Customers can get an instant estimate via ClearTelComCo.co.uk/trade-in.
 
 **Q: What if the phone is faulty within the first 30 days?**
 A: The customer is entitled to a replacement or full refund within the first 30 days (under the Consumer Rights Act 2015). After 30 days, defects are handled under the 24-month manufacturer warranty — repair or replacement.
 
 **Q: Is accidental damage covered?**
-A: Not by the warranty — that covers manufacturing defects only. The optional ClearWave Protect add-on (£6.99/month) covers accidental damage, including screen cracks and liquid damage, with a £25 excess per claim.
+A: Not by the warranty — that covers manufacturing defects only. The optional ClearTelComCo Protect add-on (£6.99/month) covers accidental damage, including screen cracks and liquid damage, with a £25 excess per claim.
 
 **Q: Can I use the handset with another network's SIM?**
-A: Handsets sold on contract are network-locked to ClearWave for the first 6 months. After 6 months, an unlock can be requested free of charge. Standalone purchased handsets are unlocked.
+A: Handsets sold on contract are network-locked to ClearTelComCo for the first 6 months. After 6 months, an unlock can be requested free of charge. Standalone purchased handsets are unlocked.
 
 ## Common Objections
 
 | Objection | Suggested Response |
 | ----------- | ------------------- |
 | "It's too expensive" | Spread over 24 months, the handset cost is £30/month — less than many customers spend on coffee each week. It's also a 0% finance option, so there's no interest at all. |
-| "I don't need a flagship phone" | That's fair — our [PROD-ClearWaveX1HandsetBudget](PROD-ClearWaveX1HandsetBudget.md) gives you 5G and a great everyday experience at a significantly lower price. |
+| "I don't need a flagship phone" | That's fair — our [PROD-ClearTelComCoX1HandsetBudget](PROD-ClearTelComCoX1HandsetBudget.md) gives you 5G and a great everyday experience at a significantly lower price. |
 | "I'll just buy unlocked from elsewhere" | Absolutely possible. If you bring your own handset, you can pair it with one of our SIM-only plans and often save money overall. |
 | "What about the camera — I've heard mixed reviews" | The 200 MP main sensor is industry-leading in daylight. For low-light, we find customers are very happy with the results — I can show you sample shots from our demo unit if you're in-store. |
 
@@ -99,4 +99,4 @@ A: Handsets sold on contract are network-locked to ClearWave for the first 6 mon
 
 - [PROD-SIMOnlyUnlimited5G](PROD-SIMOnlyUnlimited5G.md)
 - [PROD-SIMOnly10GB5G](PROD-SIMOnly10GB5G.md)
-- [PROD-ClearWaveX1HandsetBudget](PROD-ClearWaveX1HandsetBudget.md)
+- [PROD-ClearTelComCoX1HandsetBudget](PROD-ClearTelComCoX1HandsetBudget.md)

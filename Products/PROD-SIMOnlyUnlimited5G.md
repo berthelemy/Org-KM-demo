@@ -15,7 +15,7 @@ product-type: telecoms
 status: active
 launched: 2024-03-01
 discontinued: ""
-provider: ClearWave Mobile
+provider: ClearTelComCo Mobile
 related:
   - "[PROD-SIMOnly10GB5G](PROD-SIMOnly10GB5G.md)"
   - "[PROD-MobileBroadband5G](PROD-MobileBroadband5G.md)"
@@ -24,7 +24,7 @@ license: "CC BY-NC 4.0"
 
 ## Overview
 
-The ClearWave Mobile SIM Only Unlimited 5G Plan offers truly unlimited data, calls, and texts on a monthly rolling or 12-month contract. Designed for heavy data users, frequent travellers, and customers who use their mobile as a primary or backup internet connection. No data caps, no throttling after a threshold.
+The ClearTelComCo Mobile SIM Only Unlimited 5G Plan offers truly unlimited data, calls, and texts on a monthly rolling or 12-month contract. Designed for heavy data users, frequent travellers, and customers who use their mobile as a primary or backup internet connection. No data caps, no throttling after a threshold.
 
 ## Key Features
 
@@ -40,7 +40,7 @@ The ClearWave Mobile SIM Only Unlimited 5G Plan offers truly unlimited data, cal
 
 ## Eligibility
 
-- Available to new and existing ClearWave Mobile customers
+- Available to new and existing ClearTelComCo Mobile customers
 - Credit check required (full check for 12-month contract; soft check for rolling)
 - Minimum age: 18
 
@@ -61,7 +61,7 @@ The ClearWave Mobile SIM Only Unlimited 5G Plan offers truly unlimited data, cal
 ## Regulatory Considerations
 
 - Regulated by Ofcom
-- "Unlimited" claims must be accurate — ClearWave's unlimited plan has **no** fair-use throttling on UK data; agents must not imply any hidden cap
+- "Unlimited" claims must be accurate — ClearTelComCo's unlimited plan has **no** fair-use throttling on UK data; agents must not imply any hidden cap
 - 5G availability: direct customers to the coverage checker; the plan falls back to 4G where 5G is unavailable — this is not a fault
 - Cooling-off period: **14 calendar days** for remotely sold contracts
 - GDPR: SIM registration requires identity verification
@@ -69,7 +69,7 @@ The ClearWave Mobile SIM Only Unlimited 5G Plan offers truly unlimited data, cal
 ## Frequently Asked Questions
 
 **Q: Is the data truly unlimited — no throttling after a certain amount?**
-A: Yes. ClearWave does not impose a fair-use throttle on UK data for the Unlimited 5G Plan. Customers may notice normal network management during peak congestion; 12-month plan customers receive priority access to reduce this.
+A: Yes. ClearTelComCo does not impose a fair-use throttle on UK data for the Unlimited 5G Plan. Customers may notice normal network management during peak congestion; 12-month plan customers receive priority access to reduce this.
 
 **Q: Can I use this as a home broadband replacement?**
 A: Many customers do, particularly in areas where fixed-line broadband is slower or unavailable. For a typical household using streaming, browsing, and video calls, the Unlimited 5G Plan can serve as a primary connection. For very heavy usage (4K gaming, large uploads), a dedicated [PROD-Fibre100Broadband](PROD-Fibre100Broadband.md) or higher product would be more consistent.

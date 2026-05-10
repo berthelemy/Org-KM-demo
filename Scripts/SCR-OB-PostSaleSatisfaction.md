@@ -42,7 +42,7 @@ Used 7–14 days after a new customer's service has gone live, or after an exist
 > **Agent:** "Good [morning/afternoon], could I speak with [Customer Name] please?"
 
 > **[If customer confirms]**
-> **Agent:** "Hi [Customer Name], my name is [Agent Name] from ClearWave. I'm calling because your [service name] went live [X] days ago, and we like to do a quick check-in with all our new customers to make sure everything is working well and you're happy. Do you have a moment?"
+> **Agent:** "Hi [Customer Name], my name is [Agent Name] from ClearTelComCo. I'm calling because your [service name] went live [X] days ago, and we like to do a quick check-in with all our new customers to make sure everything is working well and you're happy. Do you have a moment?"
 
 > **[If customer says they're busy]**
 > **Agent:** "No problem at all — I can call back at a better time. Is there a day or time that works well for you? [Log callback in CRM]"

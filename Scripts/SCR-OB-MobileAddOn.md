@@ -19,17 +19,17 @@ related:
   - "[PROC-GEN-SalesProcedure](../Procedures/PROC-GEN-SalesProcedure.md)"
   - "[PROD-SIMOnly10GB5G](../Products/PROD-SIMOnly10GB5G.md)"
   - "[PROD-SIMOnlyUnlimited5G](../Products/PROD-SIMOnlyUnlimited5G.md)"
-  - "[PROD-ClearWaveX1ProHandset](../Products/PROD-ClearWaveX1ProHandset.md)"
+  - "[PROD-ClearTelComCoX1ProHandset](../Products/PROD-ClearTelComCoX1ProHandset.md)"
 license: "CC BY-NC 4.0"
 ---
 
 ## Purpose
 
-Used when calling existing broadband-only customers who have no ClearWave mobile product. Goal is to introduce a SIM-only or handset bundle deal as a complementary add-on, creating a multi-product household.
+Used when calling existing broadband-only customers who have no ClearTelComCo mobile product. Goal is to introduce a SIM-only or handset bundle deal as a complementary add-on, creating a multi-product household.
 
 ## Before You Start
 
-- Confirm customer has no existing ClearWave mobile product in the CRM
+- Confirm customer has no existing ClearTelComCo mobile product in the CRM
 - Check whether the customer's address has 5G coverage (use the Coverage Checker tool before calling)
 - Have current SIM-only pricing to hand: [PROD-SIMOnly10GB5G](../Products/PROD-SIMOnly10GB5G.md) · [PROD-SIMOnlyUnlimited5G](../Products/PROD-SIMOnlyUnlimited5G.md)
 - Note whether the customer is eligible for a loyalty multi-product discount (check CRM offer flags)
@@ -42,7 +42,7 @@ Used when calling existing broadband-only customers who have no ClearWave mobile
 > **Agent:** "Good [morning/afternoon], could I speak with [Customer Name] please?"
 
 > **[If customer confirms]**
-> **Agent:** "Hi [Customer Name], my name is [Agent Name] from ClearWave. I'm calling because, as one of our broadband customers, you qualify for an exclusive deal we're running on our mobile plans — and I thought you'd want to hear about it. Is now a good time?"
+> **Agent:** "Hi [Customer Name], my name is [Agent Name] from ClearTelComCo. I'm calling because, as one of our broadband customers, you qualify for an exclusive deal we're running on our mobile plans — and I thought you'd want to hear about it. Is now a good time?"
 
 > **[If customer says they're busy]**
 > **Agent:** "Of course, no problem. Can I arrange a callback? What time works best for you? [Log callback in CRM]"
@@ -56,7 +56,7 @@ Used when calling existing broadband-only customers who have no ClearWave mobile
 > **Agent:** "If you'd prefer something lighter, our 10 GB 5G plan is just £12 a month on a rolling one-month contract — no commitment, and any unused data rolls over to the following month."
 
 > **[If the customer asks about a new handset]**
-> **Agent:** "We also have our own ClearWave handsets if you're looking for a new phone. Our X1 Pro is our flagship — a 200-megapixel camera, five-day battery and IP68 water resistance — available on 0% finance at £30 a month, which you combine with any SIM plan. Or if you're looking for great value, our X1 Budget comes in at £10 a month and is a really solid everyday device."
+> **Agent:** "We also have our own ClearTelComCo handsets if you're looking for a new phone. Our X1 Pro is our flagship — a 200-megapixel camera, five-day battery and IP68 water resistance — available on 0% finance at £30 a month, which you combine with any SIM plan. Or if you're looking for great value, our X1 Budget comes in at £10 a month and is a really solid everyday device."
 
 > **Agent (to confirm):** "Would you like me to go ahead and get that SIM set up for you today? We can post a SIM to your address on file within two working days, or I can arrange an e-SIM activation if your handset supports it."
 
@@ -72,7 +72,7 @@ Used when calling existing broadband-only customers who have no ClearWave mobile
 | Customer Response | Go To |
 | ------------------- | ------- |
 | Wants to think it over | Offer to email an overview; log follow-up in CRM |
-| Asks about handset finance | [PROD-ClearWaveX1ProHandset](../Products/PROD-ClearWaveX1ProHandset.md) · Consumer Credit Act note applies — see Compliance Notes |
+| Asks about handset finance | [PROD-ClearTelComCoX1ProHandset](../Products/PROD-ClearTelComCoX1ProHandset.md) · Consumer Credit Act note applies — see Compliance Notes |
 | Wants broadband upgrade at same time | [SCR-OB-BroadbandUpgrade](SCR-OB-BroadbandUpgrade.md) |
 | Wants to cancel broadband | [PROC-GEN-CustomerCancellation](../Procedures/PROC-GEN-CustomerCancellation.md) |
 | Complaint or escalation | [PROC-GEN-CustomerSupport](../Procedures/PROC-GEN-CustomerSupport.md) |
@@ -82,7 +82,7 @@ Used when calling existing broadband-only customers who have no ClearWave mobile
 - **Coverage check is mandatory** before the call — do not promote 5G to a customer without confirmed 5G coverage; offer 4G equivalent if 5G is unavailable
 - **Cooling-off period must be communicated** before every sale (Consumer Contracts Regulations 2013)
 - **KFI must be emailed** for any contract of 12 months or more — see [PROC-GEN-SalesProcedure](../Procedures/PROC-GEN-SalesProcedure.md) step 6
-- If quoting handset finance, confirm the agent is operating under ClearWave's Consumer Credit Act licence; do not advise on personal affordability — direct to the online eligibility checker
+- If quoting handset finance, confirm the agent is operating under ClearTelComCo's Consumer Credit Act licence; do not advise on personal affordability — direct to the online eligibility checker
 - Tethering is included on the Unlimited plan; confirm it is **not** included on the 10 GB plan
 - If customer asks why they are being called: confirm this is a proactive outbound offer and offer opt-out from marketing calls at any time
 - Log outcome in CRM: `MOBILE-ACQUIRED`, `MOBILE-DECLINED`, or `CALLBACK-REQUESTED`
@@ -93,7 +93,7 @@ Used when calling existing broadband-only customers who have no ClearWave mobile
 
 - [PROD-SIMOnly10GB5G](../Products/PROD-SIMOnly10GB5G.md)
 - [PROD-SIMOnlyUnlimited5G](../Products/PROD-SIMOnlyUnlimited5G.md)
-- [PROD-ClearWaveX1ProHandset](../Products/PROD-ClearWaveX1ProHandset.md)
-- [PROD-ClearWaveX1HandsetBudget](../Products/PROD-ClearWaveX1HandsetBudget.md)
+- [PROD-ClearTelComCoX1ProHandset](../Products/PROD-ClearTelComCoX1ProHandset.md)
+- [PROD-ClearTelComCoX1HandsetBudget](../Products/PROD-ClearTelComCoX1HandsetBudget.md)
 - [PROC-GEN-SalesProcedure](../Procedures/PROC-GEN-SalesProcedure.md)
 - [SCR-OB-BroadbandUpgrade](SCR-OB-BroadbandUpgrade.md)

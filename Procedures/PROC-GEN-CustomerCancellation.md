@@ -39,7 +39,7 @@ Handle customer cancellation requests fairly, compliantly, and with genuine care
 
 ## Scope
 
-All agents handling inbound cancellation requests, retentions, and disconnections across all ClearWave products and customer types.
+All agents handling inbound cancellation requests, retentions, and disconnections across all ClearTelComCo products and customer types.
 
 ## Prerequisites
 
@@ -55,7 +55,7 @@ All agents handling inbound cancellation requests, retentions, and disconnection
 
 ### 1. Verify Identity and Locate the Account
 
-- Greet the customer and confirm your name and ClearWave
+- Greet the customer and confirm your name and ClearTelComCo
 - Verify identity: full name, date of birth, and postcode
 - Locate the account in CRM; note all active products and contract status (in-contract end date, or rolling)
 
@@ -96,7 +96,7 @@ All agents handling inbound cancellation requests, retentions, and disconnection
 | Cancellation Reason | Possible Retention Approach |
 | -------------------- | ----------------------------- |
 | Price — too expensive | Check for a lower-tier product (e.g. [PROD-Fibre100Broadband](../Products/PROD-Fibre100Broadband.md) vs [PROD-Fibre500Broadband](../Products/PROD-Fibre500Broadband.md)); offer a loyalty discount if available |
-| Moving house | Check if ClearWave coverage is available at the new address; offer a house move transfer |
+| Moving house | Check if ClearTelComCo coverage is available at the new address; offer a house move transfer |
 | Unhappy with speed / service | Check for unresolved fault tickets; offer an engineer visit or temporary credit |
 | Switching to a competitor | Ask what the competitor is offering; match or contextualise where possible — do not disparage the competitor |
 | No longer needs the service | Acknowledge; a pause/suspension may be available for up to 3 months on some products |
@@ -130,7 +130,7 @@ All agents handling inbound cancellation requests, retentions, and disconnection
 - Confirm the cancellation details in writing: service end date, any charges, equipment return requirements
 - OMS will trigger an automated confirmation email — advise the customer to expect it within 1 hour
 - Ask if there is anything else the customer needs
-- Thank the customer for being with ClearWave
+- Thank the customer for being with ClearTelComCo
 - Log the full interaction in CRM with reason code and outcome
 
 ---
@@ -144,10 +144,10 @@ All agents handling inbound cancellation requests, retentions, and disconnection
 | Customer requests a PAC or STAC code | Provide within 1 working day (legal obligation); log request in CRM |
 | Account holder is deceased | Do not continue with standard cancellation; transfer to Bereavement team immediately |
 | Customer is aggressive or abusive during the call | Follow [POL-CON-CodeOfConduct](../Policies/POL-CON-CodeOfConduct.md); agents may end the call if abuse continues; log in CRM |
-| Customer has a ClearWave Protect or add-on insurance claim in progress | Note this; cancellation of the base product may affect the claim — advise the customer to contact the claims team before proceeding |
+| Customer has a ClearTelComCo Protect or add-on insurance claim in progress | Note this; cancellation of the base product may affect the claim — advise the customer to contact the claims team before proceeding |
 | ETC is disputed | Do not waive without Team Leader authorisation; escalate |
 | Customer requests immediate same-day cancellation (mid-contract) | Not available for fixed-term contracts outside cooling-off; standard notice applies |
-| House move — new address is in ClearWave coverage | Offer a house move transfer before processing as a cancellation |
+| House move — new address is in ClearTelComCo coverage | Offer a house move transfer before processing as a cancellation |
 
 ## Escalation
 

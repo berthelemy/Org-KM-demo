@@ -1,5 +1,5 @@
 ---
-title: ClearWave X1 Handset (Budget)
+title: ClearTelComCo X1 Handset (Budget)
 aliases:
   - X1 Budget
   - X1 Standard
@@ -13,9 +13,9 @@ product-type: telecoms
 status: active
 launched: 2025-09-01
 discontinued: ""
-provider: ClearWave Mobile
+provider: ClearTelComCo Mobile
 related:
-  - "[PROD-ClearWaveX1ProHandset](PROD-ClearWaveX1ProHandset.md)"
+  - "[PROD-ClearTelComCoX1ProHandset](PROD-ClearTelComCoX1ProHandset.md)"
   - "[PROD-SIMOnly10GB5G](PROD-SIMOnly10GB5G.md)"
   - "[PROD-SIMOnlyUnlimited5G](PROD-SIMOnlyUnlimited5G.md)"
 license: "CC BY-NC 4.0"
@@ -23,7 +23,7 @@ license: "CC BY-NC 4.0"
 
 ## Overview
 
-The ClearWave X1 is ClearWave Mobile's entry-level Android smartphone, designed for customers who want a capable 5G device at an accessible price. It is well-suited to first-time smartphone buyers, older customers, and those who use their phone primarily for calls, messaging, social media, and light browsing.
+The ClearTelComCo X1 is ClearTelComCo Mobile's entry-level Android smartphone, designed for customers who want a capable 5G device at an accessible price. It is well-suited to first-time smartphone buyers, older customers, and those who use their phone primarily for calls, messaging, social media, and light browsing.
 
 ## Key Features
 
@@ -40,7 +40,7 @@ The ClearWave X1 is ClearWave Mobile's entry-level Android smartphone, designed 
 
 ## Eligibility
 
-- Available to new and upgrading ClearWave Mobile customers
+- Available to new and upgrading ClearTelComCo Mobile customers
 - Full credit check required for contract purchases
 - Minimum age: 18
 - Handset purchase only (no SIM): available without credit check at full price
@@ -76,7 +76,7 @@ The ClearWave X1 is ClearWave Mobile's entry-level Android smartphone, designed 
 A: Yes. Android 15 includes simplified accessibility features, large text options, and an easy-mode launcher. The 6.5" screen is also well-suited to customers with visual difficulties.
 
 **Q: How does it compare to the X1 Pro?**
-A: The X1 is ideal for everyday tasks — calls, texts, social media, photos, and browsing. The [PROD-ClearWaveX1ProHandset](PROD-ClearWaveX1ProHandset.md) offers a significantly better camera, more RAM, wireless charging, and a higher-refresh display. If the customer doesn't need those features, the X1 is excellent value.
+A: The X1 is ideal for everyday tasks — calls, texts, social media, photos, and browsing. The [PROD-ClearTelComCoX1ProHandset](PROD-ClearTelComCoX1ProHandset.md) offers a significantly better camera, more RAM, wireless charging, and a higher-refresh display. If the customer doesn't need those features, the X1 is excellent value.
 
 **Q: Can I expand the storage?**
 A: Yes — a microSD card up to 512 GB can be added. This is useful for customers who store lots of photos or offline music.
@@ -90,12 +90,12 @@ A: Yes. The X1 supports Google Pay and other NFC payment services.
 | ----------- | ------------------- |
 | "It seems too basic" | For everyday use — calls, messaging, social media, photos — the X1 does everything the vast majority of customers need. The 5G connection means it's future-proof too. |
 | "Will it get slow after a year?" | 4 GB of RAM handles everyday apps well. With 128 GB of storage expandable via microSD, it won't run out of space either. |
-| "I'd rather pay a bit more for something better" | The [PROD-ClearWaveX1ProHandset](PROD-ClearWaveX1ProHandset.md) is a significant step up in camera and performance — the monthly difference on a 24-month plan is £20/month. |
+| "I'd rather pay a bit more for something better" | The [PROD-ClearTelComCoX1ProHandset](PROD-ClearTelComCoX1ProHandset.md) is a significant step up in camera and performance — the monthly difference on a 24-month plan is £20/month. |
 
 ---
 
 ## Related
 
-- [PROD-ClearWaveX1ProHandset](PROD-ClearWaveX1ProHandset.md)
+- [PROD-ClearTelComCoX1ProHandset](PROD-ClearTelComCoX1ProHandset.md)
 - [PROD-SIMOnly10GB5G](PROD-SIMOnly10GB5G.md)
 - [PROD-SIMOnlyUnlimited5G](PROD-SIMOnlyUnlimited5G.md)

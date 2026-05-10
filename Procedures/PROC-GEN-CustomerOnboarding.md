@@ -25,8 +25,8 @@ related:
   - "[PROD-Fibre1000Broadband](../Products/PROD-Fibre1000Broadband.md)"
   - "[PROD-SIMOnly10GB5G](../Products/PROD-SIMOnly10GB5G.md)"
   - "[PROD-SIMOnlyUnlimited5G](../Products/PROD-SIMOnlyUnlimited5G.md)"
-  - "[PROD-ClearWaveX1ProHandset](../Products/PROD-ClearWaveX1ProHandset.md)"
-  - "[PROD-ClearWaveX1HandsetBudget](../Products/PROD-ClearWaveX1HandsetBudget.md)"
+  - "[PROD-ClearTelComCoX1ProHandset](../Products/PROD-ClearTelComCoX1ProHandset.md)"
+  - "[PROD-ClearTelComCoX1HandsetBudget](../Products/PROD-ClearTelComCoX1HandsetBudget.md)"
   - "[PROD-MobileBroadband5G](../Products/PROD-MobileBroadband5G.md)"
   - "[PROD-HomePhone](../Products/PROD-HomePhone.md)"
 license: "CC BY-NC 4.0"
@@ -34,7 +34,7 @@ license: "CC BY-NC 4.0"
 
 ## Purpose
 
-Ensure every new ClearWave customer is successfully set up, informed, and confident using their service within the first 30 days of joining — reducing early-life churn, support contacts, and complaints.
+Ensure every new ClearTelComCo customer is successfully set up, informed, and confident using their service within the first 30 days of joining — reducing early-life churn, support contacts, and complaints.
 
 ## Scope
 
@@ -53,7 +53,7 @@ All agents in the onboarding team handling post-sale customer contacts for new b
 
 ### 1. Verify Identity and Locate the Account
 
-- Greet the customer and confirm your name and ClearWave
+- Greet the customer and confirm your name and ClearTelComCo
 - Verify identity: full name, date of birth, and postcode
 - Locate the customer record in CRM; confirm the order reference and product(s) purchased
 - Check the order status in OMS before proceeding — know the current state before the customer asks
@@ -75,7 +75,7 @@ All agents in the onboarding team handling post-sale customer contacts for new b
 - If number porting: confirm the PAC code has been submitted and advise the porting window (typically 1 working day after SIM activation)
 - Explain that the customer should not cancel their existing service until porting is confirmed
 
-**For handset orders ([PROD-ClearWaveX1ProHandset](../Products/PROD-ClearWaveX1ProHandset.md), [PROD-ClearWaveX1HandsetBudget](../Products/PROD-ClearWaveX1HandsetBudget.md)):**
+**For handset orders ([PROD-ClearTelComCoX1ProHandset](../Products/PROD-ClearTelComCoX1ProHandset.md), [PROD-ClearTelComCoX1HandsetBudget](../Products/PROD-ClearTelComCoX1HandsetBudget.md)):**
 - Confirm dispatch and expected delivery date
 - Advise on how to activate the device and insert the SIM
 - If number porting: same guidance as SIM-only above
@@ -92,7 +92,7 @@ All agents in the onboarding team handling post-sale customer contacts for new b
 
 ### 3. Explain Account Management
 
-- Direct the customer to the MyClearWave online account portal and mobile app
+- Direct the customer to the MyClearTelComCo online account portal and mobile app
 - Explain what they can do in self-serve:
   - View and pay bills
   - Monitor data usage (mobile)
@@ -105,7 +105,7 @@ All agents in the onboarding team handling post-sale customer contacts for new b
 
 - Explain when the first bill will be generated (typically within 30 days of activation; may include a pro-rata first charge)
 - Confirm the Direct Debit date
-- Advise where to find itemised billing in the MyClearWave portal
+- Advise where to find itemised billing in the MyClearTelComCo portal
 - Mention that a paper bill is available on request (subject to a £1.50/month charge)
 
 ### 5. Offer a Proactive Support Prompt

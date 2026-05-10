@@ -12,7 +12,7 @@ product-type: telecoms
 status: active
 launched: 2024-01-15
 discontinued: ""
-provider: ClearWave
+provider: ClearTelComCo
 related:
   - "[PROD-Fibre500Broadband](PROD-Fibre500Broadband.md)"
   - "[PROD-Fibre1000Broadband](PROD-Fibre1000Broadband.md)"
@@ -22,7 +22,7 @@ license: "CC BY-NC 4.0"
 
 ## Overview
 
-Fibre 100 is ClearWave's entry-level full-fibre broadband product, designed for households with light-to-moderate internet usage — typically 1–3 users streaming, browsing, and working from home. It delivers download speeds of up to 100 Mbps over a dedicated fibre-to-the-premises (FTTP) connection.
+Fibre 100 is ClearTelComCo's entry-level full-fibre broadband product, designed for households with light-to-moderate internet usage — typically 1–3 users streaming, browsing, and working from home. It delivers download speeds of up to 100 Mbps over a dedicated fibre-to-the-premises (FTTP) connection.
 
 ## Key Features
 
@@ -30,13 +30,13 @@ Fibre 100 is ClearWave's entry-level full-fibre broadband product, designed for 
 - Average upload speed: **15 Mbps**
 - Full-fibre (FTTP) — no copper in the connection
 - Unlimited data usage
-- Includes ClearWave Smart Hub 3 router
+- Includes ClearTelComCo Smart Hub 3 router
 - 24-month contract (18-month also available at higher monthly price)
 - No mid-contract price rises for the length of the initial term
 
 ## Eligibility
 
-- Available to residential customers in ClearWave FTTP coverage areas
+- Available to residential customers in ClearTelComCo FTTP coverage areas
 - Credit check required; subject to address availability check
 - Not available on existing copper (ADSL/VDSL) infrastructure — FTTP must be present at the premises
 - Minimum age: 18
@@ -65,7 +65,7 @@ Fibre 100 is ClearWave's entry-level full-fibre broadband product, designed for 
 ## Frequently Asked Questions
 
 **Q: Will the engineer need to enter my home?**
-A: Yes, a ClearWave engineer will install or activate the FTTP connection at the premises. The appointment window is typically half a day (AM or PM).
+A: Yes, a ClearTelComCo engineer will install or activate the FTTP connection at the premises. The appointment window is typically half a day (AM or PM).
 
 **Q: What happens to my speed if everyone is online at once?**
 A: As a dedicated FTTP connection, Fibre 100 is not shared with neighbours. Performance during peak times is significantly more consistent than ADSL or cable products.

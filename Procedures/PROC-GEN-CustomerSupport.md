@@ -39,7 +39,7 @@ Provide consistent, fair, and compliant handling of customer support contacts �
 
 ## Scope
 
-All customer-facing support agents handling inbound contacts (voice, chat, email) across all ClearWave products and services.
+All customer-facing support agents handling inbound contacts (voice, chat, email) across all ClearTelComCo products and services.
 
 ## Prerequisites
 
@@ -56,7 +56,7 @@ All customer-facing support agents handling inbound contacts (voice, chat, email
 
 ### 1. Verify Identity and Open the Contact
 
-- Greet the customer and confirm your name and ClearWave
+- Greet the customer and confirm your name and ClearTelComCo
 - Verify identity: full name, date of birth, and postcode before accessing or discussing the account
 - Log the contact in CRM immediately with contact channel and initial reason code
 - Check for any open tickets, recent contacts, or flags on the account (e.g. active fault, complaint, vulnerability flag) before the customer explains their issue
@@ -73,7 +73,7 @@ All customer-facing support agents handling inbound contacts (voice, chat, email
 | Service fault | Broadband outage/slow speed, mobile signal issue, home phone fault |
 | Billing dispute | Incorrect charge, Direct Debit issue, disputed ETC |
 | Equipment issue | Router fault, SIM issue, handset hardware fault |
-| Formal complaint | Customer explicitly uses the word "complaint", or expresses dissatisfaction with ClearWave's handling of a previous issue |
+| Formal complaint | Customer explicitly uses the word "complaint", or expresses dissatisfaction with ClearTelComCo's handling of a previous issue |
 
 ### 3. General Queries
 
@@ -104,7 +104,7 @@ For straightforward account, billing, or product questions:
 3. Check the hub lights: solid white = connected; flashing/red = fault state
 4. Run a line test from the diagnostic tools in the billing system — note the result in CRM
 5. If the line test shows a fault: raise a network fault ticket in ServiceNow; provide the customer with a ticket reference and a 48-hour resolution commitment
-6. If the line test is clear but the customer reports slow speeds: schedule a speed test callback; advise the customer to run a wired speed test at clearwave.co.uk/speedtest and email results
+6. If the line test is clear but the customer reports slow speeds: schedule a speed test callback; advise the customer to run a wired speed test at ClearTelComCo.co.uk/speedtest and email results
 
 *Mobile (SIM and handset):*
 1. Ask whether the issue is calls, data, or both
@@ -123,7 +123,7 @@ For straightforward account, billing, or product questions:
 - If remote troubleshooting does not resolve the fault within one contact, offer an engineer visit
 - Book via OMS; available slots typically within 3–5 working days
 - Advise the customer: if the engineer finds the fault is customer-caused (e.g. damaged equipment, internal wiring), a £65.00 engineer visit charge will apply
-- If the fault is on ClearWave's network or equipment: no charge
+- If the fault is on ClearTelComCo's network or equipment: no charge
 
 ### 5. Billing Dispute Handling
 
@@ -138,7 +138,7 @@ For straightforward account, billing, or product questions:
 
 A contact becomes a **formal complaint** when:
 - The customer explicitly uses the word "complaint"
-- The customer expresses dissatisfaction with how ClearWave has handled a previous issue
+- The customer expresses dissatisfaction with how ClearTelComCo has handled a previous issue
 - The agent judges the situation meets the severity threshold (e.g. repeated failures, financial detriment, vulnerability involved)
 
 **Step 6a: Acknowledge the Complaint**
@@ -154,13 +154,13 @@ A contact becomes a **formal complaint** when:
 
 **Step 6c: Investigate**
 - Review all relevant CRM history, ServiceNow tickets, call recordings, and billing records
-- Do not rely on the customer to prove their case — the burden of investigation is on ClearWave
+- Do not rely on the customer to prove their case — the burden of investigation is on ClearTelComCo
 - Where a call recording is relevant, request it via the quality team within 24 hours
 
 **Step 6d: Resolve and Respond**
 - Contact the customer within the target resolution window with a clear outcome:
   - What was found
-  - What ClearWave will do (credit, fix, apology, process change)
+  - What ClearTelComCo will do (credit, fix, apology, process change)
   - What the customer can do if they remain unhappy (see Escalation below)
 - Send a written summary to the customer's registered email address
 - Log outcome in CRM as `COMPLAINT-RESOLVED` or `COMPLAINT-DEADLOCKED`
